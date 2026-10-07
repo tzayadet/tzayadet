@@ -1,13 +1,13 @@
 <!-- ═══ SECCIÓN: CABECERA TERMINAL Y BIENVENIDA === -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=70&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D..." /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=70&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5Btzayadet%5D..." /></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=C+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=I+get+shit+done;" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+BELLUM" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;tzayadet;VERITAS+EX+BELLUM" />
 </p>
 
 <!-- ═══ SECCIÓN: BADGES DE NAVEGACIÓN & ESTADO === -->
@@ -17,11 +17,11 @@
 
 <div align="center">
 
-[![GH](https://img.shields.io/badge/GH-root-000000?style=flat&logo=github&logoColor=00FF41&labelColor=0a0a0a)](https://github.com/Zyanetralys)
+[![GH](https://img.shields.io/badge/GH-root-000000?style=flat&logo=github&logoColor=00FF41&labelColor=0a0a0a)](https://github.com/tzayadet)
 [![IN](https://img.shields.io/badge/IN-secure-0A66C2?style=flat&logo=linkedin&logoColor=00FF41&labelColor=0d1b2a)](https://www.linkedin.com/in/mjmal/)
-[![ON](https://img.shields.io/badge/ON-stealth-00FF41?style=flat&logo=radio&logoColor=000000&labelColor=001100)](https://github.com/Zyanetralys)
-[![CW](https://img.shields.io/badge/CW-katas-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Zyanetralys)
-[![CTF](https://img.shields.io/badge/CTF-labs-7B2CBF?style=flat&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![ON](https://img.shields.io/badge/ON-stealth-00FF41?style=flat&logo=radio&logoColor=000000&labelColor=001100)](https://github.com/tzayadet)
+[![CW](https://img.shields.io/badge/CW-katas-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/tzayadet)
+[![CTF](https://img.shields.io/badge/CTF-labs-7B2CBF?style=flat&logo=hackthebox&logoColor=white)](https://github.com/tzayadet/CTF)
 
 </div>
 
@@ -30,7 +30,7 @@
 <p align="center">
   
   <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/Zyanetralys/profile/blob/main/wr.gif" alt="Tactical Asset" width="400" height="225" style="border: 2px solid #00FF41; border-radius: 8px;" />
+    <img src="https://github.com/tzayadet/profile/blob/main/wr.gif" alt="Tactical Asset" width="400" height="225" style="border: 2px solid #00FF41; border-radius: 8px;" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 ╔═════════════════════════════════════════════════════════════════════════════╗
 ║  █████████████████ RESTRICTED ACCESS █████████████████████████████████████  ║
 ║                                                                             ║
-║  CODE NAME: ZYANETRALYS              CLEARANCE: [PENDING]                   ║
+║  CODE NAME: tzayadet                 CLEARANCE: [PENDING]                   ║
 ║  UNIT: ████ CYBER DIVISION           STATUS: ACTIVE - MADRID                ║
 ║  SPECIALIZATION: SECURITY            THREAT LEVEL: ████                     ║
 ║  LOCATION: 40°24′40″N 3°40′57″W       LAST PING: [CLASSIFIED]               ║
@@ -61,7 +61,7 @@
 <div align="left">
   
 ╔══════════════════════════════════════════════════╗
-║               BY ZYANETRALYS                     ║
+║               BY tzayadet                        ║
 ╚══════════════════════════════════════════════════╝
 
   
@@ -80,11 +80,11 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/tzayadet/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+Zyanetralys@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+Zyanetralys+-+Session+Active." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+tzayadet@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+tzayadet+-+Session+Active." />
 </p>
 
 <div align="center">
@@ -133,15 +133,15 @@
 <!-- ═══ SECCIÓN: INTEL FILE #07 & BANNER CAPSULE === -->
 
 
-## 『 CLASSIFIED INTEL FILE #07: ZYANETRALYS 』
+## 『 CLASSIFIED INTEL FILE #07: tzayadet 』
 ![OMEGA PROTECTED](https://img.shields.io/badge/-Ω_Project-000000?style=for-the-badge&labelColor=050505&color=00FF41&logo=protonvpn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=400&pause=300&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=90&lines=$+init+neural_link+--protocol=matrix;%0A$+loading+identity+%5BZYANETRALYS%5D...+%5BOK%5D;%0A$+encryption:+AES-256+%7C+status:+SHADOW_MODE;%0A$+welcome+to+the+construct..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=400&pause=300&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=90&lines=$+init+neural_link+--protocol=matrix;%0A$+loading+identity+%5Btzayadet%5D...+%5BOK%5D;%0A$+encryption:+AES-256+%7C+status:+SHADOW_MODE;%0A$+welcome+to+the+construct..." />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=200&section=header&text=ZYANETRALYS&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=digital+ghost+%7C+code+runner+%7C+insight+seeker&descAlignY=65&descSize=18&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=200&section=header&text=tzayadet&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=digital+ghost+%7C+code+runner+%7C+insight+seeker&descAlignY=65&descSize=18&descAlign=50"/>
 </p>
 
 <!-- ═══ SECCIÓN: BIO & PERFIL CORTO === -->
@@ -154,11 +154,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
+<img src="https://raw.githubusercontent.com/tzayadet/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
 
 </div>
   
-  **👤 ZYANETRALYS**  
+  **👤 tzayadet**  
 `digital_ghost` • `code_runner` • `insight seeker`
 
 > *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*
@@ -340,50 +340,50 @@ Psychology Degree:
 <!-- ═══ SECCIÓN: PROVING GROUNDS (PLATAFORMAS CTF) === -->
 
 ## 『 PROVING GROUNDS 』
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zyanetralys)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/zyanetralys)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zyanetralys)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4D00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zyanetralys)
-[![HackerOne](https://img.shields.io/badge/HackerOne-1A1A1A?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/zyanetralys)
-[![RootMe](https://img.shields.io/badge/RootMe-FF6C37?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/zyanetralys)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-7CA90F?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/zyanetralys)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/zyanetralys)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/zyanetralys)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-EC3C3C?style=for-the-badge&logo=picocontest&logoColor=white)](https://picoctf.org/user/zyanetralys)
-[![TCMSec](https://img.shields.io/badge/TCMSec-FF0000?style=for-the-badge)](https://www.tcm-sec.com/zyanetralys)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/zyanetralys)
-[![Exercism](https://img.shields.io/badge/Exercism-2B6DC4?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/zyanetralys)
-[![Codingkraft](https://img.shields.io/badge/Codingkraft-4A90E2?style=for-the-badge)](https://codingkraft.com/zyanetralys)
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-4F46E5?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://boot.dev/u/zyanetralys)
-[![CodeWars](https://img.shields.io/badge/CodeWars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/zyanetralys)
-[![HackThisSite](https://img.shields.io/badge/HackThisSite-DB4C3F?style=for-the-badge&logo=hackthissite&logoColor=white)](https://www.hackthissite.org/user/zyanetralys)
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=underthewire&logoColor=white)](https://overthewire.org/zyanetralys)
-[![Pwn.college](https://img.shields.io/badge/Pwn.college-FF0000?style=for-the-badge)](https://pwn.college/user/zyanetralys)
-[![Hacker101](https://img.shields.io/badge/Hacker101-003D79?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hacker101.com/users/zyanetralys)
-[![DailyDev](https://img.shields.io/badge/DailyDev-22D3EE?style=for-the-badge&logo=dailydev&logoColor=white)](https://daily.dev/zyanetralys)
-[![CTF Time](https://img.shields.io/badge/CTF_Time-1E2D38?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/zyanetralys)
-[![Newsletter IY](https://img.shields.io/badge/Newsletter-IY-FF6F61?style=for-the-badge)](https://newsletter.iy/zyanetralys)
-[![VulnHub](https://img.shields.io/badge/VulnHub-8A2BE2?style=for-the-badge&logo=vulnhub&logoColor=white)](https://www.vulnhub.com/user/zyanetralys)
-[![PentesterLab](https://img.shields.io/badge/PentesterLab-1E90FF?style=for-the-badge&logo=pentesterlab&logoColor=white)](https://pentesterlab.com/profile/zyanetralys)
-[![ImmersiveLabs](https://img.shields.io/badge/ImmersiveLabs-FF6B35?style=for-the-badge&logo=immersivelabs&logoColor=white)](https://app.immersivelabs.com/users/zyanetralys)
-[![DockerLabs](https://img.shields.io/badge/DockerLabs-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.dockerlabs.com/zyanetralys)
-[![HackersLab](https://img.shields.io/badge/HackersLab-FF4500?style=for-the-badge)](https://hackerslab.com/zyanetralys)
-[![TheBo](https://img.shields.io/badge/TheBo-6A0DAD?style=for-the-badge)](https://thebo.io/zyanetralys)
-[![XSec](https://img.shields.io/badge/XSec-DC143C?style=for-the-badge)](https://xsec.io/zyanetralys)
-[![DragonJAR](https://img.shields.io/badge/DragonJAR-8B0000?style=for-the-badge)](https://dragonjar.org/zyanetralys)
-[![UnderC0de](https://img.shields.io/badge/UnderC0de-4B0082?style=for-the-badge)](https://underc0de.org/foro/memberlist.php?mode=viewprofile&u=zyanetralys)
-[![WomenIT](https://img.shields.io/badge/WomenIT-E91E63?style=for-the-badge)](https://womenit.es/zyanetralys)
-[![W4C](https://img.shields.io/badge/W4C-FF1493?style=for-the-badge)](https://w4c.es/zyanetralys)
-[![CyberRangers](https://img.shields.io/badge/CyberRangers-228B22?style=for-the-badge)](https://cyberrangers.eu/zyanetralys)
-[![EvilSec](https://img.shields.io/badge/EvilSec-8B0000?style=for-the-badge)](https://evils.ec/zyanetralys)
-[![Hackviser](https://img.shields.io/badge/Hackviser-4169E1?style=for-the-badge)](https://hackviser.com/zyanetralys)
-[![CTFLearn](https://img.shields.io/badge/CTFLearn-32CD32?style=for-the-badge)](https://ctflearn.com/user/zyanetralys)
-[![Google_CTF](https://img.shields.io/badge/Google_CTF-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://capturetheflag.withgoogle.com/zyanetralys)
-[![SANS_Holiday_Hack](https://img.shields.io/badge/SANS_Holiday_Hack-FF6600?style=for-the-badge)](https://holidayhackchallenge.com/zyanetralys)
-[![DefCon_CTF](https://img.shields.io/badge/DefCon_CTF-000000?style=for-the-badge)](https://ctf.defcon.org/zyanetralys)
-[![CyberSecLabs](https://img.shields.io/badge/CyberSecLabs-1E3A8A?style=for-the-badge)](https://www.cyberseclabs.co.uk/zyanetralys)
-[![Blue_Team_Labs](https://img.shields.io/badge/Blue_Team_Labs-00CED1?style=for-the-badge)](https://blueteamlabs.online/zyanetralys)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-00FF7F?style=for-the-badge)](https://cyberdefenders.org/p/zyanetralys)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tzayadet)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/tzayadet)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tzayadet)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4D00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tzayadet)
+[![HackerOne](https://img.shields.io/badge/HackerOne-1A1A1A?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/tzayadet)
+[![RootMe](https://img.shields.io/badge/RootMe-FF6C37?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/tzayadet)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-7CA90F?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/tzayadet)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/tzayadet)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tzayadet)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-EC3C3C?style=for-the-badge&logo=picocontest&logoColor=white)](https://picoctf.org/user/tzayadet)
+[![TCMSec](https://img.shields.io/badge/TCMSec-FF0000?style=for-the-badge)](https://www.tcm-sec.com/tzayadet)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/tzayadet)
+[![Exercism](https://img.shields.io/badge/Exercism-2B6DC4?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/tzayadet)
+[![Codingkraft](https://img.shields.io/badge/Codingkraft-4A90E2?style=for-the-badge)](https://codingkraft.com/tzayadet)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-4F46E5?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://boot.dev/u/tzayadet)
+[![CodeWars](https://img.shields.io/badge/CodeWars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/tzayadet)
+[![HackThisSite](https://img.shields.io/badge/HackThisSite-DB4C3F?style=for-the-badge&logo=hackthissite&logoColor=white)](https://www.hackthissite.org/user/tzayadet)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=underthewire&logoColor=white)](https://overthewire.org/tzayadet)
+[![Pwn.college](https://img.shields.io/badge/Pwn.college-FF0000?style=for-the-badge)](https://pwn.college/user/tzayadet)
+[![Hacker101](https://img.shields.io/badge/Hacker101-003D79?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hacker101.com/users/tzayadet)
+[![DailyDev](https://img.shields.io/badge/DailyDev-22D3EE?style=for-the-badge&logo=dailydev&logoColor=white)](https://daily.dev/tzayadet)
+[![CTF Time](https://img.shields.io/badge/CTF_Time-1E2D38?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/tzayadet)
+[![Newsletter IY](https://img.shields.io/badge/Newsletter-IY-FF6F61?style=for-the-badge)](https://newsletter.iy/tzayadet)
+[![VulnHub](https://img.shields.io/badge/VulnHub-8A2BE2?style=for-the-badge&logo=vulnhub&logoColor=white)](https://www.vulnhub.com/user/tzayadet)
+[![PentesterLab](https://img.shields.io/badge/PentesterLab-1E90FF?style=for-the-badge&logo=pentesterlab&logoColor=white)](https://pentesterlab.com/profile/tzayadet)
+[![ImmersiveLabs](https://img.shields.io/badge/ImmersiveLabs-FF6B35?style=for-the-badge&logo=immersivelabs&logoColor=white)](https://app.immersivelabs.com/users/tzayadet)
+[![DockerLabs](https://img.shields.io/badge/DockerLabs-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.dockerlabs.com/tzayadet)
+[![HackersLab](https://img.shields.io/badge/HackersLab-FF4500?style=for-the-badge)](https://hackerslab.com/tzayadet)
+[![TheBo](https://img.shields.io/badge/TheBo-6A0DAD?style=for-the-badge)](https://thebo.io/tzayadet)
+[![XSec](https://img.shields.io/badge/XSec-DC143C?style=for-the-badge)](https://xsec.io/tzayadet)
+[![DragonJAR](https://img.shields.io/badge/DragonJAR-8B0000?style=for-the-badge)](https://dragonjar.org/tzayadet)
+[![UnderC0de](https://img.shields.io/badge/UnderC0de-4B0082?style=for-the-badge)](https://underc0de.org/foro/memberlist.php?mode=viewprofile&u=tzayadet)
+[![WomenIT](https://img.shields.io/badge/WomenIT-E91E63?style=for-the-badge)](https://womenit.es/tzayadet)
+[![W4C](https://img.shields.io/badge/W4C-FF1493?style=for-the-badge)](https://w4c.es/tzayadet)
+[![CyberRangers](https://img.shields.io/badge/CyberRangers-228B22?style=for-the-badge)](https://cyberrangers.eu/tzayadet)
+[![EvilSec](https://img.shields.io/badge/EvilSec-8B0000?style=for-the-badge)](https://evils.ec/tzayadet)
+[![Hackviser](https://img.shields.io/badge/Hackviser-4169E1?style=for-the-badge)](https://hackviser.com/tzayadet)
+[![CTFLearn](https://img.shields.io/badge/CTFLearn-32CD32?style=for-the-badge)](https://ctflearn.com/user/tzayadet)
+[![Google_CTF](https://img.shields.io/badge/Google_CTF-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://capturetheflag.withgoogle.com/tzayadet)
+[![SANS_Holiday_Hack](https://img.shields.io/badge/SANS_Holiday_Hack-FF6600?style=for-the-badge)](https://holidayhackchallenge.com/tzayadet)
+[![DefCon_CTF](https://img.shields.io/badge/DefCon_CTF-000000?style=for-the-badge)](https://ctf.defcon.org/tzayadet)
+[![CyberSecLabs](https://img.shields.io/badge/CyberSecLabs-1E3A8A?style=for-the-badge)](https://www.cyberseclabs.co.uk/tzayadet)
+[![Blue_Team_Labs](https://img.shields.io/badge/Blue_Team_Labs-00CED1?style=for-the-badge)](https://blueteamlabs.online/tzayadet)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-00FF7F?style=for-the-badge)](https://cyberdefenders.org/p/tzayadet)
 
 ---
 
@@ -400,34 +400,34 @@ Psychology Degree:
 <div align="center">
 
 [![CTF Status](https://img.shields.io/badge/CTF_STATUS-ACTIVE_DEPLOYMENT-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)
-](https://github.com/Zyanetralys/CTF)
+](https://github.com/tzayadet/CTF)
 
 > *All CTF, pentesting, and security challenge content is for educational purposes only, conducted in authorized environments (TryHackMe, HackTheBox, VulnHub, etc.). No real-world systems were accessed without explicit permission.*
 
 ### **BATTLEFIELD ZONES**
 
-[![VulnHub](https://img.shields.io/badge/VulnHub-2_TARGETS_DOWN-FF6B35?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/Zyanetralys/CTF)
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-BANDIT_ACTIVE-00FF41?style=for-the-badge&logo=terminal&logoColor=black)](https://github.com/Zyanetralys/CTF)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-INTEL_GATHERING-7CA90F?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ROUTE_MAPPING-EC3C3C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/Zyanetralys/CTF)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-PREP_PHASE-000080?style=for-the-badge&logo=flag&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![VulnHub](https://img.shields.io/badge/VulnHub-2_TARGETS_DOWN-FF6B35?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/tzayadet/CTF)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-BANDIT_ACTIVE-00FF41?style=for-the-badge&logo=terminal&logoColor=black)](https://github.com/tzayadet/CTF)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-INTEL_GATHERING-7CA90F?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/tzayadet/CTF)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ROUTE_MAPPING-EC3C3C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/tzayadet/CTF)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-PREP_PHASE-000080?style=for-the-badge&logo=flag&logoColor=white)](https://github.com/tzayadet/CTF)
 
 ### **COMPLETED**
 
-[![Empire Breakout](https://img.shields.io/badge/🏴‍☠️_EMPIRE_BREAKOUT-COMPLETED-8B0000?style=for-the-badge&logo=skull&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/EmpireBreakout.md)
-[![The Planets Earth](https://img.shields.io/badge/🌍_THE_PLANETS_EARTH-SOLVED-2E8B57?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://github.com/Zyanetralys/CTF/blob/main/ThePlanetsEarh.md)
-[![Captain Linux](https://img.shields.io/badge/👨‍💻_CAPTAIN_LINUX-COMPLETED-FF4500?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/CaptainLinux.md)
+[![Empire Breakout](https://img.shields.io/badge/🏴‍☠️_EMPIRE_BREAKOUT-COMPLETED-8B0000?style=for-the-badge&logo=skull&logoColor=white&labelColor=000000)](https://github.com/tzayadet/CTF/blob/main/EmpireBreakout.md)
+[![The Planets Earth](https://img.shields.io/badge/🌍_THE_PLANETS_EARTH-SOLVED-2E8B57?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://github.com/tzayadet/CTF/blob/main/ThePlanetsEarh.md)
+[![Captain Linux](https://img.shields.io/badge/👨‍💻_CAPTAIN_LINUX-COMPLETED-FF4500?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)](https://github.com/tzayadet/CTF/blob/main/CaptainLinux.md)
 
 ### **CODING ARSENAL**
 
-[![CodeWars Python](https://img.shields.io/badge/⚔️_CODEWARS_PYTHON-COMBAT_READY-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/Codewars)
-[![Python Mastery](https://img.shields.io/badge/🐍_PYTHON_ADVANCED-SKILL_VERIFIED-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=306998)](https://github.com/Zyanetralys/Python)
-[![Lost at SQL](https://img.shields.io/badge/💾_LOST_AT_SQL-QUERIES_MASTERED-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Lost-at-SQL)
-[![SQL Police Dept](https://img.shields.io/badge/🚔_SQL_POLICE_DEPT-COMPLETED-DC143C?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Police-Department-exercises)
+[![CodeWars Python](https://img.shields.io/badge/⚔️_CODEWARS_PYTHON-COMBAT_READY-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000)](https://github.com/tzayadet/Codewars)
+[![Python Mastery](https://img.shields.io/badge/🐍_PYTHON_ADVANCED-SKILL_VERIFIED-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=306998)](https://github.com/tzayadet/Python)
+[![Lost at SQL](https://img.shields.io/badge/💾_LOST_AT_SQL-QUERIES_MASTERED-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://github.com/tzayadet/SQL-Lost-at-SQL)
+[![SQL Police Dept](https://img.shields.io/badge/🚔_SQL_POLICE_DEPT-COMPLETED-DC143C?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/tzayadet/SQL-Police-Department-exercises)
 
 ### 『 ACTIVE OPERATIONS 』
 
-[![OverTheWire Bandit](https://img.shields.io/badge/🔐_OVERTHEWIRE_BANDIT-IN_PROGRESS-FF6600?style=for-the-badge&logo=terminal&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/Bandit.md)
+[![OverTheWire Bandit](https://img.shields.io/badge/🔐_OVERTHEWIRE_BANDIT-IN_PROGRESS-FF6600?style=for-the-badge&logo=terminal&logoColor=white&labelColor=000000)](https://github.com/tzayadet/CTF/blob/main/Bandit.md)
 
 ![Ethics](https://img.shields.io/badge/ETHICAL_HACKING-ONLY-00FF41?style=for-the-badge&logo=shield&logoColor=black)
 ![Education](https://img.shields.io/badge/EDUCATIONAL_PURPOSE-VERIFIED-1E90FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
@@ -497,7 +497,7 @@ Psychology Degree:
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/takina.gif" width="130" height="130" style="border: 3px solid #00FF41; border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/tzayadet/profile/refs/heads/main/takina.gif" width="130" height="130" style="border: 3px solid #00FF41; border-radius: 50%;" />
 </p>
 
 ---
@@ -514,7 +514,7 @@ Psychology Degree:
 <tr>
 <td width="100%" align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zyanetralys&theme=react-dark&line=00FF41&point=FF6B35&area=true&hide_border=true&background=000000&color=00FF41)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=react-dark&line=00FF41&point=FF6B35&area=true&hide_border=true&background=000000&color=00FF41)
 
 </td>
 </tr>
@@ -524,23 +524,23 @@ Psychology Degree:
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyanetralys&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35&bg_color=000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35&bg_color=000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyanetralys&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41&background=000000)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyanetralys&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Zyanetralys&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3&title=Stars,Followers,Commits,PullRequest,Issues,Repositories)
+![Trophy](https://github-profile-trophy.vercel.app/?username=tzayadet&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3&title=Stars,Followers,Commits,PullRequest,Issues,Repositories)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF41/Zyanetralys" alt="Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/00FF41/tzayadet" alt="Contribution Calendar" />
 </p>
 
 <p align="center">
@@ -559,9 +559,9 @@ Psychology Degree:
 
 ### **OPERATIONAL METRICS**
 
-![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=00FF41&label=ALLIED%20OPERATIVES&logo=github&logoColor=black&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=FF6B35&label=MISSION%20STARS&logo=star&logoColor=white&labelColor=8B0000)
-![SURVEILLANCE](https://komarev.com/ghpvc/?username=Zyanetralys&color=FF0000&style=for-the-badge&label=SURVEILLANCE%20HITS&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/tzayadet?style=for-the-badge&color=00FF41&label=ALLIED%20OPERATIVES&logo=github&logoColor=black&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/tzayadet?style=for-the-badge&color=FF6B35&label=MISSION%20STARS&logo=star&logoColor=white&labelColor=8B0000)
+![SURVEILLANCE](https://komarev.com/ghpvc/?username=tzayadet&color=FF0000&style=for-the-badge&label=SURVEILLANCE%20HITS&labelColor=000000)
 
 > _**Intelligence Gathered — Digital Footprint Under Constant Monitoring**_  
 > _**Operational Security Status: MINIMUM STEALTH**_  
@@ -583,9 +583,9 @@ Psychology Degree:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/mjmal/)
-[![Stack Overflow](https://img.shields.io/badge/STACK_OVERFLOW-TECHNICAL_INTELLIGENCE_HUB-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41&labelColor=FF8C00)](https://stackoverflow.com/users/Zyanetralys)
-[![Medium](https://img.shields.io/badge/MEDIUM-DIGITAL_WRITINGS-00AB6C?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=000000)](https://medium.com/@zyanetralys)  
-[![GitHub](https://img.shields.io/badge/GitHub-Code_Warfare-181717?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000)](https://github.com/zyanetralys)
+[![Stack Overflow](https://img.shields.io/badge/STACK_OVERFLOW-TECHNICAL_INTELLIGENCE_HUB-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41&labelColor=FF8C00)](https://stackoverflow.com/users/tzayadet)
+[![Medium](https://img.shields.io/badge/MEDIUM-DIGITAL_WRITINGS-00AB6C?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=000000)](https://medium.com/@tzayadet)  
+[![GitHub](https://img.shields.io/badge/GitHub-Code_Warfare-181717?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000)](https://github.com/tzayadet)
 
 </div>
 
@@ -613,7 +613,7 @@ Psychology Degree:
 <td>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/faith.gif" width="400" height="600">
+  <img src="https://raw.githubusercontent.com/tzayadet/profile/refs/heads/main/faith.gif" width="400" height="600">
 </p>
 
 </td>
@@ -657,7 +657,7 @@ Psychology Degree:
 
 class CyberOperative:
     def __init__(self):
-        self.codename = "ZYANETRALYS"
+        self.codename = "tzayadet"
         self.status = "ACTIVE"
         self.specialization = ["Cybersecurity", "Behavioral Analysis", "Psychology"]
         self.commitment_level = 100
@@ -672,7 +672,7 @@ class CyberOperative:
         }
 
 operative = CyberOperative()
-print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
+print("🛡tzayadet READY FOR DIGITAL WARFARE")
 ```
 
   </div>
@@ -705,7 +705,7 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif" width="600" height="400">
+  <img src="https://raw.githubusercontent.com/tzayadet/profile/refs/heads/main/4f1n.gif" width="600" height="400">
 </p>
 
 <p align="center">
@@ -727,7 +727,7 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif" width="300" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/tzayadet/profile/refs/heads/main/mgs.gif" width="300" style="border-radius: 8px;" />
 </p>
 
 <div align="center">
