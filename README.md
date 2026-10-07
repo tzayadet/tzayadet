@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;tzayadet;VERITAS+EX+BELLUM" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;TZAYADET;VERITAS+EX+BELLUM" />
 </p>
 
 <!-- ═══ SECCIÓN: BADGES DE NAVEGACIÓN & ESTADO === -->
