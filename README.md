@@ -166,7 +166,7 @@
 - Explorando los límites entre **psicología, tecnología y seguridad**
 - Entrenando en **Python • Linux • Bash • Security Fundamentals**
 - Jugando en **CTFs • Labs • Challenge Platforms**
-- Practicando **Krav Maga • Gym • Juegos de estrategia**
+- Practicando **Krav Maga • Gym • Videojuegos**
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" /></p>
 
