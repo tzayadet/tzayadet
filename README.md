@@ -649,7 +649,7 @@ Psychology Degree:
 </p>
 
 <details>
-<summary> READY FOR DEPLOYMENT_ (just click 𝙝𝙚𝙧𝙚) </summary>
+<summary> READY FOR DEPLOYMENT_ </summary>
 
 <div align="left">
 
