@@ -104,7 +104,6 @@
 </table>
 
 <p align="center">
-  <sub>MORE BUILDS:</sub><br/>
   <a href="https://github.com/tzayadet/HoneyRecruitingCyber">HoneyRecruitingCyber</a> · 
   <a href="https://github.com/tzayadet/PassGen">PassGen</a> · 
   <a href="https://github.com/tzayadet/CV_Cyberplayer">CV Cyberplayer</a> · 
@@ -311,8 +310,6 @@ print(profile.summary())
 ---
 
 ## 『 SOUNDTRACK 』
-
-<p align="center"><sub>SELECTED SOUNDTRACK · ORIGINAL ARTWORK</sub></p>
 
 <table>
   <tr>
