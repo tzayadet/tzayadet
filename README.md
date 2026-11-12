@@ -236,10 +236,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/codecsnake.gif" width="360" alt="Snake animation"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/tzayadet?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=black&labelColor=050805"/>
   <img src="https://img.shields.io/github/stars/tzayadet?style=for-the-badge&color=FF6B35&label=STARS&logo=github&logoColor=white&labelColor=050805"/>
   <img src="https://komarev.com/ghpvc/?username=tzayadet&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=050805"/>
@@ -344,4 +340,9 @@ print(profile.summary())
 </p>
 
 <!-- Original artwork retained: wr.gif, kalilinux.gif, n1.gif, takina.gif, faith.gif, 4f1n.gif, mgs.gif -->
+<!-- Original Snake artwork, restored as a small footer element. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/snakejump.gif" width="220" alt="Original Snake animation"/>
+</p>
+
 <!-- No unfinished bootcamp, invented operational status, or generic player labels. -->
