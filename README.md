@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2200&pause=900&center=true&vCenter=true&width=800&color=00FF41&lines=VERITAS+EX+BELLUM;I+GET+SHIT+DONE;WELCOME+TO+MY+PROFILE" alt="Profile title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2200&pause=900&center=true&vCenter=true&width=800&color=00FF41&lines=VERITAS+EX+BELLUM;I+GET+SHIT+DONE;THOSE+WHO+SEEK+ALWAYS+FIND" alt="Profile title"/>
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 <table>
   <tr>
     <td width="78%" valign="middle">
-      <p><b>CYBERSECURITY ANALYST · SYSTEMS · PYTHON</b></p>
-      <p>Cybersecurity professional with a background in systems administration and security governance. Interested in offensive security, penetration testing, Red Team methodologies, Threat Intelligence, Cyber Intelligence and OSINT.</p>
-      <p>I build practical tools and interactive applications, using Python, scripting and technical analysis to investigate problems, automate tasks and turn ideas into working projects. My background in psychology and human resources adds a human-factors perspective to security.</p>
+      <p><b>CYBERSECURITY · SYSTEMS · SECURITY GOVERNANCE</b></p>
+      <p>Cybersecurity professional with experience across technical security, systems administration and GRC. My areas of interest include penetration testing, offensive security, Red Team, security testing, Threat Intelligence, Cyber Intelligence and OSINT.</p>
+      <p>Python is a key part of my toolkit for automation, analysis and building practical applications. I also work with Linux and Windows environments, networks, cloud technologies and security frameworks. My academic background in psychology and human resources brings an additional perspective to human factors, risk and security awareness.</p>
     </td>
     <td width="22%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="138" alt=""/>
@@ -38,9 +38,9 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-PENTESTING_%26_RED_TEAM-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/OFFENSIVE-PENTESTING_%2F_RED_TEAM-101010?style=flat-square&labelColor=050805&color=00FF41"/>
   <img src="https://img.shields.io/badge/INTELLIGENCE-THREAT_INTEL_%2F_OSINT-101010?style=flat-square&labelColor=050805&color=00FF41"/>
-  <img src="https://img.shields.io/badge/BUILD-PYTHON_%26_AUTOMATION-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/ENGINEERING-PYTHON_%2F_AUTOMATION-101010?style=flat-square&labelColor=050805&color=00FF41"/>
   <img src="https://img.shields.io/badge/GOVERNANCE-GRC_%2F_ISO_27001-101010?style=flat-square&labelColor=050805&color=00FF41"/>
 </p>
 
@@ -77,12 +77,22 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="C2-Lite"/></a>
+      <a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="C2-Lite"/></a>
       <p align="center"><b>C2-LITE</b><br/><sub>Educational command-and-control framework for controlled lab environments, with encrypted communication and task queues.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/CTF"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="CTF write-ups"/></a>
+      <a href="https://github.com/tzayadet/CTF"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ctf-labs.svg" width="100%" alt="CTF write-ups"/></a>
       <p align="center"><b>CTF · LAB NOTES</b><br/><sub>Practical exercises, notes and write-ups from security learning environments.</sub><br/><a href="https://github.com/tzayadet/CTF">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
+      <p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Browser-based utility for extracting and organising publicly exposed web assets.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/Cipher-Veil"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cipher-veil.svg" width="100%" alt="Cipher Veil"/></a>
+      <p align="center"><b>CIPHER VEIL</b><br/><sub>Interactive narrative project combining interface design, storytelling and browser-based mechanics.</sub><br/><a href="https://github.com/tzayadet/Cipher-Veil">SOURCE</a></p>
     </td>
   </tr>
 </table>
@@ -134,10 +144,10 @@
 
 <p align="center">
   <a href="https://github.com/tzayadet/HoneyRecruitingCyber">HoneyRecruitingCyber</a> ·
+  <a href="https://github.com/tzayadet/TacticalRecruiting">TacticalRecruiting</a> ·
   <a href="https://github.com/tzayadet/PassGen">PassGen</a> ·
   <a href="https://github.com/tzayadet/CV_Cyberplayer">CV Cyberplayer</a> ·
-  <a href="https://github.com/tzayadet/AnalizadorArchivos">Analizador de archivos</a> ·
-  <a href="https://github.com/tzayadet/TacticalRecruiting">TacticalRecruiting</a>
+  <a href="https://github.com/tzayadet/AnalizadorArchivos">Analizador de archivos</a>
 </p>
 
 ## 『 TECHNICAL STACK 』
@@ -147,34 +157,45 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <p align="center"><b>OFFENSIVE & SECURITY TESTING</b></p>
+      <p align="center"><b>OFFENSIVE SECURITY</b></p>
+      <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/kalilinux.gif" width="76" alt=""/></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Pentesting-111111?style=flat-square&logo=kalilinux&logoColor=00FF41"/>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square"/>
         <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
         <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
         <img src="https://img.shields.io/badge/ffuf-555555?style=flat-square"/>
         <img src="https://img.shields.io/badge/Gobuster-555555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/WFuzz-555555?style=flat-square"/>
         <img src="https://img.shields.io/badge/SQLMap-555555?style=flat-square"/>
         <img src="https://img.shields.io/badge/OpenVAS-4A7C59?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Hydra-555555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=flat-square"/>
       </p>
     </td>
     <td width="33%" valign="top">
-      <p align="center"><b>THREAT & NETWORK ANALYSIS</b></p>
+      <p align="center"><b>NETWORK · CLOUD · SYSTEMS</b></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Threat_Intelligence-6A5ACD?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OSINT-2E8B57?style=flat-square"/>
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
         <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square"/>
         <img src="https://img.shields.io/badge/Zeek-477A9F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square"/>
+        <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square"/>
       </p>
     </td>
     <td width="33%" valign="top">
-      <p align="center"><b>GRC & HUMAN FACTORS</b></p>
+      <p align="center"><b>GRC · INTELLIGENCE · HUMAN FACTORS</b></p>
       <p align="center">
         <img src="https://img.shields.io/badge/ISO_27001-1F6FEB?style=flat-square"/>
         <img src="https://img.shields.io/badge/ENS-0B7A75?style=flat-square"/>
         <img src="https://img.shields.io/badge/Risk_Management-555555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Threat_Intelligence-6A5ACD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OSINT-2E8B57?style=flat-square"/>
         <img src="https://img.shields.io/badge/Security_Awareness-4169E1?style=flat-square"/>
         <img src="https://img.shields.io/badge/Psychology-Human_Factors-8A2BE2?style=flat-square"/>
       </p>
@@ -185,8 +206,9 @@
 <p align="center"><b>DEVELOPMENT · AUTOMATION · INFRASTRUCTURE</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -249,20 +271,20 @@
 ## 『 GITHUB ACTIVITY 』
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FF41&text_color=E0FFE0&icon_color=00FF41&bg_color=050805" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=E0FFE0&bg_color=050805" height="165" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=default&hide_border=true&title_color=168A45&text_color=333333&icon_color=168A45&bg_color=FFFFFF" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=default&hide_border=true&title_color=168A45&text_color=333333&bg_color=FFFFFF" height="165" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=dark&hide_border=true&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&background=050805" width="70%" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=default&hide_border=true&stroke=168A45&ring=168A45&fire=E8792B&currStreakLabel=168A45&background=FFFFFF" width="70%" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=react-dark&line=00FF41&point=FF6B35&area=true&hide_border=true&bg_color=050805&color=00FF41" width="100%" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=minimal&line=168A45&point=E8792B&area=true&hide_border=true&bg_color=FFFFFF&color=333333" width="100%" alt="GitHub activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF41/tzayadet" width="100%" alt="GitHub contribution calendar"/>
+  <img src="https://ghchart.rshah.org/168A45/tzayadet" width="100%" alt="GitHub contribution calendar"/>
 </p>
 
 <p align="center">
@@ -307,11 +329,11 @@ class CybersecurityProfile:
     def __init__(self):
         self.handle = "tzayadet"
         self.focus = [
-            "Cybersecurity and GRC",
-            "Offensive security and security testing",
-            "Python automation and tooling",
-            "Threat intelligence and OSINT",
-            "Systems, networks and cloud security",
+            "Penetration testing and offensive security",
+            "Red Team methodologies and security testing",
+            "Threat intelligence, cyber intelligence and OSINT",
+            "Python automation and security tooling",
+            "Systems, networks, cloud security and GRC",
         ]
         self.background = [
             "Systems administration",
