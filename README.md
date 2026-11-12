@@ -236,6 +236,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/codecsnake.gif" width="100%" alt="GitHub contribution snake animation"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/tzayadet?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=black&labelColor=050805"/>
   <img src="https://img.shields.io/github/stars/tzayadet?style=for-the-badge&color=FF6B35&label=STARS&logo=github&logoColor=white&labelColor=050805"/>
   <img src="https://komarev.com/ghpvc/?username=tzayadet&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=050805"/>
@@ -322,12 +326,6 @@ print(profile.summary())
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://youtu.be/8evklFunGrI?si=C3-qW82Fw1uKyVbS">
-    <img src="https://img.youtube.com/vi/8evklFunGrI/hqdefault.jpg" width="38%" alt="Additional soundtrack cover"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
