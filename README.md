@@ -215,7 +215,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/AnalizadorArchivos"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/file-analyzer.svg" width="88%" alt="File Analyzer Pro"/></a></p>
-<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
+<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a> · <sub>GITHUB PAGES NOT YET PUBLISHED</sub></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="88%" alt="Integrity Checker"/></p>
@@ -318,7 +318,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="88%" alt="JSONL Detection Engine"/></a></p>
-<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
+<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a> · <a href="https://github.com/tzayadet/Pipeline-de-Logs/blob/main/README.md">DOCUMENTATION</a></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
@@ -327,7 +327,9 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 ### TRAINING, CTF & ACADEMIC WORK
 
 - [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
-- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests. [SHOWCASE SOURCE](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL/blob/main/docs/index.html) · PAGES SETUP PENDING.
+- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests. [SHOWCASE SOURCE](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL/blob/main/docs/index.html) · GitHub Pages not yet published.
+- [IaC Secret Scanner](https://github.com/tzayadet/Escaner-IaC) · Heuristic scanner for exposed credentials and private keys in infrastructure and configuration files. [SHOWCASE SOURCE](https://github.com/tzayadet/Escaner-IaC/blob/main/docs/index.html).
+- [JSONL Detection Engine](https://github.com/tzayadet/Pipeline-de-Logs) · YAML/regex rules applied to JSONL events; a compact detection-engineering prototype.
 - [SQL Police Department](https://github.com/tzayadet/SQL-Police-Department) · Personal SQL query solutions covering filtering, ordering, aggregation and result limits.
 - [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
 
