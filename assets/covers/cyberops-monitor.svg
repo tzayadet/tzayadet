@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="CYBEROPS project artwork">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="SOC Event Simulation Dashboard project artwork">
  <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030A09"/><stop offset=".54" stop-color="#07151B"/><stop offset="1" stop-color="#0B0C14"/></linearGradient>
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#304348" stroke-opacity=".35" stroke-width="1"/></pattern>
@@ -14,8 +14,8 @@
  <g opacity=".92"><circle fill="none" stroke="#00FF41" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" cx="700" cy="230" r="130"/><circle fill="none" stroke="#00FF41" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" cx="700" cy="230" r="70"/><path fill="none" stroke="#00FF41" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M700 230 L805 145M570 230H830M700 100V360"/><circle cx="755" cy="170" r="14" fill="#00FF41"/></g>
  <rect x="46" y="101" width="290" height="31" rx="5" fill="#00FF41" fill-opacity=".12" stroke="#00FF41" stroke-opacity=".65"/>
  <text x="61" y="122" font-family="monospace" font-size="15" letter-spacing="2" fill="#00FF41">PROJECT / WEB EXPERIENCE</text>
- <text x="46" y="201" font-family="monospace" font-size="53" font-weight="700" fill="#F1FFF6">CYBEROPS</text>
- <text x="46" y="248" font-family="monospace" font-size="22" fill="#00FF41">SECURITY MONITOR</text>
+ <text x="46" y="201" font-family="monospace" font-size="42" font-weight="700" fill="#F1FFF6">SOC EVENT</text>
+ <text x="46" y="248" font-family="monospace" font-size="22" fill="#00FF41">SIMULATION DASHBOARD</text>
  <path d="M46 282 H470" stroke="#00FF41" stroke-opacity=".55"/>
  <text x="46" y="323" font-family="monospace" font-size="17" fill="#B9CAC9">THREAT VISUALISATION</text>
  <text x="46" y="404" font-family="monospace" font-size="15" fill="#00FF41">[ SOURCE + WEB ]</text>
