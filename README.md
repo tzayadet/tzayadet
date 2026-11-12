@@ -26,17 +26,23 @@
 
 <table>
   <tr>
-    <td width="76%" valign="middle">
-      <p>
-        <b>Cybersecurity · Systems · Security Engineering</b><br/>
-        Security professional working across technical security and GRC, with a strong interest in offensive security, security testing, threat intelligence and OSINT. I use Python to automate, investigate and build practical tools. My background in psychology adds a human-factors perspective to the way I approach security.
-      </p>
+    <td width="78%" valign="middle">
+      <p><b>CYBERSECURITY ANALYST · SYSTEMS · PYTHON</b></p>
+      <p>Cybersecurity professional with a background in systems administration and security governance. Interested in offensive security, penetration testing, Red Team methodologies, Threat Intelligence, Cyber Intelligence and OSINT.</p>
+      <p>I build practical tools and interactive applications, using Python, scripting and technical analysis to investigate problems, automate tasks and turn ideas into working projects. My background in psychology and human resources adds a human-factors perspective to security.</p>
     </td>
-    <td width="24%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="138" alt="Original profile animation"/>
+    <td width="22%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="138" alt=""/>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-PENTESTING_%26_RED_TEAM-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/INTELLIGENCE-THREAT_INTEL_%2F_OSINT-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/BUILD-PYTHON_%26_AUTOMATION-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/GOVERNANCE-GRC_%2F_ISO_27001-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=780&lines=I+get+shit+done;Those+who+seek+always+find" alt=""/>
@@ -46,87 +52,104 @@
 
 ## 『 SELECTED PROJECTS 』
 
-<p align="center"><sub>INTERACTIVE BUILDS · SECURITY TOOLS · SIMULATIONS</sub></p>
-
-<!-- Web-build URLs follow the conventional GitHub Pages path. Verify publication in the repository Pages settings if a URL is not yet live. -->
+<p align="center"><sub>SECURITY ENGINEERING · INTERACTIVE APPLICATIONS · PERSONAL BUILDS</sub></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/soldierops.svg" width="100%" alt="SoldierOps repository card"/></a>
-      <p align="center"><b>TCU-01 · SOLDIEROPS</b><br/><sub>Tactical Companion Unit. A standalone interactive companion with a military terminal aesthetic.</sub><br/><a href="https://tzayadet.github.io/SoldierOps/">WEB BUILD</a> · <a href="https://github.com/tzayadet/SoldierOps">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
+      <p align="center"><b>OSINT CORRELATOR</b><br/><sub>DNS enrichment for domain and IP investigations, designed as an extensible starting point for OSINT workflows.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c4isr-gotchi.svg" width="100%" alt="C4ISR-Gotchi repository card"/></a>
-      <p align="center"><b>C4ISR-GOTCHI</b><br/><sub>A browser-based tactical simulation with virtual-pet mechanics and interactive systems.</sub><br/><a href="https://tzayadet.github.io/C4ISR-Gotchi/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/C4ISR-Gotchi">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Cyber-Recruit/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyber-recruit.svg" width="100%" alt="Cyber-Recruit repository card"/></a>
-      <p align="center"><b>CYBER-RECRUIT</b><br/><sub>Recruitment simulator concept focused on technical profiles, candidate assessment and selection workflows.</sub><br/><a href="https://tzayadet.github.io/Cyber-Recruit/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Cyber-Recruit">SOURCE</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps-Monitor repository card"/></a>
-      <p align="center"><b>CYBEROPS-MONITOR</b><br/><sub>Cyber operations interface and monitoring dashboard concept.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">WEB BUILD</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/Escaner-IaC"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/iac-scanner.svg" width="100%" alt="IaC Scanner"/></a>
+      <p align="center"><b>IaC SCANNER</b><br/><sub>Static checks for exposed secrets and misconfigurations in Terraform, YAML and JSON files.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Cipher-Veil/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cipher-veil.svg" width="100%" alt="Cipher-Veil repository card"/></a>
-      <p align="center"><b>CIPHER VEIL</b><br/><sub>Interactive cyber-fantasy narrative with a distinct visual identity and game mechanics.</sub><br/><a href="https://tzayadet.github.io/Cipher-Veil/">WEB BUILD</a> · <a href="https://github.com/tzayadet/Cipher-Veil">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic Toolkit"/></a>
+      <p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>Basic forensic utilities for metadata extraction, timeline creation and SHA-256 hashing.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="100%" alt="ENS Blackout repository card"/></a>
-      <p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS audit and learning platform based on security controls and assessment workflows.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">WEB BUILD</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Digimon/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/digimon.svg" width="100%" alt="Digimon repository card"/></a>
-      <p align="center"><b>DIGIVICE · GARURUMON LINE</b><br/><sub>Digital-pet project inspired by the Digimon device experience.</sub><br/><a href="https://tzayadet.github.io/Digimon/">WEB BUILD</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet-Gen repository card"/></a>
-      <p align="center"><b>PET-GEN</b><br/><sub>Virtual-pet generation experiment with an interactive browser interface.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">WEB BUILD</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/01-Honeypot-SSH"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot"/></a>
+      <p align="center"><b>SSH HONEYPOT</b><br/><sub>Isolated SSH honeypot lab for observing authentication attempts and recording events.</sub><br/><a href="https://github.com/tzayadet/01-Honeypot-SSH">SOURCE</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/OSINT-Asset-Extractor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor repository card"/></a>
-      <p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Browser-based utility for extracting and organising publicly exposed web assets.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB BUILD</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="C2-Lite"/></a>
+      <p align="center"><b>C2-LITE</b><br/><sub>Educational command-and-control framework for controlled lab environments, with encrypted communication and task queues.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker repository card"/></a>
-      <p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">WEB BUILD</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/CTF"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="CTF write-ups"/></a>
+      <p align="center"><b>CTF · LAB NOTES</b><br/><sub>Practical exercises, notes and write-ups from security learning environments.</sub><br/><a href="https://github.com/tzayadet/CTF">SOURCE</a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><b>INTERACTIVE APPLICATIONS</b></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/soldierops.svg" width="100%" alt="SoldierOps"/></a>
+      <p align="center"><b>TCU-01 · SOLDIEROPS</b><br/><sub>Interactive tactical companion with a military terminal aesthetic.</sub><br/><a href="https://tzayadet.github.io/SoldierOps/">WEB APP</a> · <a href="https://github.com/tzayadet/SoldierOps">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c4isr-gotchi.svg" width="100%" alt="C4ISR-Gotchi"/></a>
+      <p align="center"><b>C4ISR-GOTCHI</b><br/><sub>Browser-based tactical simulation with virtual-pet mechanics.</sub><br/><a href="https://tzayadet.github.io/C4ISR-Gotchi/">WEB APP</a> · <a href="https://github.com/tzayadet/C4ISR-Gotchi">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Cyber-Recruit/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyber-recruit.svg" width="100%" alt="Cyber-Recruit"/></a>
+      <p align="center"><b>CYBER-RECRUIT</b><br/><sub>Recruitment simulator exploring technical profiles, candidate assessment and selection workflows.</sub><br/><a href="https://tzayadet.github.io/Cyber-Recruit/">WEB APP</a> · <a href="https://github.com/tzayadet/Cyber-Recruit">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
+      <p align="center"><b>CYBEROPS MONITOR</b><br/><sub>Cyber operations interface and monitoring dashboard concept.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">WEB APP</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="100%" alt="ENS Blackout"/></a>
+      <p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS audit and learning platform focused on security controls.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">WEB APP</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Digimon/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/digimon.svg" width="100%" alt="Digivice"/></a>
+      <p align="center"><b>DIGIVICE</b><br/><sub>Digital-pet project inspired by the Digimon device experience.</sub><br/><a href="https://tzayadet.github.io/Digimon/">WEB APP</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet-Gen"/></a>
+      <p align="center"><b>PET-GEN</b><br/><sub>Virtual-pet generation experiment with an interactive browser interface.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">WEB APP</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
+      <p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">WEB APP</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/tzayadet/HoneyRecruitingCyber">HoneyRecruitingCyber</a> · 
-  <a href="https://github.com/tzayadet/PassGen">PassGen</a> · 
-  <a href="https://github.com/tzayadet/CV_Cyberplayer">CV Cyberplayer</a> · 
-  <a href="https://github.com/tzayadet/AnalizadorArchivos">Analizador de archivos</a>
+  <a href="https://github.com/tzayadet/HoneyRecruitingCyber">HoneyRecruitingCyber</a> ·
+  <a href="https://github.com/tzayadet/PassGen">PassGen</a> ·
+  <a href="https://github.com/tzayadet/CV_Cyberplayer">CV Cyberplayer</a> ·
+  <a href="https://github.com/tzayadet/AnalizadorArchivos">Analizador de archivos</a> ·
+  <a href="https://github.com/tzayadet/TacticalRecruiting">TacticalRecruiting</a>
 </p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JrcXRqMDJ4YmpqM2l0dW92bHRtYmFrMnQxa3owYzRybmtmMDA4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif" width="180" alt="Animated project artwork"/>
-</p>
-
----
 
 ## 『 TECHNICAL STACK 』
+
+<p align="center"><sub>PYTHON FIRST · SECURITY TOOLING · SYSTEMS & CLOUD</sub></p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <p align="center"><b>SECURITY & OFFENSIVE</b></p>
+      <p align="center"><b>OFFENSIVE & SECURITY TESTING</b></p>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/tzayadet/profile/main/kalilinux.gif" width="76" alt="Kali Linux animation"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pentesting-111111?style=flat-square&logo=kalilinux&logoColor=00FF41"/>
         <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square"/>
         <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
         <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
@@ -134,29 +157,16 @@
         <img src="https://img.shields.io/badge/Gobuster-555555?style=flat-square"/>
         <img src="https://img.shields.io/badge/SQLMap-555555?style=flat-square"/>
         <img src="https://img.shields.io/badge/OpenVAS-4A7C59?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Zeek-477A9F?style=flat-square"/>
       </p>
     </td>
     <td width="33%" valign="top">
-      <p align="center"><b>DEVELOPMENT & INFRA</b></p>
+      <p align="center"><b>THREAT & NETWORK ANALYSIS</b></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Threat_Intelligence-6A5ACD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OSINT-2E8B57?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Zeek-477A9F?style=flat-square"/>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -165,14 +175,31 @@
         <img src="https://img.shields.io/badge/ISO_27001-1F6FEB?style=flat-square"/>
         <img src="https://img.shields.io/badge/ENS-0B7A75?style=flat-square"/>
         <img src="https://img.shields.io/badge/Risk_Management-555555?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Threat_Intelligence-6A5ACD?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OSINT-2E8B57?style=flat-square"/>
         <img src="https://img.shields.io/badge/Security_Awareness-4169E1?style=flat-square"/>
         <img src="https://img.shields.io/badge/Psychology-Human_Factors-8A2BE2?style=flat-square"/>
       </p>
     </td>
   </tr>
 </table>
+
+<p align="center"><b>DEVELOPMENT · AUTOMATION · INFRASTRUCTURE</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="58" alt="Python"/>
@@ -190,20 +217,20 @@
 
 <table>
   <tr>
-    <td width="25%"><b> BATTLEFIELD ZONES </b></td>
+    <td width="28%"><b>PLATFORMS</b></td>
     <td>TryHackMe · Hack The Box · VulnHub · OverTheWire · PicoCTF</td>
   </tr>
   <tr>
-    <td><b> COMPLETED </b></td>
-    <td>Empire Breakout · The Planets Earth · Captain Linux</td>
+    <td><b>LAB PRACTICE</b></td>
+    <td>Linux environments · enumeration · web security · network analysis</td>
   </tr>
   <tr>
-    <td><b> CODING ARSENAL </b></td>
-    <td>Python · SQL · Bash · Codewars · automation scripts</td>
+    <td><b>CODING</b></td>
+    <td>Python · SQL · Bash · PowerShell · Codewars · automation</td>
   </tr>
   <tr>
-    <td><b> ACTIVE OPERATIONS </b></td>
-    <td>Bandit · CTF write-ups · security labs · practical tooling</td>
+    <td><b>WRITE-UPS</b></td>
+    <td><a href="https://github.com/tzayadet/CTF">CTF notes and practical write-ups</a></td>
   </tr>
 </table>
 
