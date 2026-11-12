@@ -327,7 +327,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 ### TRAINING, CTF & ACADEMIC WORK
 
 - [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
-- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests. [SHOWCASE SOURCE](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL/blob/main/docs/index.html) · GitHub Pages not yet published.
+- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests. [SHOWCASE SOURCE](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL/blob/main/docs/index.html) · <sub>GITHUB PAGES NOT YET PUBLISHED</sub>.
 - [IaC Secret Scanner](https://github.com/tzayadet/Escaner-IaC) · Heuristic scanner for exposed credentials and private keys in infrastructure and configuration files. [SHOWCASE SOURCE](https://github.com/tzayadet/Escaner-IaC/blob/main/docs/index.html).
 - [JSONL Detection Engine](https://github.com/tzayadet/Pipeline-de-Logs) · YAML/regex rules applied to JSONL events; a compact detection-engineering prototype.
 - [SQL Police Department](https://github.com/tzayadet/SQL-Police-Department) · Personal SQL query solutions covering filtering, ordering, aggregation and result limits.
