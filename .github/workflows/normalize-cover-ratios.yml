@@ -33,16 +33,16 @@ jobs:
 
           for path in sorted(root.glob("*.svg")):
               text = path.read_text(encoding="utf-8")
-              match = re.search(r"<svg\\b[^>]*>", text, flags=re.I | re.S)
+              match = re.search(r"<svg\b[^>]*>", text, flags=re.I | re.S)
               if not match:
                   print(f"SKIP {path}: missing SVG root")
                   continue
 
               tag = match.group(0)
               attrs = tag[4:-1]
-              attrs = re.sub(r'\\s+width=(["\']).*?\\1', '', attrs, flags=re.S)
-              attrs = re.sub(r'\\s+height=(["\']).*?\\1', '', attrs, flags=re.S)
-              attrs = re.sub(r'\\s+preserveAspectRatio=(["\']).*?\\1', '', attrs, flags=re.S)
+              attrs = re.sub(r'\s+width=(["\']).*?\1', '', attrs, flags=re.S)
+              attrs = re.sub(r'\s+height=(["\']).*?\1', '', attrs, flags=re.S)
+              attrs = re.sub(r'\s+preserveAspectRatio=(["\']).*?\1', '', attrs, flags=re.S)
               new_tag = f'<svg{attrs} width="{target_w}" height="{target_h}" preserveAspectRatio="xMidYMid meet">'
               updated = text[:match.start()] + new_tag + text[match.end():]
 
