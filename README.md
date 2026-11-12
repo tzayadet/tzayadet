@@ -75,7 +75,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="100%" alt="Tactical Recruiting"/>
-<p align="center"><b>TACTICAL RECRUITING</b><br/><sub>IT talent-management prototype with candidate and vacancy workflows, technical-stack matching, CV handling and R/S/T evaluation scoring. Public Python/SQLite source; isolated browser demo with synthetic records.</sub><br/><a href="https://github.com/tzayadet/TacticalRecruiting">SOURCE</a> · <a href="https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo">DEMO FILES</a> · <sub>GITHUB PAGES NOT YET ENABLED</sub></p>
+<p align="center"><b>TACTICAL RECRUITING | IT TALENT OPERATIONS</b><br/><sub>IT talent-management prototype with candidate and vacancy workflows, technical-stack matching, CV handling and R/S/T evaluation scoring. Public Python/SQLite source; isolated browser demo with synthetic records.</sub><br/><a href="https://github.com/tzayadet/TacticalRecruiting">SOURCE</a> · <a href="https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo">DEMO FILES</a> · <sub>GITHUB PAGES NOT YET ENABLED</sub></p>
 </td>
 </tr>
 <tr>
@@ -144,8 +144,8 @@ Projects focused on building applications, interfaces, utilities and automation 
 <p align="center"><b>K-9 TACTICAL COMPANION · LOBITO</b><br/><sub>Interactive canine companion built with Canvas and real-time browser interaction.</sub><br/><a href="https://tzayadet.github.io/Lobito/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Lobito">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
-<p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library prototype. React/TypeScript frontend build and Java 17/Spring Boot Maven verification pass; authentication and end-to-end integration remain in development.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">STATIC PREVIEW</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
+<a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="Game Library & Progress Tracker"/></a>
+<p align="center"><b>GAME LIBRARY &amp; PROGRESS TRACKER</b><br/><sub>Personal game-library prototype. React/TypeScript frontend build and Java 17/Spring Boot Maven verification pass; authentication and end-to-end integration remain in development.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">STATIC PREVIEW</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
 </td>
 </tr>
 <tr>
@@ -217,12 +217,12 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/HoneyRecruitingCyber"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/honey-recruiting.svg" width="100%" alt="Honey Recruiting Cyber"/></a>
-<p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. A static overview is published; the Flask backend runs separately. Conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">PROJECT OVERVIEW</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
+<a href="https://github.com/tzayadet/HoneyRecruitingCyber"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/honey-recruiting.svg" width="100%" alt="HoneyRecruiting Cyber Assessment Lab"/></a>
+<p align="center"><b>HONEYRECRUITING CYBER ASSESSMENT LAB</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. A static overview is published; the Flask backend runs separately. Conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">PROJECT OVERVIEW</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
-<p align="center"><b>CYBEROPS MONITOR</b><br/><sub>SOC-style dashboard simulator with synthetic events and a separately runnable Java/Spring SSE backend. It does not process real telemetry or produce live detections.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
+<a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="SOC Event Simulation Dashboard"/></a>
+<p align="center"><b>SOC EVENT SIMULATION DASHBOARD</b><br/><sub>SOC-style dashboard simulator with synthetic events and a separately runnable Java/Spring SSE backend. It does not process real telemetry or produce live detections.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
 </td>
 </tr>
 <tr>
@@ -252,8 +252,8 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
-<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled downloads. The browser experiment uses direct CORS-enabled requests and a locally hosted ZIP library; it does not use third-party CORS proxies.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+<a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Collection Workbench"/></a>
+<p align="center"><b>OSINT ASSET COLLECTION WORKBENCH</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled downloads. The browser experiment uses direct CORS-enabled requests and a locally hosted ZIP library; it does not use third-party CORS proxies.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
