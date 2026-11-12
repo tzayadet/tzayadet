@@ -309,8 +309,6 @@ print(profile.summary())
 
 ---
 
-## 『 SOUNDTRACK 』
-
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
 
 <p align="center">
