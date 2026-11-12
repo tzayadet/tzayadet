@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030909"/><stop offset=".55" stop-color="#0A1518"/><stop offset="1" stop-color="#10101A"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#55706C" stroke-opacity=".22"/></pattern>
+  <radialGradient id="glow"><stop stop-color="#49A6FF" stop-opacity=".22"/><stop offset="1" stop-color="#49A6FF" stop-opacity="0"/></radialGradient>
+ </defs>
+ <rect width="900" height="430" rx="16" fill="url(#bg)"/><rect width="900" height="430" fill="url(#grid)"/>
+ <rect x="12" y="12" width="876" height="406" rx="10" fill="none" stroke="#49A6FF" stroke-opacity=".65" stroke-width="2"/>
+ <path d="M12 55H888" stroke="#49A6FF" stroke-opacity=".4"/>
+ <circle cx="38" cy="34" r="6" fill="#FD5F57"/><circle cx="59" cy="34" r="6" fill="#FDBC2E"/><circle cx="80" cy="34" r="6" fill="#29C840"/>
+ <text x="110" y="40" fill="#A8BBB5" font-family="monospace" font-size="16">tzayadet@security-labs:~/tools</text>
+ <circle cx="690" cy="238" r="210" fill="url(#glow)"/>
+ <g fill="none" stroke="#49A6FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><path d="M585 135H535V185M795 135H845V185M535 285V335H585M845 285V335H795"/><path d="M570 235H810M620 190H760M620 280H760"/></g>
+ <rect x="45" y="105" width="310" height="30" rx="4" fill="#49A6FF" fill-opacity=".12" stroke="#49A6FF" stroke-opacity=".55"/>
+ <text x="59" y="126" font-family="monospace" font-size="14" letter-spacing="2" fill="#49A6FF">SECURITY ENGINEERING / LAB</text>
+ <text x="45" y="205" font-family="monospace" font-size="40" font-weight="bold" fill="#F2FFF7">IAC SCANNER</text>
+ <text x="45" y="250" font-family="monospace" font-size="17" fill="#49A6FF">SECRETS · MISCONFIGURATIONS · CI/CD</text>
+ <path d="M45 280H455" stroke="#49A6FF" stroke-opacity=".5"/>
+ <text x="45" y="325" font-family="monospace" font-size="15" fill="#B9CAC4">PYTHON · SECURITY TOOLS · PRACTICAL LABS</text>
+ <text x="45" y="382" font-family="monospace" font-size="13" fill="#49A6FF">SOURCE / GITHUB</text>
+ </svg>
