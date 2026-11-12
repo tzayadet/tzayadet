@@ -234,10 +234,10 @@ Projects focused on building applications, interfaces, utilities and automation 
 ### PROGRAMMING LEARNING & PRACTICE
 
 - [Development project index](https://github.com/tzayadet/Desarrollo) · Directory of standalone programming projects and their demos; historical copies are archival only.
-- [Python Projects](https://github.com/tzayadet/Python) · Python utilities, desktop applications and automation. Includes the [document comparator](https://github.com/tzayadet/Python/blob/main/comparador_documentos.py) and [Python-to-EXE GUI](https://github.com/tzayadet/Python/blob/main/python_to_exe_gui.py).
-- [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented programming and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM).
-- [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice.
-- [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions.
+- [Python Projects](https://github.com/tzayadet/Python) · Python utilities, desktop applications and automation. [Project showcase](https://tzayadet.github.io/Python/) · Includes the [document comparator](https://github.com/tzayadet/Python/blob/main/comparador_documentos.py) and [Python-to-EXE GUI](https://github.com/tzayadet/Python/blob/main/python_to_exe_gui.py).
+- [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented programming and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM). [Project showcase](https://tzayadet.github.io/Java/).
+- [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice. [Police Department exercises](https://github.com/tzayadet/SQL-Police-Department) · [Lost at SQL solutions](https://github.com/tzayadet/SQL-Lost-at-SQL).
+- [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions. [Solution showcase](https://tzayadet.github.io/Codewars/).
 - [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice.
 - [Web Audio & Interactive Experiments](https://github.com/tzayadet/JavaScript) · Browser-based audio synthesis, interfaces and JavaScript experiments.
 
