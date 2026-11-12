@@ -46,11 +46,24 @@
 
 ---
 
-## 『 SELECTED PROJECTS 』
+## 『 PROJECT PORTFOLIO 』
 
-<p align="center"><sub>DEPLOYED WEB APPS · DESKTOP SOFTWARE · CYBERSECURITY · GRC · AUTOMATION</sub></p>
+<p align="center"><sub>TWO COMPLEMENTARY TRACKS · SOFTWARE DEVELOPMENT & CYBERSECURITY</sub></p>
 
-### 『 FEATURED APPLICATIONS 』
+<p align="center">
+  <a href="#-software-development-"><img src="https://img.shields.io/badge/01-SOFTWARE_DEVELOPMENT-1565C0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Development"/></a>
+  <a href="#-cybersecurity-"><img src="https://img.shields.io/badge/02-CYBERSECURITY-00A86B?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/></a>
+</p>
+
+---
+
+## 『 01 · SOFTWARE DEVELOPMENT 』
+
+<p align="center"><sub>WEB APPLICATIONS · DESKTOP SOFTWARE · PYTHON · JAVA · JAVASCRIPT · AUTOMATION</sub></p>
+
+Projects focused on building applications, interfaces, utilities and automation workflows. Security-related products are classified by their primary purpose in the Cybersecurity section.
+
+### WEB APPLICATIONS & INTERACTIVE PRODUCTS
 
 <table>
 <tr>
@@ -59,161 +72,40 @@
 <p align="center"><b>NEXUS VIEWER</b><br/><sub>Browser-based workspace for writing and previewing HTML, Markdown and JavaScript, with a live rendering panel and console.</sub><br/><a href="https://tzayadet.github.io/visor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/visor">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/HoneyRecruitingCyber"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/honey-recruiting.svg" width="100%" alt="Honey Recruiting Cyber"/></a>
-<p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. Simulates a technical forum where conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">PROJECT OVERVIEW</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="100%" alt="Tactical Recruiting"/>
 <p align="center"><b>TACTICAL RECRUITING · ALVATROSS</b><br/><sub>IT talent-management application with candidate and vacancy records, technical-stack matching, CV handling, recruitment workflows and R/S/T evaluation scoring. Includes a browser demo and a Python/SQLite application.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/PassGen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pass-generator.svg" width="100%" alt="Pass Generator"/></a>
 <p align="center"><b>PASS://GENERATOR</b><br/><sub>Client-side password generator using the Web Crypto API. Configurable length, character pools, ambiguity exclusions, bulk generation, clipboard copy and TXT export.</sub><br/><a href="https://tzayadet.github.io/PassGen/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/PassGen">SOURCE</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/CV_Cyberplayer/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cv-cyberplayer.svg" width="100%" alt="CV Cyberplayer"/></a>
 <p align="center"><b>CV CYBERPLAYER</b><br/><sub>Interactive cybersecurity portfolio and CV with a custom terminal interface, animated elements, audio controls and an embedded operations-style monitor.</sub><br/><a href="https://tzayadet.github.io/CV_Cyberplayer/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CV_Cyberplayer">SOURCE</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/HTML2PDF/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/html-to-pdf.svg" width="100%" alt="HTML to PDF"/></a>
 <p align="center"><b>HTML → PDF · BATCH CONVERTER</b><br/><sub>Browser-based local document converter. Supports HTML, Markdown, files and URL queues, batch processing, continuous-page layouts, metadata removal, watermarks, merging and selectable/searchable PDF output modes.</sub><br/><a href="https://tzayadet.github.io/HTML2PDF/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/HTML2PDF">SOURCE</a></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
-<p align="center"><b>CYBEROPS MONITOR</b><br/><sub>SOC-style threat-intelligence and security-monitoring simulator with IOC scoring, dashboard visualisation and Java/Spring components.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="100%" alt="ENS Blackout"/></a>
-<p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS security-control audit and learning environment.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/riskalyst-pro.svg" width="100%" alt="RiskAlyst Professional"/>
-<p align="center"><b>RISKALYST PROFESSIONAL</b><br/><sub>GRC and risk-management workspace aligned with MAGERIT v3, ENS and NIS2. Includes asset inventory, threat catalogue, risk maps, residual-risk assessment, safeguards and executive reporting.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="ENS Implementation Terminal"/>
-<p align="center"><b>ENS IMPLEMENTATION TERMINAL</b><br/><sub>Practical ENS implementation workflow covering scope, categorisation, risk analysis, measures, Statement of Applicability and compliance follow-up. Local browser storage with backup/export support.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
-</td>
-</tr>
-</table>
-
-### 『 MORE INTERACTIVE APPLICATIONS 』
-
-<table>
-<tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet Widget Generator"/></a>
 <p align="center"><b>PET WIDGET GENERATOR</b><br/><sub>Configurable virtual companion with care mechanics, progression, achievements and exportable HTML widget.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/rpaas.svg" width="100%" alt="RPaaS"/></a>
 <p align="center"><b>RPaaS · AFFIRMATIVE RESPONSE ENGINE</b><br/><sub>Small browser experiment for generating procedural responses with a terminal-style typewriter effect.</sub><br/><a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine">SOURCE</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/AutoClick_Navegador"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/auto-load-more.svg" width="100%" alt="Browser automation utilities"/></a>
 <p align="center"><b>BROWSER AUTOMATION UTILITIES</b><br/><sub>Small JavaScript utilities for automating repetitive page interactions and expanding paginated content.</sub><br/><a href="https://github.com/tzayadet/AutoClick_Navegador">SOURCE</a></p>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/rosetta_multinorma"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="Rosetta Multinorma"/></a>
-<p align="center"><b>ROSETTA MULTINORMA</b><br/><sub>Multinorm compliance mapping for ENS, ISO/IEC 27001, NIS2 and ISO/IEC 42001. Fork of the original project by heindall92.</sub><br/><a href="https://heindall92.github.io/rosetta_multinorma/">LIVE DEMO · UPSTREAM</a> · <a href="https://github.com/tzayadet/rosetta_multinorma">FORK</a></p>
-</td>
 </tr>
-</table>
-
-### 『 RESEARCH & COMMUNITY REPOSITORIES 』
-
-<p align="center"><sub>Selected external projects and reference repositories are identified as forks; they are not presented as original implementations.</sub></p>
-
-- [Malware Research Hub](https://github.com/tzayadet/Malware-Research-Hub) · Forked research catalogue and local Flask interface. Handle samples only in isolated lab environments.
-- [Claude OSINT](https://github.com/tzayadet/Claude-OSINT) · Fork of an OSINT skills collection. Original author: [elementalsouls](https://github.com/elementalsouls).
-- [Cybersecurity Projects](https://github.com/tzayadet/Cybersecurity-Projects) · Forked learning roadmap and project collection. Original author: [CarterPerez-dev](https://github.com/CarterPerez-dev).
-- [PayloadsAllTheThings](https://github.com/tzayadet/PayloadsAllTheThings) · Fork of the reference repository by [swisskyrepo](https://github.com/swisskyrepo).
-
----
-
-### 『 DESKTOP SOFTWARE & LOCAL AUTOMATION 』
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="100%" alt="Matrix Downloader"/></a>
-<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings and a portable Windows build workflow.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="100%" alt="Transcriptor Matrix"/>
-<p align="center"><b>TRANSCRIPTOR MATRIX</b><br/><sub>Local audio/video transcription desktop application powered by OpenAI Whisper. Runs on the user's machine without per-minute API fees; supports transcription or English translation and TXT, SRT, VTT and JSON exports.</sub><br/><sub>PRIVATE REPOSITORY</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/AnalizadorArchivos"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/file-analyzer.svg" width="100%" alt="File Analyzer Pro"/></a>
-<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a></p>
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="100%" alt="Integrity Checker"/>
-<p align="center"><b>INTEGRITY CHECKER</b><br/><sub>Python desktop application for validating file and video integrity through structural container checks, full FFmpeg decoding, MD5/SHA-1/SHA-256 hashes and expected-size comparison. Exports CSV and TXT reports.</sub><br/><sub>PRIVATE REPOSITORY</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/GameTranslator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-translator.svg" width="100%" alt="Game Translator"/></a>
-<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python utility for extracting and translating game dialogue files, applying language patches and maintaining automatic backups and restore support.</sub><br/><a href="https://github.com/tzayadet/GameTranslator">SOURCE</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
-<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled download options.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
-</td>
-</tr>
-</table>
-
-### 『 SECURITY ENGINEERING & RESEARCH 』
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
-<p align="center"><b>OSINT CORRELATOR</b><br/><sub>DNS enrichment and correlation for domain and IP investigations.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/Escaner-IaC"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/iac-scanner.svg" width="100%" alt="IaC Scanner"/></a>
-<p align="center"><b>IaC SCANNER</b><br/><sub>Static checks for exposed secrets and misconfigurations in Terraform, YAML and JSON files.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic Toolkit"/></a>
-<p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>Forensic utilities for metadata extraction, timeline creation and SHA-256 hashing.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/01-Honeypot-SSH"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot"/></a>
-<p align="center"><b>SSH HONEYPOT</b><br/><sub>Isolated SSH honeypot lab for observing authentication attempts and recording events.</sub><br/><a href="https://github.com/tzayadet/01-Honeypot-SSH">SOURCE</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="C2 Lite"/></a>
-<p align="center"><b>C2-LITE</b><br/><sub>Educational command-and-control framework for controlled lab environments.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="100%" alt="Log Pipeline"/></a>
-<p align="center"><b>LOG PIPELINE</b><br/><sub>Python log-processing and detection pipeline with JSON parsing and Sigma-inspired rules.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
-</td>
-</tr>
-</table>
-
-### 『 ADDITIONAL WEB & INTERACTIVE PROJECTS 』
-
-<table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/Cyber-Recruit/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyber-recruit.svg" width="100%" alt="Cyber Recruit"/></a>
@@ -266,18 +158,151 @@
 </tr>
 </table>
 
-<p align="center"><sub>More repositories: <a href="https://github.com/tzayadet/TFM-Ciberseguridad">Cybersecurity Master's Project</a> · <a href="https://github.com/tzayadet/CTF">CTF Labs</a> · <a href="https://github.com/tzayadet/Desarrollo">Development</a> · <a href="https://github.com/tzayadet/Learning-Journey">Learning Journey</a></sub></p>
+### DESKTOP SOFTWARE & AUTOMATION
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="100%" alt="Matrix Downloader"/></a>
+<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings and a portable Windows build workflow.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="100%" alt="Transcriptor Matrix"/>
+<p align="center"><b>TRANSCRIPTOR MATRIX</b><br/><sub>Local audio/video transcription desktop application powered by OpenAI Whisper. Runs on the user's machine without per-minute API fees; supports transcription or English translation and TXT, SRT, VTT and JSON exports.</sub><br/><sub>PRIVATE REPOSITORY</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/AnalizadorArchivos"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/file-analyzer.svg" width="100%" alt="File Analyzer Pro"/></a>
+<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="100%" alt="Integrity Checker"/>
+<p align="center"><b>INTEGRITY CHECKER</b><br/><sub>Python desktop application for validating file and video integrity through structural container checks, full FFmpeg decoding, MD5/SHA-1/SHA-256 hashes and expected-size comparison. Exports CSV and TXT reports.</sub><br/><sub>PRIVATE REPOSITORY</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/GameTranslator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-translator.svg" width="100%" alt="Game Translator"/></a>
+<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python utility for extracting and translating game dialogue files, applying language patches and maintaining automatic backups and restore support.</sub><br/><a href="https://github.com/tzayadet/GameTranslator">SOURCE</a></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ---
 
+## 『 02 · CYBERSECURITY 』
+
+<p align="center"><sub>OFFENSIVE SECURITY · OSINT · SECURITY ENGINEERING · GRC · THREAT INTELLIGENCE</sub></p>
+
+Projects focused on security assessment, intelligence, defensive engineering, compliance and controlled security research.
+
+### SECURITY OPERATIONS, GRC & COMPLIANCE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/HoneyRecruitingCyber"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/honey-recruiting.svg" width="100%" alt="Honey Recruiting Cyber"/></a>
+<p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. Simulates a technical forum where conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">PROJECT OVERVIEW</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
+<p align="center"><b>CYBEROPS MONITOR</b><br/><sub>SOC-style threat-intelligence and security-monitoring simulator with IOC scoring, dashboard visualisation and Java/Spring components.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="100%" alt="ENS Blackout"/></a>
+<p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS security-control audit and learning environment.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/riskalyst-pro.svg" width="100%" alt="RiskAlyst Professional"/>
+<p align="center"><b>RISKALYST PROFESSIONAL</b><br/><sub>GRC and risk-management workspace aligned with MAGERIT v3, ENS and NIS2. Includes asset inventory, threat catalogue, risk maps, residual-risk assessment, safeguards and executive reporting.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="ENS Implementation Terminal"/>
+<p align="center"><b>ENS IMPLEMENTATION TERMINAL</b><br/><sub>Practical ENS implementation workflow covering scope, categorisation, risk analysis, measures, Statement of Applicability and compliance follow-up. Local browser storage with backup/export support.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/rosetta_multinorma"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="Rosetta Multinorma"/></a>
+<p align="center"><b>ROSETTA MULTINORMA</b><br/><sub>Multinorm compliance mapping for ENS, ISO/IEC 27001, NIS2 and ISO/IEC 42001. Fork of the original project by heindall92.</sub><br/><a href="https://heindall92.github.io/rosetta_multinorma/">LIVE DEMO · UPSTREAM</a> · <a href="https://github.com/tzayadet/rosetta_multinorma">FORK</a></p>
+</td>
+</tr>
+</table>
+
+### OSINT, FORENSICS & SECURITY ENGINEERING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
+<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled download options.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
+<p align="center"><b>OSINT CORRELATOR</b><br/><sub>DNS enrichment and correlation for domain and IP investigations.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/Escaner-IaC"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/iac-scanner.svg" width="100%" alt="IaC Scanner"/></a>
+<p align="center"><b>IaC SCANNER</b><br/><sub>Static checks for exposed secrets and misconfigurations in Terraform, YAML and JSON files.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic Toolkit"/></a>
+<p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>Forensic utilities for metadata extraction, timeline creation and SHA-256 hashing.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/01-Honeypot-SSH"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot"/></a>
+<p align="center"><b>SSH HONEYPOT</b><br/><sub>Isolated SSH honeypot lab for observing authentication attempts and recording events.</sub><br/><a href="https://github.com/tzayadet/01-Honeypot-SSH">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="C2 Lite"/></a>
+<p align="center"><b>C2-LITE</b><br/><sub>Educational command-and-control framework for controlled lab environments.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="100%" alt="Log Pipeline"/></a>
+<p align="center"><b>LOG PIPELINE</b><br/><sub>Python log-processing and detection pipeline with JSON parsing and Sigma-inspired rules.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+### RESEARCH & COMMUNITY REPOSITORIES
+
+<p align="center"><sub>Forks and external reference projects are identified separately from original implementations.</sub></p>
+
+- [Malware Research Hub](https://github.com/tzayadet/Malware-Research-Hub) · Forked research catalogue and local Flask interface. Handle samples only in isolated lab environments.
+- [Claude OSINT](https://github.com/tzayadet/Claude-OSINT) · Fork of an OSINT skills collection. Original author: [elementalsouls](https://github.com/elementalsouls).
+- [Cybersecurity Projects](https://github.com/tzayadet/Cybersecurity-Projects) · Forked learning roadmap and project collection. Original author: [CarterPerez-dev](https://github.com/CarterPerez-dev).
+- [PayloadsAllTheThings](https://github.com/tzayadet/PayloadsAllTheThings) · Fork of the reference repository by [swisskyrepo](https://github.com/swisskyrepo).
+- [Rosetta Multinorma](https://github.com/tzayadet/rosetta_multinorma) · Fork of the compliance-mapping project by [heindall92](https://github.com/heindall92). [Upstream demo](https://heindall92.github.io/rosetta_multinorma/).
+
+### TRAINING, CTF & ACADEMIC WORK
+
+- [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
+- [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
+- [Cybersecurity learning roadmap](https://github.com/tzayadet/Cybersecurity-Projects) · External reference collection, clearly identified as a fork.
+
+---
+
+<p align="center"><sub>HYBRID PROJECTS: Honey Recruiting Cyber combines software development with cybersecurity recruitment research; CyberOps Monitor combines application engineering with security-monitoring concepts.</sub></p>
+
 ## 『 TECHNICAL STACK 』
 
-<p align="center"><sub>PYTHON FIRST · SECURITY TOOLING · SYSTEMS & CLOUD</sub></p>
+<p align="center"><sub>SEPARATE SPECIALISMS · SHARED ENGINEERING FOUNDATION</sub></p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <p align="center"><b>OFFENSIVE SECURITY</b></p>
+      <p align="center"><b>CYBERSECURITY · OFFENSIVE</b></p>
       <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/kaliblue.gif" width="76" alt=""/></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
@@ -294,7 +319,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <p align="center"><b>NETWORK · CLOUD · SYSTEMS</b></p>
+      <p align="center"><b>CYBERSECURITY · NETWORK & CLOUD</b></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
         <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square"/>
@@ -309,7 +334,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <p align="center"><b>GRC · INTELLIGENCE · HUMAN FACTORS</b></p>
+      <p align="center"><b>CYBERSECURITY · GRC & INTELLIGENCE</b></p>
       <p align="center">
         <img src="https://img.shields.io/badge/ISO_27001-1F6FEB?style=flat-square"/>
         <img src="https://img.shields.io/badge/ENS-0B7A75?style=flat-square"/>
@@ -323,7 +348,7 @@
   </tr>
 </table>
 
-<p align="center"><b>DEVELOPMENT · AUTOMATION · INFRASTRUCTURE</b></p>
+<p align="center"><b>SOFTWARE DEVELOPMENT · PROGRAMMING & AUTOMATION</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
