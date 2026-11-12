@@ -48,7 +48,149 @@
 
 ## 『 SELECTED PROJECTS 』
 
-<p align="center"><sub>SECURITY ENGINEERING · INTERACTIVE APPLICATIONS · PERSONAL BUILDS</sub></p>
+<p align="center"><sub>DEPLOYED APPLICATIONS · SECURITY ENGINEERING · DESKTOP TOOLS · PERSONAL BUILDS</sub></p>
+
+### 『 DEPLOYED WEB APPLICATIONS 』
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/visor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/nexus-viewer.svg" width="100%" alt="Nexus Viewer"/></a>
+      <p align="center"><b>NEXUS VIEWER</b><br/><sub>Browser-based viewer for HTML, Markdown and JavaScript, with a focused rendering workspace.</sub><br/><a href="https://tzayadet.github.io/visor/">LIVE APP</a> · <a href="https://github.com/tzayadet/visor">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
+      <p align="center"><b>CYBEROPS MONITOR</b><br/><sub>Threat-intelligence simulator and SOC-style dashboard with IOC scoring, Java/Spring backend and simulated threat visualisation.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE APP</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/soldierops.svg" width="100%" alt="SoldierOps"/></a>
+      <p align="center"><b>TCU-01 · SOLDIEROPS</b><br/><sub>Interactive tactical companion with a military terminal interface.</sub><br/><a href="https://tzayadet.github.io/SoldierOps/">LIVE APP</a> · <a href="https://github.com/tzayadet/SoldierOps">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c4isr-gotchi.svg" width="100%" alt="C4ISR-Gotchi"/></a>
+      <p align="center"><b>C4ISR-GOTCHI</b><br/><sub>Virtual-pet concept with tactical simulation elements and interactive browser mechanics.</sub><br/><a href="https://tzayadet.github.io/C4ISR-Gotchi/">LIVE APP</a> · <a href="https://github.com/tzayadet/C4ISR-Gotchi">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Cyber-Recruit/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyber-recruit.svg" width="100%" alt="Cyber Recruit"/></a>
+      <p align="center"><b>CYBER-RECRUIT</b><br/><sub>Recruitment simulator for technical profiles, candidate assessment and selection workflows.</sub><br/><a href="https://tzayadet.github.io/Cyber-Recruit/">LIVE APP</a> · <a href="https://github.com/tzayadet/Cyber-Recruit">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/HoneyRecruitingCyber/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/honey-recruiting.svg" width="100%" alt="Honey Recruiting Cyber"/></a>
+      <p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Python/Flask cybersecurity recruitment honeypot with conversational bots, keyword analysis, candidate scoring and an analytics dashboard.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">LIVE APP</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="100%" alt="ENS Blackout"/></a>
+      <p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS audit and learning platform focused on security controls.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">LIVE APP</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/visor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/nexus-viewer.svg" width="100%" alt="Nexus Viewer"/></a>
+      <p align="center"><b>VISOR · HTML / MD / JS</b><br/><sub>Lightweight browser rendering environment for reviewing local web and Markdown content.</sub><br/><a href="https://tzayadet.github.io/visor/">LIVE APP</a> · <a href="https://github.com/tzayadet/visor">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/PassGen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pass-generator.svg" width="100%" alt="Pass Generator"/></a>
+      <p align="center"><b>PASS://GENERATOR</b><br/><sub>Browser-based password generator using the native Web Crypto API, with configurable length and character sets.</sub><br/><a href="https://tzayadet.github.io/PassGen/">LIVE APP</a> · <a href="https://github.com/tzayadet/PassGen">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/HTML2PDF/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/html-to-pdf.svg" width="100%" alt="HTML to PDF"/></a>
+      <p align="center"><b>HTML → PDF</b><br/><sub>Local batch document converter with page-layout controls, metadata handling, watermarks and PDF merging.</sub><br/><a href="https://tzayadet.github.io/HTML2PDF/">LIVE APP</a> · <a href="https://github.com/tzayadet/HTML2PDF">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Profile_Analysis/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/profile-analysis.svg" width="100%" alt="Profile Analysis"/></a>
+      <p align="center"><b>PROFILE ANALYSIS</b><br/><sub>Interactive cognitive-profile questionnaire with dimension-based assessment and visual results.</sub><br/><a href="https://tzayadet.github.io/Profile_Analysis/">LIVE APP</a> · <a href="https://github.com/tzayadet/Profile_Analysis">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/DnD-Arquetipo/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/dnd-archetype.svg" width="100%" alt="D&D Archetype"/></a>
+      <p align="center"><b>D&D ARCHETYPE</b><br/><sub>Character assessment with 120 questions, 13 classes and six dimensions, plus downloadable results.</sub><br/><a href="https://tzayadet.github.io/DnD-Arquetipo/">LIVE APP</a> · <a href="https://github.com/tzayadet/DnD-Arquetipo">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/CV_Cyberplayer/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cv-cyberplayer.svg" width="100%" alt="CV Cyberplayer"/></a>
+      <p align="center"><b>CV CYBERPLAYER</b><br/><sub>Interactive cybersecurity portfolio/CV experiment with a game-inspired visual presentation.</sub><br/><a href="https://tzayadet.github.io/CV_Cyberplayer/">LIVE APP</a> · <a href="https://github.com/tzayadet/CV_Cyberplayer">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Cipher-Veil/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cipher-veil.svg" width="100%" alt="Cipher Veil"/></a>
+      <p align="center"><b>CIPHER VEIL</b><br/><sub>Dark-fantasy interactive narrative built as a browser experience with custom visual design and game mechanics.</sub><br/><a href="https://tzayadet.github.io/Cipher-Veil/">LIVE APP</a> · <a href="https://github.com/tzayadet/Cipher-Veil">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Digimon/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/digimon.svg" width="100%" alt="Digivice"/></a>
+      <p align="center"><b>DIGIVICE</b><br/><sub>Digital-pet project inspired by the Digimon device experience.</sub><br/><a href="https://tzayadet.github.io/Digimon/">LIVE APP</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet Gen"/></a>
+      <p align="center"><b>PET-GEN</b><br/><sub>Virtual-pet generation experiment with an interactive browser interface.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">LIVE APP</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/Lobito/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/k9-lobito.svg" width="100%" alt="K-9 Tactical Companion"/></a>
+      <p align="center"><b>K-9 TACTICAL COMPANION · LOBITO</b><br/><sub>Interactive canine companion built with Canvas and real-time browser interaction.</sub><br/><a href="https://tzayadet.github.io/Lobito/">LIVE APP</a> · <a href="https://github.com/tzayadet/Lobito">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
+      <p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">LIVE APP</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/rpaas.svg" width="100%" alt="RPaaS"/></a>
+      <p align="center"><b>RPAAS · AFFIRMATIVE RESPONSE ENGINE</b><br/><sub>Small JavaScript experiment for generating and displaying stylised response messages.</sub><br/><a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/">LIVE APP</a> · <a href="https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="100%" alt="CyberSend"/></a>
+      <p align="center"><b>CYBERSEND · WHATSAPP SCHEDULER</b><br/><sub>Java/Spring Boot message scheduler with standalone browser demo, REST API and WebSocket updates.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
+    </td>
+  </tr>
+</table>
+
+### 『 DESKTOP TOOLS & AUTOMATION 』
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="100%" alt="Matrix Downloader"/></a>
+      <p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Local Python/Tkinter desktop application for managing audio and video downloads, including playlists and individual item selection.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/AnalizadorArchivos"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/file-analyzer.svg" width="100%" alt="File Analyzer Pro"/></a>
+      <p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for multi-criteria file search, content filtering, SHA-256 duplicate detection and disk-space analysis.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/GameTranslator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-translator.svg" width="100%" alt="Game Translator"/></a>
+      <p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python utility to detect and translate game dialogue files, add language packs or patch text with automatic backups and restore support.</sub><br/><a href="https://github.com/tzayadet/GameTranslator">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
+      <p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python desktop utility for collecting publicly accessible web assets, with file-type filters and download controls.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/AutoClick_Navegador"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/auto-load-more.svg" width="100%" alt="Auto Load More"/></a>
+      <p align="center"><b>AUTO LOAD MORE</b><br/><sub>Browser JavaScript utility that detects and activates visible “Load more” controls with configurable timing.</sub><br/><a href="https://github.com/tzayadet/AutoClick_Navegador">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="100%" alt="CyberSend"/></a>
+      <p align="center"><b>CYBERSEND · BACKEND</b><br/><sub>Java/Spring Boot scheduling backend with persistent storage, REST endpoints and WebSocket event updates.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
+    </td>
+  </tr>
+</table>
+
+### 『 SECURITY ENGINEERING & RESEARCH 』
 
 <table>
   <tr>
@@ -64,7 +206,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic Toolkit"/></a>
-      <p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>Basic forensic utilities for metadata extraction, timeline creation and SHA-256 hashing.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
+      <p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>Metadata extraction, timeline creation and SHA-256 hashing for basic forensic workflows.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/tzayadet/01-Honeypot-SSH"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot"/></a>
@@ -77,94 +219,42 @@
       <p align="center"><b>C2-LITE</b><br/><sub>Educational command-and-control framework for controlled lab environments, with encrypted communication and task queues.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/CTF"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ctf-labs.svg" width="100%" alt="CTF write-ups"/></a>
-      <p align="center"><b>CTF · LAB NOTES</b><br/><sub>Practical exercises, notes and write-ups from security learning environments.</sub><br/><a href="https://github.com/tzayadet/CTF">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
-      <p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python desktop utility for collecting publicly accessible web assets, with filtering and download controls.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/Cipher-Veil"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cipher-veil.svg" width="100%" alt="Cipher Veil"/></a>
-      <p align="center"><b>CIPHER VEIL</b><br/><sub>Dark-fantasy interactive narrative built as a browser experience, with custom visual design and game mechanics.</sub><br/><a href="https://tzayadet.github.io/Cipher-Veil/">WEB APP</a> · <a href="https://github.com/tzayadet/Cipher-Veil">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="100%" alt="Log Pipeline"/></a>
-      <p align="center"><b>LOG PIPELINE</b><br/><sub>Python-based log detection pipeline with JSON parsing and Sigma-inspired rules for lab and SIEM integration.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
+      <p align="center"><b>LOG PIPELINE</b><br/><sub>Python log-detection pipeline with JSON parsing and Sigma-inspired rules for lab and SIEM integration.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/tzayadet/Malware-Research-Hub"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/malware-research-hub.svg" width="100%" alt="Malware Research Hub"/></a>
-      <p align="center"><b>MALWARE RESEARCH HUB</b><br/><sub>Local Flask research hub with a bilingual malware-family catalogue, searchable index and encrypted sample collections.</sub><br/><a href="https://github.com/tzayadet/Malware-Research-Hub">SOURCE</a></p>
+      <p align="center"><b>MALWARE RESEARCH HUB</b><br/><sub>Local Flask research hub with bilingual malware-family catalogue, searchable index and encrypted sample collections.</sub><br/><a href="https://github.com/tzayadet/Malware-Research-Hub">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/CTF"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ctf-labs.svg" width="100%" alt="CTF Labs"/></a>
+      <p align="center"><b>CTF · LAB NOTES</b><br/><sub>Practical exercises, notes and write-ups from security learning environments.</sub><br/><a href="https://github.com/tzayadet/CTF">SOURCE</a></p>
     </td>
   </tr>
 </table>
 
-<p align="center"><b>INTERACTIVE APPLICATIONS</b></p>
+### 『 MUSIC & VISUAL EXPERIMENTS 』
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/soldierops.svg" width="100%" alt="SoldierOps"/></a>
-      <p align="center"><b>TCU-01 · SOLDIEROPS</b><br/><sub>Interactive tactical companion with a military terminal aesthetic.</sub><br/><a href="https://tzayadet.github.io/SoldierOps/">WEB APP</a> · <a href="https://github.com/tzayadet/SoldierOps">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/JavaScript"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/warriors-blood.svg" width="100%" alt="Warrior's Blood"/></a>
+      <p align="center"><b>WARRIOR'S BLOOD · INTERACTIVE AUDIO</b><br/><sub>JavaScript visual and audio experiment with sound controls, animated effects and an interactive visualiser.</sub><br/><a href="https://github.com/tzayadet/JavaScript">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c4isr-gotchi.svg" width="100%" alt="C4ISR-Gotchi"/></a>
-      <p align="center"><b>C4ISR-GOTCHI</b><br/><sub>Browser-based tactical simulation with virtual-pet mechanics.</sub><br/><a href="https://tzayadet.github.io/C4ISR-Gotchi/">WEB APP</a> · <a href="https://github.com/tzayadet/C4ISR-Gotchi">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Cyber-Recruit/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyber-recruit.svg" width="100%" alt="Cyber-Recruit"/></a>
-      <p align="center"><b>CYBER-RECRUIT</b><br/><sub>Recruitment simulator exploring technical profiles, candidate assessment and selection workflows.</sub><br/><a href="https://tzayadet.github.io/Cyber-Recruit/">WEB APP</a> · <a href="https://github.com/tzayadet/Cyber-Recruit">SOURCE</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
-      <p align="center"><b>CYBEROPS MONITOR</b><br/><sub>Cyber operations interface and monitoring dashboard concept.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">WEB APP</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="100%" alt="ENS Blackout"/></a>
-      <p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS audit and learning platform focused on security controls.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">WEB APP</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Digimon/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/digimon.svg" width="100%" alt="Digivice"/></a>
-      <p align="center"><b>DIGIVICE</b><br/><sub>Digital-pet project inspired by the Digimon device experience.</sub><br/><a href="https://tzayadet.github.io/Digimon/">WEB APP</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet-Gen"/></a>
-      <p align="center"><b>PET-GEN</b><br/><sub>Virtual-pet generation experiment with an interactive browser interface.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">WEB APP</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
-      <p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">WEB APP</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/rpaas.svg" width="100%" alt="RPaaS Affirmative Response Engine"/></a>
-      <p align="center"><b>RPAAS · AFFIRMATIVE RESPONSE ENGINE</b><br/><sub>Small interactive JavaScript experiment for generating and displaying stylised response messages.</sub><br/><a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/">WEB APP</a> · <a href="https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine">SOURCE</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="100%" alt="CyberSend"/></a>
-      <p align="center"><b>CYBERSEND · WHATSAPP SCHEDULER</b><br/><sub>Java and Spring Boot message scheduler with a standalone browser demo, REST API and WebSocket updates.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
+      <a href="https://github.com/tzayadet/Digimon"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/digimon.svg" width="100%" alt="Digivice"/></a>
+      <p align="center"><b>DIGIVICE</b><br/><sub>Interactive digital-pet interface inspired by handheld virtual-pet devices.</sub><br/><a href="https://tzayadet.github.io/Digimon/">LIVE APP</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/tzayadet/HoneyRecruitingCyber">HoneyRecruitingCyber</a> ·
-  <a href="https://github.com/tzayadet/TacticalRecruiting">TacticalRecruiting</a> ·
-  <a href="https://github.com/tzayadet/PassGen">PassGen</a> ·
-  <a href="https://github.com/tzayadet/CV_Cyberplayer">CV Cyberplayer</a> ·
-  <a href="https://github.com/tzayadet/AnalizadorArchivos">Analizador de archivos</a>
+  <sub>Additional repositories: <a href="https://github.com/tzayadet/TacticalRecruiting">TacticalRecruiting</a> · <a href="https://github.com/tzayadet/NoCountry">NoCountry</a> · <a href="https://github.com/tzayadet/TFM-Ciberseguridad">TFM Ciberseguridad</a> · <a href="https://github.com/tzayadet/Learning-Journey">Learning Journey</a> · <a href="https://github.com/tzayadet/Desarrollo">Desarrollo</a></sub>
 </p>
+
+---
 
 ## 『 TECHNICAL STACK 』
 
