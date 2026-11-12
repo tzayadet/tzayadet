@@ -1,4 +1,3 @@
-sin perder las cosas chulas q tiene, puedes mejoralo? seguiir dejandome las canciones, los comandos y tal pero quitar las cosas flipadas sobre mi? y añadir lo q consideres. y ordenar y comentar el codigo
 
 <!-- ═══ SECCIÓN: CABECERA TERMINAL Y BIENVENIDA === -->
 </p>
