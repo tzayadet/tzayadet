@@ -145,7 +145,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
-<p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library prototype. React/TypeScript frontend build validated; Spring Boot backend and end-to-end integration remain incomplete.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">STATIC PREVIEW</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
+<p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library prototype. React/TypeScript frontend build and Java 17/Spring Boot Maven verification pass; authentication and end-to-end integration remain in development.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">STATIC PREVIEW</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
 </td>
 </tr>
 <tr>
