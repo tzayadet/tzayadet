@@ -317,10 +317,7 @@ print(profile.summary())
       <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="100%" alt="Original soundtrack artwork"/></a>
       
     </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/>
-      
-    </td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" role="presentation" aria-hidden="true" style="display:block; margin:0 auto;"/></td>
   </tr>
 </table>
 
