@@ -28,24 +28,6 @@ GitHub does not support reliable embedded audio, so the music covers open YouTub
 
 </div>
 
-<!-- MUSIC: clickable cover cards are the most reliable README-friendly player format. -->
-## Now playing
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://youtu.be/k_GrIMRijHU?si=N5pfBMTHr6QRS6wh" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.youtube.com/vi/k_GrIMRijHU/hqdefault.jpg" width="360" alt="Open music track 1"/>
-      </a><br/><sub>PLAYER 01</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://youtu.be/8evklFunGrI?si=C3-qW82Fw1uKyVbS" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.youtube.com/vi/8evklFunGrI/hqdefault.jpg" width="360" alt="Open music track 2"/>
-      </a><br/><sub>PLAYER 02</sub>
-    </td>
-  </tr>
-</table>
-<p align="center"><sub>Select a cover to open its video on YouTube.</sub></p>
-
 <!-- Original featured video and artwork retained. -->
 <p align="center">
   <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG" target="_blank" rel="noopener noreferrer">
