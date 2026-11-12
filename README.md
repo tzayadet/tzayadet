@@ -257,33 +257,33 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
-<p align="center"><b>OSINT CORRELATOR</b><br/><sub>DNS enrichment and correlation for domain and IP investigations.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
+<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/Escaner-IaC"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/iac-scanner.svg" width="100%" alt="IaC Scanner"/></a>
-<p align="center"><b>IaC SCANNER</b><br/><sub>Static checks for exposed secrets and misconfigurations in Terraform, YAML and JSON files.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a></p>
+<a href="https://github.com/tzayadet/Escaner-IaC"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/iac-scanner.svg" width="100%" alt="IaC Secret Scanner"/></a>
+<p align="center"><b>IaC SECRET SCANNER</b><br/><sub>Heuristic detection of exposed credentials and private keys in infrastructure and configuration files. Symlinks are excluded.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic Toolkit"/></a>
-<p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>File inventory utility that records file size, modification time and SHA-256 hashes. It is not an acquisition or chain-of-custody platform.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
+<a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic File Integrity"/></a>
+<p align="center"><b>FORENSIC FILE INTEGRITY</b><br/><sub>SHA-256 file inventory and UTC metadata for verified evidence copies. Symlink-safe; not an acquisition or chain-of-custody platform.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/01-Honeypot-SSH/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot Lab"/></a>
-<p align="center"><b>SSH HONEYPOT LAB</b><br/><sub>Python/Paramiko SSH honeypot for controlled lab environments, with authentication-event logging and safe handling of interactive and exec requests.</sub><br/><a href="https://tzayadet.github.io/01-Honeypot-SSH/">PROJECT DEMO</a> · <a href="https://github.com/tzayadet/01-Honeypot-SSH">SOURCE</a></p>
+<p align="center"><b>SSH DECEPTION LAB</b><br/><sub>Python/Paramiko SSH honeypot for controlled lab environments, with authentication-event logging and safe handling of interactive and exec requests.</sub><br/><a href="https://tzayadet.github.io/01-Honeypot-SSH/">PROJECT DEMO</a> · <a href="https://github.com/tzayadet/Honeypot-SSH">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="C2 Lite"/></a>
-<p align="center"><b>C2-LITE</b><br/><sub>Educational command-and-control framework for controlled lab environments.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
+<p align="center"><b>C2-LITE LAB</b><br/><sub>Experimental client/server prototype with documented authentication, task-integrity and arbitrary-shell execution gaps. Isolated lab only.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="100%" alt="Log Pipeline"/></a>
-<p align="center"><b>LOG PIPELINE</b><br/><sub>Python log-processing and detection pipeline with JSON parsing and Sigma-inspired rules.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
+<a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="100%" alt="JSONL Detection Engine"/></a>
+<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
