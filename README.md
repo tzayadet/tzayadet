@@ -95,11 +95,11 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/riskalyst-pro.svg" width="100%" alt="RiskAlyst Professional"/></a>
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/riskalyst-pro.svg" width="100%" alt="RiskAlyst Professional"/>
 <p align="center"><b>RISKALYST PROFESSIONAL</b><br/><sub>GRC and risk-management workspace aligned with MAGERIT v3, ENS and NIS2. Includes asset inventory, threat catalogue, risk maps, residual-risk assessment, safeguards and executive reporting.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="ENS Implementation Terminal"/></a>
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="ENS Implementation Terminal"/>
 <p align="center"><b>ENS IMPLEMENTATION TERMINAL</b><br/><sub>Practical ENS implementation workflow covering scope, categorisation, risk analysis, measures, Statement of Applicability and compliance follow-up. Local browser storage with backup/export support.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@
 <p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings and a portable Windows build workflow.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="100%" alt="Transcriptor Matrix"/></a>
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="100%" alt="Transcriptor Matrix"/>
 <p align="center"><b>TRANSCRIPTOR MATRIX</b><br/><sub>Local audio/video transcription desktop application powered by OpenAI Whisper. Runs on the user's machine without per-minute API fees; supports transcription or English translation and TXT, SRT, VTT and JSON exports.</sub><br/><sub>PRIVATE REPOSITORY</sub></p>
 </td>
 </tr>
@@ -124,7 +124,7 @@
 <p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="100%" alt="Integrity Checker"/></a>
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="100%" alt="Integrity Checker"/>
 <p align="center"><b>INTEGRITY CHECKER</b><br/><sub>Python desktop application for validating file and video integrity through structural container checks, full FFmpeg decoding, MD5/SHA-1/SHA-256 hashes and expected-size comparison. Exports CSV and TXT reports.</sub><br/><sub>PRIVATE REPOSITORY</sub></p>
 </td>
 </tr>
@@ -215,7 +215,7 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
-<p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
+<p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">FRONTEND PREVIEW</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
 </td>
 </tr>
 <tr>
