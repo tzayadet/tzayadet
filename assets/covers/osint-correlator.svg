@@ -13,7 +13,7 @@
  <g fill="none" stroke="#48D597" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><circle cx="690" cy="170" r="45"/><circle cx="560" cy="300" r="32"/><circle cx="820" cy="300" r="32"/><path d="M657 202L585 270M723 202L795 270M560 332V365H820V332"/></g>
  <rect x="45" y="105" width="310" height="30" rx="4" fill="#48D597" fill-opacity=".12" stroke="#48D597" stroke-opacity=".55"/>
  <text x="59" y="126" font-family="monospace" font-size="14" letter-spacing="2" fill="#48D597">SECURITY ENGINEERING / LAB</text>
- <text x="45" y="205" font-family="monospace" font-size="34" font-weight="bold" fill="#F2FFF7">DNS INTELLIGENCE & ENRICHMENT</text>
+ <text x="45" y="205" font-family="monospace" font-size="34" font-weight="bold" fill="#F2FFF7">DNS INTELLIGENCE &amp; ENRICHMENT</text>
  <text x="45" y="250" font-family="monospace" font-size="17" fill="#48D597">DNS ENRICHMENT · RECON DATA</text>
  <path d="M45 280H455" stroke="#48D597" stroke-opacity=".5"/>
  <text x="45" y="325" font-family="monospace" font-size="15" fill="#B9CAC4">PYTHON · SECURITY TOOLS · PRACTICAL LABS</text>
