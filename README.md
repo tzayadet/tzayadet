@@ -319,7 +319,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="88%" alt="JSONL Detection Engine"/></a></p>
-<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a> · <a href="https://github.com/tzayadet/Pipeline-de-Logs/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a> · <a href="https://tzayadet.github.io/Pipeline-de-Logs/">PROJECT SHOWCASE</a> · <sub>DEPLOYMENT TRIGGERED · VERIFYING PUBLICATION</sub></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
