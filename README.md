@@ -311,15 +311,7 @@ print(profile.summary())
 
 ## 『 SOUNDTRACK 』
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="100%" alt="Original soundtrack artwork"/></a>
-      
-    </td>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" role="presentation" aria-hidden="true" style="display:block; margin:0 auto;"/></td>
-  </tr>
-</table>
+<p align="center"><a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="48%" alt=""/></a>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
