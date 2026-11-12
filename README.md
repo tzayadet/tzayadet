@@ -271,26 +271,28 @@
 ## 『 GITHUB ACTIVITY 』
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=default&hide_border=true&title_color=168A45&text_color=333333&icon_color=168A45&bg_color=FFFFFF" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=default&hide_border=true&title_color=168A45&text_color=333333&bg_color=FFFFFF" height="165" alt="Most used languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1200&pause=350&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=72&lines=%24+git+log+--graph+--oneline+--decorate+-12;%24+git+shortlog+-sn+--all;%24+git+status+--short" alt="Git activity terminal commands"/>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41&custom_title=REPOSITORY%20OVERVIEW" width="100%" alt="GitHub repository statistics"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&langs_count=6&card_width=420&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41&custom_title=LANGUAGE%20DISTRIBUTION" width="100%" alt="Most used programming languages"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&bg_color=0D1117&color=C9D1D9&line=00FF41&point=FF6B35&area_color=003B1F&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY" width="100%" alt="GitHub commit activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=default&hide_border=true&stroke=168A45&ring=168A45&fire=E8792B&currStreakLabel=168A45&background=FFFFFF" width="70%" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=minimal&line=168A45&point=E8792B&area=true&hide_border=true&bg_color=FFFFFF&color=333333" width="100%" alt="GitHub activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/168A45/tzayadet" width="100%" alt="GitHub contribution calendar"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/tzayadet?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=black&labelColor=050805"/>
-  <img src="https://img.shields.io/github/stars/tzayadet?style=for-the-badge&color=FF6B35&label=STARS&logo=github&logoColor=white&labelColor=050805"/>
-  <img src="https://komarev.com/ghpvc/?username=tzayadet&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=050805"/>
+  <img src="https://img.shields.io/github/followers/tzayadet?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=black&labelColor=050805" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/tzayadet?style=for-the-badge&color=FF6B35&label=STARS&logo=github&logoColor=white&labelColor=050805" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=tzayadet&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=050805" alt="Profile views"/>
 </p>
 
 ---
@@ -325,30 +327,36 @@
   <summary><b>PROFILE SNAPSHOT · PYTHON</b></summary>
 
 ```python
-class CybersecurityProfile:
-    def __init__(self):
-        self.handle = "tzayadet"
-        self.focus = [
-            "Penetration testing and offensive security",
-            "Red Team methodologies and security testing",
-            "Threat intelligence, cyber intelligence and OSINT",
-            "Python automation and security tooling",
-            "Systems, networks, cloud security and GRC",
-        ]
-        self.background = [
-            "Systems administration",
-            "Cybersecurity",
-            "Psychology and human factors",
-        ]
-        self.approach = "Evidence-driven, methodical and collaborative"
+from dataclasses import dataclass
 
-    def summary(self):
+
+@dataclass(frozen=True)
+class CybersecurityProfile:
+    """A concise snapshot of my technical focus and professional background."""
+
+    handle: str = "tzayadet"
+    focus_areas: tuple[str, ...] = (
+        "Penetration testing and offensive security",
+        "Red Team methodologies and security testing",
+        "Threat intelligence, cyber intelligence and OSINT",
+        "Python automation and security tooling",
+        "Systems, networks, cloud security and GRC",
+    )
+    background: tuple[str, ...] = (
+        "Systems administration",
+        "Cybersecurity and governance",
+        "Psychology and human factors",
+    )
+    approach: str = "Evidence-driven, methodical and collaborative"
+
+    def summary(self) -> dict[str, object]:
         return {
             "profile": self.handle,
-            "focus": self.focus,
+            "focus": self.focus_areas,
             "background": self.background,
             "approach": self.approach,
         }
+
 
 profile = CybersecurityProfile()
 print(profile.summary())
