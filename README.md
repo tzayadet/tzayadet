@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=205&section=header&text=TZAYADET&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=CYBERSECURITY%20%7C%20SYSTEMS%20%7C%20PYTHON&descAlignY=63&descSize=17" width="100%" alt="Tzayadet profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=205&section=header&text=TZAYADET&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20PYTHON&descAlignY=63&descSize=17" width="100%" alt="Tzayadet profile banner"/>
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@
 <table>
   <tr>
     <td width="78%" valign="middle">
-      <p><b>CYBERSECURITY · SYSTEMS · SECURITY GOVERNANCE</b></p>
-      <p>Cybersecurity professional with a background in systems administration and security governance, currently focused on developing further in offensive security and cyber intelligence. Key interests include penetration testing, Red Team, security testing, Threat Intelligence and OSINT.</p>
+      <p><b>CYBERSECURITY · SOFTWARE DEVELOPMENT · SYSTEMS</b></p>
+      <p>Cybersecurity professional with a background in systems administration and security governance, building practical software alongside security work. Current focus areas include offensive security and cyber intelligence. Key interests include penetration testing, Red Team, security testing, Threat Intelligence and OSINT.</p>
       <p>I use Python, scripting and practical development to build tools, automate tasks and explore security problems. My wider background in psychology and human resources adds a human-factors perspective to risk, awareness and technical recruitment.</p>
     </td>
     <td width="22%" align="center" valign="middle">
