@@ -75,7 +75,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="100%" alt="Tactical Recruiting"/>
-<p align="center"><b>TACTICAL RECRUITING · ALVATROSS</b><br/><sub>IT talent-management application with candidate and vacancy records, technical-stack matching, CV handling, recruitment workflows and R/S/T evaluation scoring. Includes a browser demo and a Python/SQLite application.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
+<p align="center"><b>TACTICAL RECRUITING</b><br/><sub>IT talent-management prototype with candidate and vacancy workflows, technical-stack matching, CV handling and R/S/T evaluation scoring. Python/SQLite source remains private; the browser demo uses synthetic records only.</sub><br/><a href="https://github.com/tzayadet/Desarrollo/tree/main/TacticalRecruiting/rrhh-demo">PUBLIC DEMO PREVIEW</a> · <sub>GITHUB PAGES ACTIVATION PENDING</sub></p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 
 ### DEVELOPMENT LEARNING & PRACTICE
 
-- [Development](https://github.com/tzayadet/Desarrollo) · General software-development workspace.
+- [Development project index](https://github.com/tzayadet/Desarrollo) · Directory of standalone software projects and their demos; historical copies are archival only.
 - [Python Projects](https://github.com/tzayadet/Python) · Python scripts, utilities and experiments.
 - [Java Projects](https://github.com/tzayadet/Java) · Java programming and application-development exercises.
 - [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice.
@@ -253,7 +253,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
-<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled download options.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled download options.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
@@ -302,7 +302,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 
 - [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
 - [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
-- [Development projects](https://github.com/tzayadet/Desarrollo) · Software development practice and project archive.
+- [Development project index](https://github.com/tzayadet/Desarrollo) · Index of independent software repositories and demo deployments.
 - [Learning Journey](https://github.com/tzayadet/Learning-Journey) · Structured learning notes and exercises.
 - [Python Projects](https://github.com/tzayadet/Python) · Python exercises, utilities and experiments.
 - [Java Projects](https://github.com/tzayadet/Java) · Java exercises and application-development practice.
