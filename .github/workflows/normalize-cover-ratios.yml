@@ -1,0 +1,65 @@
+name: Normalize portfolio cover proportions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/normalize-cover-ratios.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Normalize SVG cover canvases
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("assets/covers")
+          target_w, target_h = 900, 430
+          changed = []
+
+          for path in sorted(root.glob("*.svg")):
+              text = path.read_text(encoding="utf-8")
+              match = re.search(r"<svg\\b[^>]*>", text, flags=re.I | re.S)
+              if not match:
+                  print(f"SKIP {path}: missing SVG root")
+                  continue
+
+              tag = match.group(0)
+              attrs = tag[4:-1]
+              attrs = re.sub(r'\\s+width=(["\']).*?\\1', '', attrs, flags=re.S)
+              attrs = re.sub(r'\\s+height=(["\']).*?\\1', '', attrs, flags=re.S)
+              attrs = re.sub(r'\\s+preserveAspectRatio=(["\']).*?\\1', '', attrs, flags=re.S)
+              new_tag = f'<svg{attrs} width="{target_w}" height="{target_h}" preserveAspectRatio="xMidYMid meet">'
+              updated = text[:match.start()] + new_tag + text[match.end():]
+
+              if updated != text:
+                  path.write_text(updated, encoding="utf-8")
+                  changed.append(path.name)
+
+          print(f"Normalized {len(changed)} cover files: {', '.join(changed)}")
+          PY
+      - name: Commit normalized covers
+        run: |
+          if git diff --quiet; then
+            echo "All cover canvases already use the standard dimensions."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/covers/*.svg
+          git commit -m "Normalize all project cover proportions"
+          git push
