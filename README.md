@@ -420,21 +420,11 @@ Projects focused on security assessment, intelligence, defensive engineering, co
   <a href="https://github.com/tzayadet/CTF"><img src="https://img.shields.io/badge/CTF-WRITEUPS-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="620">
-      <a href="https://ctiacademy.io/profile/tzayadet">
-        <img src="https://img.shields.io/badge/CTI_ACADEMY-THREAT_INTELLIGENCE-00A88F?style=for-the-badge&logo=target&logoColor=white" alt="CTI Academy · Threat Intelligence"/>
-      </a>
-      <br/>
-      <sub><b>THREAT INTELLIGENCE · INVESTIGATION · PRACTICAL ANALYSIS</b></sub>
-      <br/><br/>
-      <sub>Hands-on training in cyber threat intelligence through investigation missions, learning paths and interactive simulators.</sub>
-      <br/><br/>
-      <a href="https://ctiacademy.io/profile/tzayadet"><b>VIEW MY CTI ACADEMY PROFILE →</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://ctiacademy.io/profile/tzayadet">
+    <img src="https://ctiacademy.io/badge/tzayadet.svg" alt="tzayadet on CTI Academy" width="360" height="96"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/tumblr_mbt5dqb3CW1rhp124o2_400.gif" width="250" alt="CTF animated artwork"/>
