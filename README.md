@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a ><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="100%" alt="Tactical Recruiting"/></a>
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="100%" alt="Tactical Recruiting"/>
 <p align="center"><b>TACTICAL RECRUITING · ALVATROSS</b><br/><sub>IT talent-management application with candidate and vacancy records, technical-stack matching, CV handling, recruitment workflows and R/S/T evaluation scoring. Includes a browser demo and a Python/SQLite application.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
 </td>
 <td width="50%" valign="top">
@@ -104,6 +104,42 @@
 </td>
 </tr>
 </table>
+
+### 『 MORE INTERACTIVE APPLICATIONS 』
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet Widget Generator"/></a>
+<p align="center"><b>PET WIDGET GENERATOR</b><br/><sub>Configurable virtual companion with care mechanics, progression, achievements and exportable HTML widget.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/rpaas.svg" width="100%" alt="RPaaS"/></a>
+<p align="center"><b>RPaaS · AFFIRMATIVE RESPONSE ENGINE</b><br/><sub>Small browser experiment for generating procedural responses with a terminal-style typewriter effect.</sub><br/><a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine">SOURCE</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/AutoClick_Navegador"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/auto-load-more.svg" width="100%" alt="Browser automation utilities"/></a>
+<p align="center"><b>BROWSER AUTOMATION UTILITIES</b><br/><sub>Small JavaScript utilities for automating repetitive page interactions and expanding paginated content.</sub><br/><a href="https://github.com/tzayadet/AutoClick_Navegador">SOURCE</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tzayadet/rosetta_multinorma"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="Rosetta Multinorma"/></a>
+<p align="center"><b>ROSETTA MULTINORMA</b><br/><sub>Multinorm compliance mapping for ENS, ISO/IEC 27001, NIS2 and ISO/IEC 42001. Fork of the original project by heindall92.</sub><br/><a href="https://heindall92.github.io/rosetta_multinorma/">LIVE DEMO · UPSTREAM</a> · <a href="https://github.com/tzayadet/rosetta_multinorma">FORK</a></p>
+</td>
+</tr>
+</table>
+
+### 『 RESEARCH & COMMUNITY REPOSITORIES 』
+
+<p align="center"><sub>Selected external projects and reference repositories are identified as forks; they are not presented as original implementations.</sub></p>
+
+- [Malware Research Hub](https://github.com/tzayadet/Malware-Research-Hub) · Forked research catalogue and local Flask interface. Handle samples only in isolated lab environments.
+- [Claude OSINT](https://github.com/tzayadet/Claude-OSINT) · Fork of an OSINT skills collection. Original author: [elementalsouls](https://github.com/elementalsouls).
+- [Cybersecurity Projects](https://github.com/tzayadet/Cybersecurity-Projects) · Forked learning roadmap and project collection. Original author: [CarterPerez-dev](https://github.com/CarterPerez-dev).
+- [PayloadsAllTheThings](https://github.com/tzayadet/PayloadsAllTheThings) · Fork of the reference repository by [swisskyrepo](https://github.com/swisskyrepo).
+
+---
 
 ### 『 DESKTOP SOFTWARE & LOCAL AUTOMATION 』
 
@@ -242,7 +278,7 @@
   <tr>
     <td width="33%" valign="top">
       <p align="center"><b>OFFENSIVE SECURITY</b></p>
-      <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/kalilinux.gif" width="76" alt=""/></p>
+      <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/kaliblue.gif" width="76" alt=""/></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square"/>
