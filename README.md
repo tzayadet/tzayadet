@@ -205,7 +205,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="88%" alt="Matrix Downloader"/></a></p>
-<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a> · <sub>STATIC SHOWCASE · PAGES CONFIGURATION REQUIRED</sub></p>
+<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://tzayadet.github.io/matrix_downloader/">LIVE SHOWCASE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="88%" alt="Transcriptor Matrix"/></p>
