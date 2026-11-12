@@ -236,7 +236,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/codecsnake.gif" width="100%" alt="GitHub contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/codecsnake.gif" width="360" alt="Snake animation"/>
 </p>
 
 <p align="center">
@@ -321,7 +321,7 @@ print(profile.summary())
       
     </td>
     <td width="50%" align="center">
-      <a href="https://youtu.be/k_GrIMRijHU?si=N5pfBMTHr6QRS6wh"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="100%" alt="Second soundtrack artwork"/></a>
+      <img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt="Second soundtrack artwork"/>
       
     </td>
   </tr>
