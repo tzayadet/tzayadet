@@ -4,11 +4,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=205&section=header&text=TZAYADET&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=CYBERSECURITY%20%7C%20PROGRAMMING%20%7C%20INTEL&descAlignY=63&descSize=17" width="100%" alt="Tzayadet profile banner"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/header-banner.svg" width="100%" alt="Tzayadet profile banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2200&pause=900&center=true&vCenter=true&width=800&color=00FF41&lines=VERITAS+EX+BELLUM;" alt="Profile title"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/motto-code.svg" alt="Profile title"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated green divider"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/divider.svg" width="100%" alt="Animated green divider"/>
 </p>
 
 ## 『 ABOUT 』
@@ -403,13 +403,13 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="58" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="58" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="58" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="58" alt="Linux"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="58" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" width="58" alt="Bash"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="58" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" width="58" alt="PostgreSQL"/>
 </p>
 
 ---
@@ -476,7 +476,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 ## 『 MY WAY 』
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" alt="My Way motto"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/motto-fire.svg" alt="My Way motto"/>
 </p>
 
 <p align="center">▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼</p>
@@ -496,7 +496,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy." alt="Personal motto"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/motto-code.svg" alt="Personal motto"/>
 </p>
 
 <details>
@@ -545,7 +545,7 @@ print(profile.summary())
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/motto-venture.svg" alt="Closing motto"/>
 </p>
 
 <p align="center">
@@ -553,11 +553,11 @@ print(profile.summary())
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=105&font=Georama&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=The%20Matrix%20Has%20You" width="100%" alt="Matrix footer"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/footer-banner.svg" width="100%" alt="Matrix footer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=IF+FATE+WILLS+IT%2C+WE+SHALL+MEET+AGAIN;IN+THIS+LIFE...+FOR+THERE+MAY+BE+NO+OTHER." alt="Closing line"/>
+  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/closing-line.svg" alt="Closing line"/>
 </p>
 
 <!-- Original artwork retained and redistributed: n1.gif in ABOUT, kalilinux.gif in SECURITY & OFFENSIVE. -->
