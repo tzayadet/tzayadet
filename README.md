@@ -186,7 +186,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/GameTranslator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-translator.svg" width="100%" alt="Game Translator"/></a>
-<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python utility for extracting and translating game dialogue files, applying language patches and maintaining automatic backups and restore support.</sub><br/><a href="https://github.com/tzayadet/GameTranslator">SOURCE</a></p>
+<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python utility for extracting and translating game dialogue files, with dry-run mode, backup/restore safeguards and protection for existing language files.</sub><br/><a href="https://github.com/tzayadet/GameTranslator">SOURCE</a></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
