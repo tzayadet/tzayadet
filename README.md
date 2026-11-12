@@ -190,6 +190,15 @@ Projects focused on building applications, interfaces, utilities and automation 
 </tr>
 </table>
 
+### DEVELOPMENT LEARNING & PRACTICE
+
+- [Development](https://github.com/tzayadet/Desarrollo) · General software-development workspace.
+- [Python Projects](https://github.com/tzayadet/Python) · Python scripts, utilities and experiments.
+- [Java Projects](https://github.com/tzayadet/Java) · Java programming and application-development exercises.
+- [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice.
+- [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions.
+- [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice.
+
 ---
 
 ## 『 02 · CYBERSECURITY 』
@@ -283,13 +292,17 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 - [Claude OSINT](https://github.com/tzayadet/Claude-OSINT) · Fork of an OSINT skills collection. Original author: [elementalsouls](https://github.com/elementalsouls).
 - [Cybersecurity Projects](https://github.com/tzayadet/Cybersecurity-Projects) · Forked learning roadmap and project collection. Original author: [CarterPerez-dev](https://github.com/CarterPerez-dev).
 - [PayloadsAllTheThings](https://github.com/tzayadet/PayloadsAllTheThings) · Fork of the reference repository by [swisskyrepo](https://github.com/swisskyrepo).
-- [Rosetta Multinorma](https://github.com/tzayadet/rosetta_multinorma) · Fork of the compliance-mapping project by [heindall92](https://github.com/heindall92). [Upstream demo](https://heindall92.github.io/rosetta_multinorma/).
 
 ### TRAINING, CTF & ACADEMIC WORK
 
 - [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
 - [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
-- [Cybersecurity learning roadmap](https://github.com/tzayadet/Cybersecurity-Projects) · External reference collection, clearly identified as a fork.
+- [Development projects](https://github.com/tzayadet/Desarrollo) · Software development practice and project archive.
+- [Learning Journey](https://github.com/tzayadet/Learning-Journey) · Structured learning notes and exercises.
+- [Python Projects](https://github.com/tzayadet/Python) · Python exercises, utilities and experiments.
+- [Java Projects](https://github.com/tzayadet/Java) · Java exercises and application-development practice.
+- [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query exercises.
+- [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions.
 
 ---
 
