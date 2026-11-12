@@ -292,17 +292,17 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
-<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://tzayadet.github.io/OSINT-Correlator/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
+<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/Escaner-IaC"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/iac-scanner.svg" width="100%" alt="IaC Secret Scanner"/></a>
-<p align="center"><b>IaC SECRET SCANNER</b><br/><sub>Heuristic detection of exposed credentials and private keys in infrastructure and configuration files. Symlinks are excluded.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a></p>
+<p align="center"><b>IaC SECRET SCANNER</b><br/><sub>Heuristic detection of exposed credentials and private keys in infrastructure and configuration files. Symlinks are excluded.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic File Integrity"/></a>
-<p align="center"><b>FORENSIC FILE INTEGRITY</b><br/><sub>SHA-256 file inventory and UTC metadata for verified evidence copies. Symlink-safe; not an acquisition or chain-of-custody platform.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
+<p align="center"><b>FORENSIC FILE INTEGRITY</b><br/><sub>SHA-256 file inventory and UTC metadata for verified evidence copies. Symlink-safe; not an acquisition or chain-of-custody platform.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 </tr>
 <tr>
