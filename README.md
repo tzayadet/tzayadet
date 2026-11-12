@@ -44,10 +44,6 @@
   <img src="https://img.shields.io/badge/GOVERNANCE-GRC_%2F_ISO_27001-101010?style=flat-square&labelColor=050805&color=00FF41"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=780&lines=I+get+shit+done;Those+who+seek+always+find" alt=""/>
-</p>
-
 ---
 
 ## 『 SELECTED PROJECTS 』
