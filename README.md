@@ -97,7 +97,7 @@
       <p align="center"><b>LOG PIPELINE</b><br/><sub>Python-based log detection pipeline with JSON parsing and Sigma-inspired rules for lab and SIEM integration.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/Malware-Research-Hub"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Malware Research Hub"/></a>
+      <a href="https://github.com/tzayadet/Malware-Research-Hub"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/malware-research-hub.svg" width="100%" alt="Malware Research Hub"/></a>
       <p align="center"><b>MALWARE RESEARCH HUB</b><br/><sub>Local Flask research hub with a bilingual malware-family catalogue, searchable index and encrypted sample collections.</sub><br/><a href="https://github.com/tzayadet/Malware-Research-Hub">SOURCE</a></p>
     </td>
   </tr>
@@ -152,7 +152,7 @@
       <p align="center"><b>RPAAS · AFFIRMATIVE RESPONSE ENGINE</b><br/><sub>Small interactive JavaScript experiment for generating and displaying stylised response messages.</sub><br/><a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/">WEB APP</a> · <a href="https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="CyberSend"/></a>
+      <a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="100%" alt="CyberSend"/></a>
       <p align="center"><b>CYBERSEND · WHATSAPP SCHEDULER</b><br/><sub>Java and Spring Boot message scheduler with a standalone browser demo, REST API and WebSocket updates.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
     </td>
   </tr>
