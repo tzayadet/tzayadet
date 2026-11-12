@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="TCU-01 project artwork">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030A09"/><stop offset=".54" stop-color="#07151B"/><stop offset="1" stop-color="#0B0C14"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#304348" stroke-opacity=".35" stroke-width="1"/></pattern>
+  <radialGradient id="halo"><stop stop-color="#00FF41" stop-opacity=".20"/><stop offset="1" stop-color="#00FF41" stop-opacity="0"/></radialGradient>
+ </defs>
+ <rect width="900" height="460" rx="18" fill="url(#bg)"/>
+ <rect width="900" height="460" fill="url(#grid)"/>
+ <rect x="12" y="12" width="876" height="436" rx="12" fill="none" stroke="#00FF41" stroke-opacity=".75" stroke-width="2"/>
+ <path d="M12 58 H888" stroke="#00FF41" stroke-opacity=".45"/>
+ <circle cx="39" cy="35" r="6" fill="#FD5F57"/><circle cx="60" cy="35" r="6" fill="#FDBC2E"/><circle cx="81" cy="35" r="6" fill="#29C840"/>
+ <text x="110" y="41" font-family="monospace" font-size="17" fill="#9FB0B7">tzayadet@portfolio:~/projects</text>
+ <circle cx="700" cy="230" r="220" fill="url(#halo)"/>
+ <g opacity=".92"><path fill="none" stroke="#00FF41" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M700 90 L805 130 L805 240 C805 320 750 370 700 400 C650 370 595 320 595 240 L595 130 Z"/><path fill="none" stroke="#00FF41" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M660 240 L688 268 L740 205"/></g>
+ <rect x="46" y="101" width="290" height="31" rx="5" fill="#00FF41" fill-opacity=".12" stroke="#00FF41" stroke-opacity=".65"/>
+ <text x="61" y="122" font-family="monospace" font-size="15" letter-spacing="2" fill="#00FF41">PROJECT / WEB EXPERIENCE</text>
+ <text x="46" y="201" font-family="monospace" font-size="53" font-weight="700" fill="#F1FFF6">TCU-01</text>
+ <text x="46" y="248" font-family="monospace" font-size="22" fill="#00FF41">TACTICAL COMPANION</text>
+ <path d="M46 282 H470" stroke="#00FF41" stroke-opacity=".55"/>
+ <text x="46" y="323" font-family="monospace" font-size="17" fill="#B9CAC9">SOLDIEROPS / INTERACTIVE SYSTEM</text>
+ <text x="46" y="404" font-family="monospace" font-size="15" fill="#00FF41">[ SOURCE + WEB ]</text>
+ <text x="810" y="412" font-family="monospace" font-size="14" fill="#8AA09B">TZ / 01</text>
+ </svg>
