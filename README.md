@@ -51,11 +51,13 @@
 <p align="center"><sub>TWO COMPLEMENTARY TRACKS · SOFTWARE DEVELOPMENT & CYBERSECURITY</sub></p>
 
 <p align="center">
-  <a href="#-software-development-"><img src="https://img.shields.io/badge/01-SOFTWARE_DEVELOPMENT-1565C0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Development"/></a>
-  <a href="#-cybersecurity-"><img src="https://img.shields.io/badge/02-CYBERSECURITY-00A86B?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/></a>
+  <a href="#software-development"><img src="https://img.shields.io/badge/01-SOFTWARE_DEVELOPMENT-1565C0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Development"/></a>
+  <a href="#cybersecurity"><img src="https://img.shields.io/badge/02-CYBERSECURITY-00A86B?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/></a>
 </p>
 
 ---
+
+<a id="software-development"></a>
 
 ## 『 01 · SOFTWARE DEVELOPMENT 』
 
@@ -200,6 +202,8 @@ Projects focused on building applications, interfaces, utilities and automation 
 - [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice.
 
 ---
+
+<a id="cybersecurity"></a>
 
 ## 『 02 · CYBERSECURITY 』
 
