@@ -155,7 +155,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="100%" alt="CyberSend"/></a>
-<p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling backend with REST API and WebSocket updates.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
+<p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling prototype with REST API and WebSocket updates. WhatsApp delivery is not implemented; it generates manual wa.me links.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
 </td>
 </tr>
 </table>
@@ -218,11 +218,11 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/HoneyRecruitingCyber"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/honey-recruiting.svg" width="100%" alt="Honey Recruiting Cyber"/></a>
-<p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. Simulates a technical forum where conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">PROJECT OVERVIEW</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
+<p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. A static overview is published; the Flask backend runs separately. Conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">PROJECT OVERVIEW</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
-<p align="center"><b>CYBEROPS MONITOR</b><br/><sub>SOC-style threat-intelligence and security-monitoring simulator with IOC scoring, dashboard visualisation and Java/Spring components.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
+<p align="center"><b>CYBEROPS MONITOR</b><br/><sub>SOC-style threat-intelligence and security-monitoring simulator with IOC scoring and dashboard visualisation. The Pages demo is a browser-side simulation; Java/Spring backend components run separately.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
-<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled download options.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled download options. The browser experiment uses an external CORS proxy; use only public URLs.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
