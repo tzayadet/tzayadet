@@ -272,8 +272,8 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://tzayadet.github.io/01-Honeypot-SSH/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot Lab"/></a>
-<p align="center"><b>SSH DECEPTION LAB</b><br/><sub>Python/Paramiko SSH honeypot for controlled lab environments, with authentication-event logging and safe handling of interactive and exec requests.</sub><br/><a href="https://tzayadet.github.io/01-Honeypot-SSH/">PROJECT DEMO</a> · <a href="https://github.com/tzayadet/Honeypot-SSH">SOURCE</a></p>
+<a href="https://tzayadet.github.io/Honeypot-SSH/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Deception Lab"/></a>
+<p align="center"><b>SSH DECEPTION LAB</b><br/><sub>Python/Paramiko SSH honeypot for controlled lab environments, with authentication-event logging and safe handling of interactive and exec requests.</sub><br/><a href="https://tzayadet.github.io/Honeypot-SSH/">PROJECT DEMO</a> · <a href="https://github.com/tzayadet/Honeypot-SSH">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="C2 Lite"/></a>
