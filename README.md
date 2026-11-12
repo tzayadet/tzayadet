@@ -214,7 +214,6 @@
 | **Master's in Digital Transformation & Senior Management** | Completed | Digital strategy • Technology adoption • Organisational transformation |
 | **Postgraduate training in Selection, Training & Occupational Risk Prevention** | Completed | Talent development • Learning and development • Prevention |
 | **Big Data & Analytics** | Additional training | Data analysis • Business intelligence • Analytics |
-| **Defensive & Offensive Cybersecurity Bootcamp · Hack by Security** | In progress · since Sep 2026 | Practical defensive security • Offensive security fundamentals • Security workflows |
 | **Technical certifications & training** | Selected | LPIC-1 • CCNP • Azure AZ-204 • Palo Alto Networks • Fortinet • Cisco Python • Google Data Analytics • IBM Data Science • Oracle / IBM Cloud • Scrum • QA Testing • OpenVAS • Linux • Network security • CCN-CERT / C1b3rWall |
 | **Languages** | — | Spanish (native) • English (C2 EF SET) • French (B2) |
 
