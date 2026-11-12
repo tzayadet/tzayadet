@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/FOCUS-PYTHON_%2F_SECURITY_ENGINEERING-101010?style=flat-square&labelColor=050805&color=00FF41"/>
   <img src="https://img.shields.io/badge/FOCUS-GRC_%2F_SECURITY_ASSURANCE-101010?style=flat-square&labelColor=050805&color=00FF41"/>
   <img src="https://img.shields.io/badge/ENVIRONMENTS-REGULATED_%2F_CRITICAL_INFRASTRUCTURE-101010?style=flat-square&labelColor=050805&color=00FF41"/>
-  <img src="https://img.shields.io/badge/PRACTICE-GLOBAL_SECURITY_%2F_BAS_VALIDATION-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/PRACTICE-GLOBAL_SECURITY-101010?style=flat-square&labelColor=050805&color=00FF41"/>
 </p>
 
 ---
