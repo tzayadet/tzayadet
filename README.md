@@ -469,7 +469,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <p align="center">
   <img src="https://img.shields.io/github/followers/tzayadet?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=black&labelColor=050805" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/tzayadet?style=for-the-badge&color=FF6B35&label=STARS&logo=github&logoColor=white&labelColor=050805" alt="GitHub stars"/>
-  <img src="https://komarev.com/ghpvc/?username=tzayadet&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=050805" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-00FF41?style=for-the-badge&labelColor=050805" alt="Profile views"/>
 </p>
 ---
 
