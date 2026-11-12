@@ -268,11 +268,11 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="88%" alt="ENS Blackout"/></a></p>
-<p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS security-control audit and learning environment.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
+<p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS training simulator with illustrative controls, synthetic evidence and simplified risk scenarios. Not a compliance assessment tool.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/riskalyst-pro.svg" width="88%" alt="RiskAlyst Professional"/></p>
-<p align="center"><b>RISKALYST PROFESSIONAL</b><br/><sub>GRC and risk-management workspace aligned with MAGERIT v3, ENS and NIS2. Includes asset inventory, threat catalogue, risk maps, residual-risk assessment, safeguards and executive reporting.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
+<p align="center"><b>RISKALYST PROFESSIONAL</b><br/><sub>Private Streamlit risk-analysis prototype with asset and dependency modelling, impact scoring, safeguards and reporting. ENS score bands are provisional application heuristics, not official thresholds.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
 </td>
 </tr>
 <tr>
