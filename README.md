@@ -312,7 +312,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="C2 Lite"/></a>
-<p align="center"><b>C2-LITE LAB</b><br/><sub>Experimental client/server prototype with documented authentication, task-integrity and arbitrary-shell execution gaps. Isolated lab only.</sub><br/><a href="https://github.com/tzayadet/C2-Light">SOURCE</a></p>
+<p align="center"><b>C2-LITE LAB</b><br/><sub>Experimental client/server prototype with documented authentication, task-integrity and arbitrary-shell execution gaps. Isolated lab only.</sub><br/><a href="https://github.com/tzayadet/C2-Light/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/C2-Light">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 </tr>
 <tr>
@@ -327,7 +327,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 ### TRAINING, CTF & ACADEMIC WORK
 
 - [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
-- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests.
+- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests. [SHOWCASE SOURCE](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL/blob/main/docs/index.html) · PAGES SETUP PENDING.
 - [SQL Police Department](https://github.com/tzayadet/SQL-Police-Department) · Personal SQL query solutions covering filtering, ordering, aggregation and result limits.
 - [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
 
