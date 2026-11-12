@@ -166,7 +166,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="100%" alt="Matrix Downloader"/></a>
-<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
+<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://tzayadet.github.io/matrix_downloader/">LIVE SHOWCASE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="100%" alt="Transcriptor Matrix"/>
@@ -253,7 +253,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
-<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
+<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://tzayadet.github.io/OSINT-Correlator/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
 </td>
 </tr>
 <tr>
