@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="GAMETRACKER project artwork">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Game Library and Progress Tracker project artwork">
  <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030A09"/><stop offset=".54" stop-color="#07151B"/><stop offset="1" stop-color="#0B0C14"/></linearGradient>
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#304348" stroke-opacity=".35" stroke-width="1"/></pattern>
@@ -14,8 +14,8 @@
  <g opacity=".92"><path fill="none" stroke="#C084FC" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M700 95 L820 230 L700 365 L580 230 Z"/><path fill="none" stroke="#C084FC" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M580 230H820M700 95V365"/></g>
  <rect x="46" y="101" width="290" height="31" rx="5" fill="#C084FC" fill-opacity=".12" stroke="#C084FC" stroke-opacity=".65"/>
  <text x="61" y="122" font-family="monospace" font-size="15" letter-spacing="2" fill="#C084FC">PROJECT / WEB EXPERIENCE</text>
- <text x="46" y="201" font-family="monospace" font-size="53" font-weight="700" fill="#F1FFF6">GAMETRACKER</text>
- <text x="46" y="248" font-family="monospace" font-size="22" fill="#C084FC">LIBRARY &amp; PROGRESS</text>
+ <text x="46" y="201" font-family="monospace" font-size="39" font-weight="700" fill="#F1FFF6">GAME LIBRARY</text>
+ <text x="46" y="248" font-family="monospace" font-size="22" fill="#C084FC">&amp; PROGRESS TRACKER</text>
  <path d="M46 282 H470" stroke="#C084FC" stroke-opacity=".55"/>
  <text x="46" y="323" font-family="monospace" font-size="17" fill="#B9CAC9">PERSONAL WEB APPLICATION</text>
  <text x="46" y="404" font-family="monospace" font-size="15" fill="#C084FC">[ SOURCE + WEB ]</text>
