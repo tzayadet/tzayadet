@@ -28,8 +28,8 @@
   <tr>
     <td width="78%" valign="middle">
       <p><b>CYBERSECURITY · SYSTEMS · SECURITY GOVERNANCE</b></p>
-      <p>Cybersecurity professional with experience across technical security, systems administration and GRC. My areas of interest include penetration testing, offensive security, Red Team, security testing, Threat Intelligence, Cyber Intelligence and OSINT.</p>
-      <p>Python is a key part of my toolkit for automation, analysis and building practical applications. I also work with Linux and Windows environments, networks, cloud technologies and security frameworks. My academic background in psychology and human resources brings an additional perspective to human factors, risk and security awareness.</p>
+      <p>Cybersecurity professional with a background in systems administration and security governance, currently focused on developing further in offensive security and cyber intelligence. Key interests include penetration testing, Red Team, security testing, Threat Intelligence and OSINT.</p>
+      <p>I use Python, scripting and practical development to build tools, automate tasks and explore security problems. My wider background in psychology and human resources adds a human-factors perspective to risk, awareness and technical recruitment.</p>
     </td>
     <td width="22%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="138" alt=""/>
@@ -84,11 +84,21 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
-      <p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Browser-based utility for extracting and organising publicly exposed web assets.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+      <p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python desktop utility for collecting publicly accessible web assets, with filtering and download controls.</sub><br/><a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/tzayadet/Cipher-Veil"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cipher-veil.svg" width="100%" alt="Cipher Veil"/></a>
-      <p align="center"><b>CIPHER VEIL</b><br/><sub>Interactive narrative project combining interface design, storytelling and browser-based mechanics.</sub><br/><a href="https://github.com/tzayadet/Cipher-Veil">SOURCE</a></p>
+      <p align="center"><b>CIPHER VEIL</b><br/><sub>Dark-fantasy interactive narrative built as a browser experience, with custom visual design and game mechanics.</sub><br/><a href="https://tzayadet.github.io/Cipher-Veil/">WEB APP</a> · <a href="https://github.com/tzayadet/Cipher-Veil">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="100%" alt="Log Pipeline"/></a>
+      <p align="center"><b>LOG PIPELINE</b><br/><sub>Python-based log detection pipeline with JSON parsing and Sigma-inspired rules for lab and SIEM integration.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/Malware-Research-Hub"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Malware Research Hub"/></a>
+      <p align="center"><b>MALWARE RESEARCH HUB</b><br/><sub>Local Flask research hub with a bilingual malware-family catalogue, searchable index and encrypted sample collections.</sub><br/><a href="https://github.com/tzayadet/Malware-Research-Hub">SOURCE</a></p>
     </td>
   </tr>
 </table>
@@ -134,6 +144,16 @@
     <td width="50%" valign="top">
       <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
       <p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">WEB APP</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/rpaas.svg" width="100%" alt="RPaaS Affirmative Response Engine"/></a>
+      <p align="center"><b>RPAAS · AFFIRMATIVE RESPONSE ENGINE</b><br/><sub>Small interactive JavaScript experiment for generating and displaying stylised response messages.</sub><br/><a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/">WEB APP</a> · <a href="https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine">SOURCE</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="CyberSend"/></a>
+      <p align="center"><b>CYBERSEND · WHATSAPP SCHEDULER</b><br/><sub>Java and Spring Boot message scheduler with a standalone browser demo, REST API and WebSocket updates.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
     </td>
   </tr>
 </table>
@@ -208,7 +228,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
