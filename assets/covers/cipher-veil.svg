@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="CIPHER VEIL project artwork">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 460" role="img" aria-label="CIPHER VEIL project artwork" preserveAspectRatio="xMidYMid meet">
  <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030A09"/><stop offset=".54" stop-color="#07151B"/><stop offset="1" stop-color="#0B0C14"/></linearGradient>
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#304348" stroke-opacity=".35" stroke-width="1"/></pattern>
