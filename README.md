@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="78%" valign="middle">
-      <p><b>CYBERSECURITY · SOFTWARE DEVELOPMENT · SYSTEMS</b></p>
+      <p><b>CYBERSECURITY · PROGRAMMING · SYSTEMS</b></p>
       <p>Cybersecurity professional with a background in systems administration, security governance and technical operations. I work across security assurance, offensive security, cyber intelligence and practical security engineering, combining structured risk analysis with hands-on technical work.</p>
       <p>Python is a central part of my work: I build utilities, automate analysis and develop tools for security testing, OSINT and data processing. I also work with Java, JavaScript/TypeScript, SQL, Linux and Windows environments. My background in psychology adds a human-factors perspective to security, risk and decision-making.</p>
     </td>
@@ -64,7 +64,7 @@
   <tr>
     <td width="50%" valign="top">
       <b>SECURITY ENGINEERING</b><br/>
-      Python Development · Security Automation · Application Security · Security Tooling
+      Python Programming · Security Automation · Application Security · Security Tooling
     </td>
     <td width="50%" valign="top">
       <b>DEFENSIVE SECURITY</b><br/>
@@ -87,20 +87,20 @@
 
 ## 『 PROJECT PORTFOLIO 』
 
-<p align="center"><sub>TWO COMPLEMENTARY TRACKS · SOFTWARE DEVELOPMENT & CYBERSECURITY</sub></p>
+<p align="center"><sub>TWO COMPLEMENTARY TRACKS · PROGRAMMING & CYBERSECURITY</sub></p>
 
 <p align="center">
-  <a href="#software-development"><img src="https://img.shields.io/badge/01-SOFTWARE_DEVELOPMENT-1565C0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Development"/></a>
+  <a href="#programming"><img src="https://img.shields.io/badge/01-PROGRAMMING-1565C0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Programming"/></a>
   <a href="#cybersecurity"><img src="https://img.shields.io/badge/02-CYBERSECURITY-00A86B?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/></a>
 </p>
 
 ---
 
-<a id="software-development"></a>
+<a id="programming"></a>
 
-## 『 01 · SOFTWARE DEVELOPMENT 』
+## 『 01 · PROGRAMMING 』
 
-<p align="center"><sub>WEB APPLICATIONS · DESKTOP SOFTWARE · PYTHON · JAVA · JAVASCRIPT · AUTOMATION</sub></p>
+<p align="center"><sub>WEB APPLICATIONS · DESKTOP APPLICATIONS · PYTHON · JAVA · JAVASCRIPT · AUTOMATION</sub></p>
 
 Projects focused on building applications, interfaces, utilities and automation workflows. Security-related products are classified by their primary purpose in the Cybersecurity section.
 
@@ -199,7 +199,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </tr>
 </table>
 
-### DESKTOP SOFTWARE & AUTOMATION
+### DESKTOP APPLICATIONS & AUTOMATION
 
 <table>
 <tr>
@@ -231,11 +231,11 @@ Projects focused on building applications, interfaces, utilities and automation 
 </tr>
 </table>
 
-### DEVELOPMENT LEARNING & PRACTICE
+### PROGRAMMING LEARNING & PRACTICE
 
-- [Development project index](https://github.com/tzayadet/Desarrollo) · Directory of standalone software projects and their demos; historical copies are archival only.
+- [Development project index](https://github.com/tzayadet/Desarrollo) · Directory of standalone programming projects and their demos; historical copies are archival only.
 - [Python Projects](https://github.com/tzayadet/Python) · Python utilities, desktop applications and automation. Includes the [document comparator](https://github.com/tzayadet/Python/blob/main/comparador_documentos.py) and [Python-to-EXE GUI](https://github.com/tzayadet/Python/blob/main/python_to_exe_gui.py).
-- [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented development and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM).
+- [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented programming and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM).
 - [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice.
 - [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions.
 - [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice.
@@ -333,7 +333,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 
 ---
 
-<p align="center"><sub>HYBRID PROJECTS: Honey Recruiting Cyber combines software development with cybersecurity recruitment research; CyberOps Monitor combines application engineering with security-monitoring concepts.</sub></p>
+<p align="center"><sub>HYBRID PROJECTS: Honey Recruiting Cyber combines programming with cybersecurity recruitment research; CyberOps Monitor combines application programming with security-monitoring concepts.</sub></p>
 
 ## 『 TECHNICAL STACK 』
 
@@ -386,7 +386,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
   </tr>
 </table>
 
-<p align="center"><b>SOFTWARE DEVELOPMENT · PROGRAMMING & AUTOMATION</b></p>
+<p align="center"><b>PROGRAMMING · SOFTWARE & AUTOMATION</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
