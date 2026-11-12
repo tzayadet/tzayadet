@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/motto-code.svg" alt="Profile title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2200&pause=900&center=true&vCenter=true&width=800&color=00FF41&lines=VERITAS+EX+BELLUM;" alt="Profile title"/>
 </p>
 
 <p align="center">
@@ -476,7 +476,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 ## 『 MY WAY 』
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/motto-fire.svg" alt="My Way motto"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" alt="My Way motto"/>
 </p>
 
 <p align="center">▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼</p>
@@ -545,7 +545,7 @@ print(profile.summary())
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/motto-venture.svg" alt="Closing motto"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
 </p>
 
 <p align="center">
@@ -557,7 +557,7 @@ print(profile.summary())
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/closing-line.svg" alt="Closing line"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=IF+FATE+WILLS+IT%2C+WE+SHALL+MEET+AGAIN;IN+THIS+LIFE...+FOR+THERE+MAY+BE+NO+OTHER." alt="Closing line"/>
 </p>
 
 <!-- Original artwork retained and redistributed: n1.gif in ABOUT, kalilinux.gif in SECURITY & OFFENSIVE. -->
