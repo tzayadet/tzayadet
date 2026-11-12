@@ -288,6 +288,9 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 ### TRAINING, CTF & ACADEMIC WORK
 
 - [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
+- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests.
+- [SQL Police Department](https://github.com/tzayadet/SQL-Police-Department) · Personal SQL query solutions covering filtering, ordering, aggregation and result limits.
+- [8200 Cyber Bootcamp · Independent Labs](https://github.com/tzayadet/8200Bootcamp) · Independent security-learning curriculum and practical lab notes; not affiliated with Unit 8200.
 - [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
 - [Learning Journey](https://github.com/tzayadet/Learning-Journey) · Structured learning notes and exercises.
 
