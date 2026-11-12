@@ -272,8 +272,8 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/01-Honeypot-SSH"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot"/></a>
-<p align="center"><b>SSH HONEYPOT</b><br/><sub>Isolated SSH honeypot lab for observing authentication attempts and recording events.</sub><br/><a href="https://github.com/tzayadet/01-Honeypot-SSH">SOURCE</a></p>
+<a href="https://github.com/tzayadet/01-Honeypot-SSH"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ssh-honeypot.svg" width="100%" alt="SSH Honeypot Lab"/></a>
+<p align="center"><b>SSH HONEYPOT LAB</b><br/><sub>Python/Paramiko SSH honeypot for controlled lab environments, with authentication-event logging and safe handling of interactive and exec requests.</sub><br/><a href="https://github.com/tzayadet/01-Honeypot-SSH">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="100%" alt="C2 Lite"/></a>
