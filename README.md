@@ -75,7 +75,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="100%" alt="Tactical Recruiting"/>
-<p align="center"><b>TACTICAL RECRUITING</b><br/><sub>IT talent-management prototype with candidate and vacancy workflows, technical-stack matching, CV handling and R/S/T evaluation scoring. Python/SQLite source remains private; the browser demo uses synthetic records only.</sub><br/><a href="https://github.com/tzayadet/Desarrollo/tree/main/TacticalRecruiting/rrhh-demo">PUBLIC DEMO FILES</a> · <sub>GITHUB PAGES ACTIVATION PENDING</sub></p>
+<p align="center"><b>TACTICAL RECRUITING</b><br/><sub>IT talent-management prototype with candidate and vacancy workflows, technical-stack matching, CV handling and R/S/T evaluation scoring. Public Python/SQLite source; isolated browser demo with synthetic records.</sub><br/><a href="https://github.com/tzayadet/TacticalRecruiting">SOURCE</a> · <a href="https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo">DEMO FILES</a> · <sub>GITHUB PAGES NOT YET ENABLED</sub></p>
 </td>
 </tr>
 <tr>
