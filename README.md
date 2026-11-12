@@ -60,13 +60,13 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/HoneyRecruitingCyber"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/honey-recruiting.svg" width="100%" alt="Honey Recruiting Cyber"/></a>
-<p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. Simulates a technical forum where conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
+<p align="center"><b>HONEY RECRUITING CYBER</b><br/><sub>Cybersecurity recruitment honeypot built with Flask. Simulates a technical forum where conversational bots assess security knowledge through keyword analysis, skill-level scoring and interaction analytics.</sub><br/><a href="https://tzayadet.github.io/HoneyRecruitingCyber/">PROJECT OVERVIEW</a> · <a href="https://github.com/tzayadet/HoneyRecruitingCyber">SOURCE · FLASK APPLICATION</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/TacticalRecruiting"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="100%" alt="Tactical Recruiting"/></a>
-<p align="center"><b>TACTICAL RECRUITING · ALVATROSS</b><br/><sub>IT talent-management application with candidate and vacancy records, technical-stack matching, CV handling, recruitment workflows and R/S/T evaluation scoring. Includes a browser demo and a Python/SQLite application.</sub><br/><a href="https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo">BROWSER DEMO</a> · <a href="https://github.com/tzayadet/TacticalRecruiting">SOURCE</a></p>
+<p align="center"><b>TACTICAL RECRUITING · ALVATROSS</b><br/><sub>IT talent-management application with candidate and vacancy records, technical-stack matching, CV handling, recruitment workflows and R/S/T evaluation scoring. Includes a browser demo and a Python/SQLite application.</sub><br/><a href="https://tzayadet.github.io/TacticalRecruiting/rrhh-demo/">BROWSER DEMO</a> · <a href="https://github.com/tzayadet/TacticalRecruiting">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/PassGen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pass-generator.svg" width="100%" alt="Pass Generator"/></a>
