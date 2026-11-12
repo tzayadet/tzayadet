@@ -205,7 +205,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="88%" alt="Matrix Downloader"/></a></p>
-<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://tzayadet.github.io/matrix_downloader/">LIVE SHOWCASE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
+<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a> · <sub>PAGES ACTIVATION PENDING</sub></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="88%" alt="Transcriptor Matrix"/></p>
@@ -234,8 +234,8 @@ Projects focused on building applications, interfaces, utilities and automation 
 ### PROGRAMMING LEARNING & PRACTICE
 
 - [Development project index](https://github.com/tzayadet/Desarrollo) · Directory of standalone programming projects and their demos; historical copies are archival only.
-- [Python Projects](https://github.com/tzayadet/Python) · Python utilities, desktop applications and automation. [Project showcase](https://tzayadet.github.io/Python/) · Includes the [document comparator](https://github.com/tzayadet/Python/blob/main/comparador_documentos.py) and [Python-to-EXE GUI](https://github.com/tzayadet/Python/blob/main/python_to_exe_gui.py).
-- [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented programming and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM). [Project showcase](https://tzayadet.github.io/Java/).
+- [Python Projects](https://github.com/tzayadet/Python) · Python utilities, desktop applications and automation. [Showcase source](https://github.com/tzayadet/Python/tree/main/docs) · <sub>PAGES ACTIVATION PENDING</sub> · Includes the [document comparator](https://github.com/tzayadet/Python/blob/main/comparador_documentos.py) and [Python-to-EXE GUI](https://github.com/tzayadet/Python/blob/main/python_to_exe_gui.py).
+- [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented programming and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM). [Showcase source](https://github.com/tzayadet/Java/tree/main/docs) · <sub>PAGES ACTIVATION PENDING</sub>.
 - [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice. [Showcase source](https://github.com/tzayadet/SQL-Basics/blob/main/docs/index.html) · <sub>PAGES ACTIVATION PENDING</sub> · [Police Department exercises](https://github.com/tzayadet/SQL-Police-Department) · [Lost at SQL solutions](https://github.com/tzayadet/SQL-Lost-at-SQL).
 - [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions. [Solution showcase](https://tzayadet.github.io/Codewars/).
 - [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice. [Showcase source](https://github.com/tzayadet/Bash-Linux/blob/main/docs/index.html) · <sub>PAGES ACTIVATION PENDING</sub>.
@@ -319,7 +319,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="88%" alt="JSONL Detection Engine"/></a></p>
-<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a> · <a href="https://tzayadet.github.io/Pipeline-de-Logs/">PROJECT SHOWCASE</a> · <sub>DEPLOYMENT TRIGGERED · VERIFYING PUBLICATION</sub></p>
+<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a> · <a href="https://github.com/tzayadet/Pipeline-de-Logs/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <sub>PAGES ACTIVATION PENDING</sub></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
