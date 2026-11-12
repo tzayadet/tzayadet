@@ -47,54 +47,56 @@
 
 <p align="center"><sub>INTERACTIVE BUILDS · SECURITY TOOLS · SIMULATIONS</sub></p>
 
+<!-- Web-build URLs follow the conventional GitHub Pages path. Verify publication in the repository Pages settings if a URL is not yet live. -->
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=SoldierOps&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="SoldierOps repository card"/></a>
+      <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/soldierops.svg" width="100%" alt="SoldierOps repository card"/></a>
       <p align="center"><b>TCU-01 · SOLDIEROPS</b><br/><sub>Tactical Companion Unit. A standalone interactive companion with a military terminal aesthetic.</sub><br/><a href="https://tzayadet.github.io/SoldierOps/">WEB BUILD</a> · <a href="https://github.com/tzayadet/SoldierOps">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=C4ISR-Gotchi&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="C4ISR-Gotchi repository card"/></a>
+      <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c4isr-gotchi.svg" width="100%" alt="C4ISR-Gotchi repository card"/></a>
       <p align="center"><b>C4ISR-GOTCHI</b><br/><sub>A browser-based tactical simulation with virtual-pet mechanics and interactive systems.</sub><br/><a href="https://tzayadet.github.io/C4ISR-Gotchi/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/C4ISR-Gotchi">SOURCE</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Cyber-Recruit/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=Cyber-Recruit&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="Cyber-Recruit repository card"/></a>
+      <a href="https://tzayadet.github.io/Cyber-Recruit/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyber-recruit.svg" width="100%" alt="Cyber-Recruit repository card"/></a>
       <p align="center"><b>CYBER-RECRUIT</b><br/><sub>Recruitment simulator concept focused on technical profiles, candidate assessment and selection workflows.</sub><br/><a href="https://tzayadet.github.io/Cyber-Recruit/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Cyber-Recruit">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=CyberOps-Monitor&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="CyberOps-Monitor repository card"/></a>
+      <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps-Monitor repository card"/></a>
       <p align="center"><b>CYBEROPS-MONITOR</b><br/><sub>Cyber operations interface and monitoring dashboard concept.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">WEB BUILD</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Cipher-Veil/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=Cipher-Veil&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="Cipher-Veil repository card"/></a>
+      <a href="https://tzayadet.github.io/Cipher-Veil/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cipher-veil.svg" width="100%" alt="Cipher-Veil repository card"/></a>
       <p align="center"><b>CIPHER VEIL</b><br/><sub>Interactive cyber-fantasy narrative with a distinct visual identity and game mechanics.</sub><br/><a href="https://tzayadet.github.io/Cipher-Veil/">WEB BUILD</a> · <a href="https://github.com/tzayadet/Cipher-Veil">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=ENS_Blackout&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="ENS Blackout repository card"/></a>
+      <a href="https://tzayadet.github.io/ENS_Blackout/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-blackout.svg" width="100%" alt="ENS Blackout repository card"/></a>
       <p align="center"><b>ENS BLACKOUT</b><br/><sub>Interactive ENS audit and learning platform based on security controls and assessment workflows.</sub><br/><a href="https://tzayadet.github.io/ENS_Blackout/">WEB BUILD</a> · <a href="https://github.com/tzayadet/ENS_Blackout">SOURCE</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Digimon/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=Digimon&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="Digimon repository card"/></a>
+      <a href="https://tzayadet.github.io/Digimon/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/digimon.svg" width="100%" alt="Digimon repository card"/></a>
       <p align="center"><b>DIGIVICE · GARURUMON LINE</b><br/><sub>Digital-pet project inspired by the Digimon device experience.</sub><br/><a href="https://tzayadet.github.io/Digimon/">WEB BUILD</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=Pet-Gen&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="Pet-Gen repository card"/></a>
+      <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet-Gen repository card"/></a>
       <p align="center"><b>PET-GEN</b><br/><sub>Virtual-pet generation experiment with an interactive browser interface.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">WEB BUILD</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/OSINT-Asset-Extractor/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=OSINT-Asset-Extractor&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="OSINT Asset Extractor repository card"/></a>
+      <a href="https://tzayadet.github.io/OSINT-Asset-Extractor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor repository card"/></a>
       <p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Browser-based utility for extracting and organising publicly exposed web assets.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB BUILD</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tzayadet.github.io/GameTracker/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tzayadet&repo=GameTracker&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41" width="100%" alt="GameTracker repository card"/></a>
+      <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker repository card"/></a>
       <p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">WEB BUILD</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
     </td>
   </tr>
@@ -306,20 +308,26 @@ print(profile.summary())
 
 ## 『 SOUNDTRACK 』
 
-<p align="center"><sub>TWO TRACKS · CLICK THE ARTWORK TO LISTEN</sub></p>
+<p align="center"><sub>SELECTED SOUNDTRACK · ORIGINAL ARTWORK</sub></p>
 
 <table>
   <tr>
     <td width="50%" align="center">
       <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="100%" alt="Original soundtrack artwork"/></a>
-      <br/><sub>TRACK 01 · ORIGINAL PLAYER</sub>
+      
     </td>
     <td width="50%" align="center">
       <a href="https://youtu.be/k_GrIMRijHU?si=N5pfBMTHr6QRS6wh"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="100%" alt="Second soundtrack artwork"/></a>
-      <br/><sub>TRACK 02 · SELECTED TRACK</sub>
+      
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://youtu.be/8evklFunGrI?si=C3-qW82Fw1uKyVbS">
+    <img src="https://img.youtube.com/vi/8evklFunGrI/hqdefault.jpg" width="38%" alt="Additional soundtrack cover"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
@@ -338,4 +346,4 @@ print(profile.summary())
 </p>
 
 <!-- Original artwork retained: wr.gif, kalilinux.gif, n1.gif, takina.gif, faith.gif, 4f1n.gif, mgs.gif -->
-<!-- No bootcamp entry, fake status banners, or PLAYER 01 / PLAYER 02 labels. -->
+<!-- No unfinished bootcamp, invented operational status, or generic player labels. -->
