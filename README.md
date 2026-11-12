@@ -39,7 +39,7 @@
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=780&lines=Curiosity+%2F+Evidence+%2F+Discipline+%2F+Execution" alt="Profile principles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=780&lines=I+get+shit+done;Those+who+seek+always+find" alt=""/>
 </p>
 
 ---
@@ -311,7 +311,7 @@ print(profile.summary())
 
 ## 『 SOUNDTRACK 』
 
-<p align="center"><a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="48%" alt=""/></a>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
@@ -332,7 +332,7 @@ print(profile.summary())
 <!-- Original artwork retained and redistributed: n1.gif in ABOUT, kalilinux.gif in SECURITY & OFFENSIVE. -->
 <!-- Original Snake artwork, restored as a small footer element. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/snakejump.gif" width="220" alt="Original Snake animation"/>
+  <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="220" alt=""/></a>
 </p>
 
 <!-- No unfinished bootcamp, invented operational status, or generic player labels. -->
