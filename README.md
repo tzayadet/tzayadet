@@ -1,11 +1,27 @@
+<!--
+  TZAYADET | GitHub Profile README
+  Maintained with GitHub-flavoured Markdown and limited HTML.
+  Theme-aware images use <picture> with prefers-color-scheme.
+  Most profile text remains native Markdown so GitHub adapts it
+  automatically to light and dark themes.
+-->
+
 <!-- Profile README | tzayadet -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=700&pause=250&color=00FF41&center=true&vCenter=true&multiline=true&width=880&height=55&lines=%24+whoami;%24+loading+profile+%5Btzayadet%5D...;%24+status%3A+ready" alt="Terminal profile intro"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=700&pause=250&color=00FF41&center=true&vCenter=true&multiline=true&width=880&height=55&lines=%24+whoami;%24+loading+profile+%5Btzayadet%5D...;%24+status%3A+ready" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=700&pause=250&color=007A33&center=true&vCenter=true&multiline=true&width=880&height=55&lines=%24+whoami;%24+loading+profile+%5Btzayadet%5D...;%24+status%3A+ready" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=700&pause=250&color=00FF41&center=true&vCenter=true&multiline=true&width=880&height=55&lines=%24+whoami;%24+loading+profile+%5Btzayadet%5D...;%24+status%3A+ready" alt="Terminal profile introduction" />
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2200&pause=900&center=true&vCenter=true&width=850&color=00FF41&lines=WELCOME+TO+MY+PROFILE;TZAYADET;CYBERSECURITY+%7C+SYSTEMS+%7C+PYTHON" alt="Welcome to my profile"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2200&pause=900&center=true&vCenter=true&width=850&color=00FF41&lines=WELCOME+TO+MY+PROFILE;TZAYADET;CYBERSECURITY+%7C+SYSTEMS+%7C+PYTHON" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2200&pause=900&center=true&vCenter=true&width=850&color=007A33&lines=WELCOME+TO+MY+PROFILE;TZAYADET;CYBERSECURITY+%7C+SYSTEMS+%7C+PYTHON" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2200&pause=900&center=true&vCenter=true&width=850&color=00FF41&lines=WELCOME+TO+MY+PROFILE;TZAYADET;CYBERSECURITY+%7C+SYSTEMS+%7C+PYTHON" alt="Welcome to my profile" />
+</picture>
 </p>
 
 <p align="center">
@@ -21,9 +37,16 @@
 
 </div>
 
+<!-- MUSIC / VISUAL PLAYER
+     The artwork is the player cover. Selecting it opens the chosen YouTube track.
+     GitHub READMEs do not support embedded autoplay audio. -->
 <p align="center">
-  <a href="https://youtu.be/nPrFmkRubk0?si=sM_Xeb5Vb05bemTL" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/nPrFmkRubk0/hqdefault.jpg" width="440" alt="Open selected music video on YouTube"/>
+  <a href="https://youtu.be/k_GrIMRijHU?si=N5pfBMTHr6QRS6wh" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/tzayadet/profile/main/HD-wallpaper-star-wars-empire-battlefront-games-gaming-ps4-star-wars-starwars-xbox.jpg"
+      width="560"
+      alt="Star Wars artwork linked to the selected music track"
+    />
   </a>
 </p>
 
@@ -54,6 +77,8 @@
 
 </div>
 
+<!-- ======================== ABOUT ======================== -->
+
 ## About me
 
 Cybersecurity professional with a background in **systems administration, networking and governance, risk and compliance (GRC)**. My experience and training cover security frameworks, risk assessment, technical controls, security validation and infrastructure.
@@ -67,6 +92,8 @@ My academic background in psychology, alongside experience in IT talent acquisit
   <p><i>Psychology · Technology · Security</i></p>
 </div>
 
+<!-- ================= PROFESSIONAL BACKGROUND ================= -->
+
 ## Professional background
 
 | Area | Focus |
@@ -77,6 +104,8 @@ My academic background in psychology, alongside experience in IT talent acquisit
 | **Threat intelligence & OSINT** | Domain/IP research, information enrichment and external attack-surface analysis |
 | **Systems & infrastructure** | Linux, Windows Server, networking, virtualisation, cloud and automation |
 | **Human factors** | Psychology, awareness, behavioural factors and IT talent assessment |
+
+<!-- ======================= TECH STACK ======================= -->
 
 ## Technical toolkit
 
@@ -117,6 +146,8 @@ My academic background in psychology, alongside experience in IT talent acquisit
   <img src="https://raw.githubusercontent.com/tzayadet/profile/refs/heads/main/takina.gif" width="125" alt="Animated character from original profile"/>
 </div>
 
+<!-- ======================== PROJECTS ======================== -->
+
 ## Selected projects
 
 A selection of practical tools, prototypes and exercises. Projects are developed for learning, testing and authorised environments.
@@ -131,6 +162,8 @@ A selection of practical tools, prototypes and exercises. Projects are developed
 | [**HoneyRecruitingCyber**](https://github.com/tzayadet/HoneyRecruitingCyber) | Cybersecurity-themed recruitment application with candidate workflows, a dashboard and automation features. | Python · JavaScript · HTML/CSS |
 | [**CTF Portfolio**](https://github.com/tzayadet/CTF) | Write-ups and practical challenges involving Linux, Windows, web security, enumeration and exploitation in training environments. | Linux · Windows · Web · Networking |
 
+<!-- ======================== EDUCATION ======================== -->
+
 ## Education
 
 - **Master's in Cybersecurity**
@@ -142,10 +175,16 @@ A selection of practical tools, prototypes and exercises. Projects are developed
 
 **Languages:** Spanish (native) · English (professional) · French (B2)
 
+<!-- =================== CTF & PRACTICAL LEARNING =================== -->
+
 ## CTF & practical learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1300&pause=350&color=00FF41&center=true&vCenter=true&width=760&lines=%24+cd+%2Ftraining%2Fctf;%24+find+.%20-type+f+-name+%22*.md%22;%24+reviewing+writeups+and+documenting+lessons+learned" alt="CTF terminal animation"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1300&pause=350&color=00FF41&center=true&vCenter=true&width=760&lines=%24+cd+%2Ftraining%2Fctf;%24+find+.%20-type+f+-name+%22*.md%22;%24+reviewing+writeups+and+documenting+lessons+learned" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1300&pause=350&color=007A33&center=true&vCenter=true&width=760&lines=%24+cd+%2Ftraining%2Fctf;%24+find+.%20-type+f+-name+%22*.md%22;%24+reviewing+writeups+and+documenting+lessons+learned" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1300&pause=350&color=00FF41&center=true&vCenter=true&width=760&lines=%24+cd+%2Ftraining%2Fctf;%24+find+.%20-type+f+-name+%22*.md%22;%24+reviewing+writeups+and+documenting+lessons+learned" alt="CTF terminal animation" />
+</picture>
 </p>
 
 <div align="center">
@@ -160,6 +199,8 @@ A selection of practical tools, prototypes and exercises. Projects are developed
 <p align="center">
   <img src="https://64.media.tumblr.com/tumblr_mbt5dqb3CW1rhp124o2_400.gif" width="260" alt="Original CTF animation"/>
 </p>
+
+<!-- ======================== SKILL TREE ======================== -->
 
 ## Skill tree
 
@@ -190,22 +231,40 @@ A selection of practical tools, prototypes and exercises. Projects are developed
 </table>
 </div>
 
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=react-dark&line=00FF41&point=FF6B35&area=true&hide_border=true&background=000000&color=00FF41" alt="GitHub activity graph"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=react-dark&line=00FF41&point=FF6B35&area=true&hide_border=true&background=000000&color=00FF41" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=github-compact&line=007A33&point=CF5B2B&area=true&hide_border=true&bg_color=FFFFFF&color=24292F" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tzayadet&theme=react-dark&line=00FF41&point=FF6B35&area=true&hide_border=true&background=000000&color=00FF41" alt="GitHub activity graph" />
+</picture>
 </p>
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35&bg_color=000000" alt="GitHub statistics"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35&bg_color=000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=007A33&text_color=24292F&icon_color=CF5B2B&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tzayadet&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35&bg_color=000000" alt="GitHub statistics" />
+</picture>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41&background=000000" alt="GitHub streak"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41&background=000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=default&hide_border=true&stroke=007A33&ring=CF5B2B&fire=007A33&currStreakLabel=007A33&background=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzayadet&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41&background=000000" alt="GitHub contribution streak" />
+</picture>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" alt="Most used languages"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=default&hide_border=true&title_color=007A33&text_color=24292F&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzayadet&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" alt="Most used programming languages" />
+</picture>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=tzayadet&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="GitHub trophies"/>
 </td>
@@ -224,6 +283,8 @@ A selection of practical tools, prototypes and exercises. Projects are developed
 ![Profile views](https://komarev.com/ghpvc/?username=tzayadet&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
 
 </div>
+
+<!-- ===================== PERSONAL INTERESTS ===================== -->
 
 ## Beyond the keyboard
 
@@ -266,7 +327,11 @@ print("Profile loaded.")</code></pre>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF41&lines=Keep+learning.+Keep+building.+Keep+improving." alt="Keep learning, building and improving"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF41&lines=Keep+learning.+Keep+building.+Keep+improving." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=007A33&lines=Keep+learning.+Keep+building.+Keep+improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF41&lines=Keep+learning.+Keep+building.+Keep+improving." alt="Keep learning, building and improving" />
+</picture>
 </p>
 
 <div align="center">
