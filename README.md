@@ -145,7 +145,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/GameTracker/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-tracker.svg" width="100%" alt="GameTracker"/></a>
-<p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library and progress-tracking application.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">FRONTEND PREVIEW</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
+<p align="center"><b>GAMETRACKER</b><br/><sub>Personal game-library prototype. React/TypeScript frontend build validated; Spring Boot backend and end-to-end integration remain incomplete.</sub><br/><a href="https://tzayadet.github.io/GameTracker/">STATIC PREVIEW</a> · <a href="https://github.com/tzayadet/GameTracker">SOURCE</a></p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/CyberOps-Monitor/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cyberops-monitor.svg" width="100%" alt="CyberOps Monitor"/></a>
-<p align="center"><b>CYBEROPS MONITOR</b><br/><sub>SOC-style threat-intelligence and security-monitoring simulator with IOC scoring and dashboard visualisation. The Pages demo is a browser-side simulation; Java/Spring backend components run separately.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
+<p align="center"><b>CYBEROPS MONITOR</b><br/><sub>SOC-style dashboard simulator with synthetic events and a separately runnable Java/Spring SSE backend. It does not process real telemetry or produce live detections.</sub><br/><a href="https://tzayadet.github.io/CyberOps-Monitor/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/CyberOps-Monitor">SOURCE</a></p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Asset-Extractor"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-asset.svg" width="100%" alt="OSINT Asset Extractor"/></a>
-<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled download options. The browser experiment uses an external CORS proxy; use only public URLs.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
+<p align="center"><b>OSINT ASSET EXTRACTOR</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled downloads. The browser experiment uses direct CORS-enabled requests and a locally hosted ZIP library; it does not use third-party CORS proxies.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/OSINT-Correlator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
@@ -267,7 +267,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="100%" alt="Forensic Toolkit"/></a>
-<p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>Forensic utilities for metadata extraction, timeline creation and SHA-256 hashing.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
+<p align="center"><b>FORENSIC TOOLKIT</b><br/><sub>File inventory utility that records file size, modification time and SHA-256 hashes. It is not an acquisition or chain-of-custody platform.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a></p>
 </td>
 </tr>
 <tr>
