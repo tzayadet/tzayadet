@@ -205,7 +205,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="88%" alt="Matrix Downloader"/></a></p>
-<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://tzayadet.github.io/matrix_downloader/">LIVE SHOWCASE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
+<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a> · <sub>GITHUB PAGES NOT YET PUBLISHED</sub></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="88%" alt="Transcriptor Matrix"/></p>
@@ -292,7 +292,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <p align="center"><a href="https://tzayadet.github.io/OSINT-Correlator/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="88%" alt="DNS Intelligence &amp; Enrichment"/></a></p>
-<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://tzayadet.github.io/OSINT-Correlator/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
+<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a> · <sub>GITHUB PAGES NOT YET PUBLISHED</sub></p>
 </td>
 </tr>
 <tr>
@@ -318,7 +318,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Pipeline-de-Logs"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pipeline-logs.svg" width="88%" alt="JSONL Detection Engine"/></a></p>
-<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a> · <a href="https://github.com/tzayadet/Pipeline-de-Logs/blob/main/README.md">DOCUMENTATION</a></p>
+<p align="center"><b>JSONL DETECTION ENGINE</b><br/><sub>Lightweight YAML/regex detection over JSON Lines events. Educational prototype, not a SIEM or full Sigma implementation.</sub><br/><a href="https://github.com/tzayadet/Pipeline-de-Logs">SOURCE</a> · <a href="https://github.com/tzayadet/Pipeline-de-Logs/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <sub>GITHUB PAGES NOT YET PUBLISHED</sub></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
