@@ -22,20 +22,21 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated green divider"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/kalilinux.gif" width="92" alt="Kali Linux animation"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="132" alt="Original profile animation"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tzayadet/profile/main/takina.gif" width="112" alt="Original animated artwork"/>
-</p>
-
 ## 『 ABOUT 』
 
-<p align="center">
-  <b>Cybersecurity · Systems · Security Engineering</b><br/>
-  Security professional working across technical security and GRC, with a strong interest in offensive security, security testing, threat intelligence and OSINT. I use Python to automate, investigate and build practical tools. My background in psychology adds a human-factors perspective to the way I approach security.
-</p>
+<table>
+  <tr>
+    <td width="76%" valign="middle">
+      <p>
+        <b>Cybersecurity · Systems · Security Engineering</b><br/>
+        Security professional working across technical security and GRC, with a strong interest in offensive security, security testing, threat intelligence and OSINT. I use Python to automate, investigate and build practical tools. My background in psychology adds a human-factors perspective to the way I approach security.
+      </p>
+    </td>
+    <td width="24%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="138" alt="Original profile animation"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=780&lines=Curiosity+%2F+Evidence+%2F+Discipline+%2F+Execution" alt="Profile principles"/>
@@ -122,6 +123,9 @@
   <tr>
     <td width="33%" valign="top">
       <p align="center"><b>SECURITY & OFFENSIVE</b></p>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/tzayadet/profile/main/kalilinux.gif" width="76" alt="Kali Linux animation"/>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square"/>
@@ -339,7 +343,7 @@ print(profile.summary())
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=IF+FATE+WILLS+IT%2C+WE+SHALL+MEET+AGAIN;IN+THIS+LIFE...+FOR+THERE+MAY+BE+NO+OTHER." alt="Closing line"/>
 </p>
 
-<!-- Original artwork retained: wr.gif, kalilinux.gif, n1.gif, takina.gif, faith.gif, 4f1n.gif, mgs.gif -->
+<!-- Original artwork retained and redistributed: n1.gif in ABOUT, kalilinux.gif in SECURITY & OFFENSIVE. -->
 <!-- Original Snake artwork, restored as a small footer element. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/tzayadet/profile/main/snakejump.gif" width="220" alt="Original Snake animation"/>
