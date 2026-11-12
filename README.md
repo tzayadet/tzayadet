@@ -321,7 +321,7 @@ print(profile.summary())
       
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt="Second soundtrack artwork"/>
+      <img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/>
       
     </td>
   </tr>
