@@ -330,7 +330,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 - [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests.
 - [SQL Police Department](https://github.com/tzayadet/SQL-Police-Department) · Personal SQL query solutions covering filtering, ordering, aggregation and result limits.
 - [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
-- [Learning Journey](https://github.com/tzayadet/Learning-Journey) · Structured learning notes and exercises.
+- [Learning Journey](https://github.com/tzayadet/Learning-Journey) · Personal study archive containing third-party course material, including Mouredev SQL and Python courses; original authors and licences are credited in the repository. Not presented as original software.
 
 ---
 
