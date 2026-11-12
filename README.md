@@ -91,7 +91,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/HTML2PDF/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/html-to-pdf.svg" width="100%" alt="HTML to PDF"/></a>
-<p align="center"><b>HTML → PDF · BATCH CONVERTER</b><br/><sub>Browser-based local document converter. Supports HTML, Markdown, files and URL queues, batch processing, continuous-page layouts, metadata removal, watermarks, merging and selectable/searchable PDF output modes.</sub><br/><a href="https://tzayadet.github.io/HTML2PDF/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/HTML2PDF">SOURCE</a></p>
+<p align="center"><b>HTML → PDF · BATCH CONVERTER</b><br/><sub>Browser-based document converter with batch HTML, Markdown, file and URL input, continuous-page layouts, watermarks, merging and selectable/searchable PDFs. Imported HTML renders in script-disabled sandboxed frames.</sub><br/><a href="https://tzayadet.github.io/HTML2PDF/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/HTML2PDF">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="100%" alt="Pet Widget Generator"/></a>
