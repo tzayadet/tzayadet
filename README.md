@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=205&section=header&text=TZAYADET&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20PYTHON&descAlignY=63&descSize=17" width="100%" alt="Tzayadet profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=205&section=header&text=TZAYADET&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=CYBERSECURITY%20%7C%20PROGRAMMING%20%7C%20PYTHON&descAlignY=63&descSize=17" width="100%" alt="Tzayadet profile banner"/>
 </p>
 
 <p align="center">
