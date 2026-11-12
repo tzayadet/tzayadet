@@ -195,8 +195,8 @@ Projects focused on building applications, interfaces, utilities and automation 
 ### DEVELOPMENT LEARNING & PRACTICE
 
 - [Development project index](https://github.com/tzayadet/Desarrollo) · Directory of standalone software projects and their demos; historical copies are archival only.
-- [Python Projects](https://github.com/tzayadet/Python) · Python scripts, utilities and experiments.
-- [Java Projects](https://github.com/tzayadet/Java) · Java programming and application-development exercises.
+- [Python Projects](https://github.com/tzayadet/Python) · Python utilities, desktop applications and automation. Includes the [document comparator](https://github.com/tzayadet/Python/blob/main/comparador_documentos.py) and [Python-to-EXE GUI](https://github.com/tzayadet/Python/blob/main/python_to_exe_gui.py).
+- [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented development and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM).
 - [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice.
 - [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions.
 - [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice.
