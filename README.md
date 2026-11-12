@@ -159,7 +159,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://tzayadet.github.io/DnD-Arquetipo/"><img src="./assets/covers/dnd-archetype.svg" width="100%" alt="D&amp;D Archetype"/></a>
+<a href="https://tzayadet.github.io/DnD-Arquetipo/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/dnd-archetype.svg" width="100%" alt="D&amp;D Archetype"/></a>
 <p align="center"><b>D&D ARCHETYPE</b><br/><sub>Interactive character assessment with 120 questions, 13 classes and six dimensions.</sub><br/><a href="https://tzayadet.github.io/DnD-Arquetipo/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/DnD-Arquetipo">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
@@ -218,7 +218,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 <td width="50%" valign="top">
-<img src="./assets/covers/integrity-checker.svg" width="100%" alt="Integrity Checker"/>
+<img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="100%" alt="Integrity Checker"/>
 <p align="center"><b>INTEGRITY CHECKER</b><br/><sub>Python desktop application for validating file and video integrity through structural container checks, full FFmpeg decoding, MD5/SHA-1/SHA-256 hashes and expected-size comparison. Exports CSV and TXT reports.</sub><br/><sub>PRIVATE REPOSITORY</sub></p>
 </td>
 </tr>
@@ -291,8 +291,8 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <p align="center"><b>OSINT ASSET COLLECTION WORKBENCH</b><br/><sub>Python utility for collecting publicly accessible website assets with file-type filtering and controlled downloads. The browser experiment uses direct CORS-enabled requests and a locally hosted ZIP library; it does not use third-party CORS proxies.</sub><br/><a href="https://tzayadet.github.io/OSINT-Asset-Extractor/">WEB DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Asset-Extractor">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/tzayadet/OSINT-Correlator"><img src="./assets/covers/osint-correlator.svg" width="100%" alt="OSINT Correlator"/></a>
-<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
+<a href="https://tzayadet.github.io/OSINT-Correlator/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="100%" alt="DNS Intelligence &amp; Enrichment"/></a>
+<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://tzayadet.github.io/OSINT-Correlator/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a></p>
 </td>
 </tr>
 <tr>
