@@ -114,7 +114,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/tactical-recruiting.svg" width="88%" alt="Tactical Recruiting"/></p>
-<p align="center"><b>TACTICAL RECRUITING | IT TALENT OPERATIONS</b><br/><sub>IT talent-management prototype with candidate and vacancy workflows, technical-stack matching, CV handling and R/S/T evaluation scoring. Public Python/SQLite source; isolated browser demo with synthetic records.</sub><br/><a href="https://github.com/tzayadet/TacticalRecruiting">SOURCE</a> · <a href="https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo">DEMO FILES</a> · <sub>GITHUB PAGES NOT YET ENABLED</sub></p>
+<p align="center"><b>TACTICAL RECRUITING | IT TALENT OPERATIONS</b><br/><sub>IT talent-management prototype with candidate and vacancy workflows, technical-stack matching, CV handling and R/S/T evaluation scoring. Public Python/SQLite source; isolated browser demo with synthetic records.</sub><br/><a href="https://github.com/tzayadet/TacticalRecruiting">SOURCE</a> · <a href="https://github.com/tzayadet/TacticalRecruiting/tree/main/rrhh-demo">DEMO FILES</a> · <sub>STATIC DEMO · PAGES CONFIGURATION REQUIRED</sub></p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="88%" alt="Matrix Downloader"/></a></p>
-<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a> · <sub>STATIC SHOWCASE · PAGES CONFIGURATION REQUIRED</sub></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="88%" alt="Transcriptor Matrix"/></p>
@@ -215,7 +215,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/AnalizadorArchivos"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/file-analyzer.svg" width="88%" alt="File Analyzer Pro"/></a></p>
-<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://tzayadet.github.io/AnalizadorArchivos/">PROJECT SHOWCASE</a> · <a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="88%" alt="Integrity Checker"/></p>
@@ -293,17 +293,17 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <p align="center"><a href="https://tzayadet.github.io/OSINT-Correlator/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/osint-correlator.svg" width="88%" alt="DNS Intelligence &amp; Enrichment"/></a></p>
-<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>DNS INTELLIGENCE &amp; ENRICHMENT</b><br/><sub>Dual-stack IPv4/IPv6 DNS and reverse-DNS enrichment with IDNA normalization. CLI and Docker.</sub><br/><a href="https://github.com/tzayadet/OSINT-Correlator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/OSINT-Correlator">SOURCE</a> · <sub>PAGES WORKFLOW ADDED · DEPLOYMENT NOT YET VERIFIED</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Escaner-IaC"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/iac-scanner.svg" width="88%" alt="IaC Secret Scanner"/></a></p>
-<p align="center"><b>IaC SECRET SCANNER</b><br/><sub>Heuristic detection of exposed credentials and private keys in infrastructure and configuration files. Symlinks are excluded.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>IaC SECRET SCANNER</b><br/><sub>Heuristic detection of exposed credentials and private keys in infrastructure and configuration files. Symlinks are excluded.</sub><br/><a href="https://github.com/tzayadet/Escaner-IaC/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/Escaner-IaC">SOURCE</a> · <sub>PAGES WORKFLOW · DEPLOYMENT NOT YET VERIFIED</sub></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Toolkit-Forense"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/forensic-toolkit.svg" width="88%" alt="Forensic File Integrity"/></a></p>
-<p align="center"><b>FORENSIC FILE INTEGRITY</b><br/><sub>SHA-256 file inventory and UTC metadata for verified evidence copies. Symlink-safe; not an acquisition or chain-of-custody platform.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>FORENSIC FILE INTEGRITY</b><br/><sub>SHA-256 file inventory and UTC metadata for verified evidence copies. Symlink-safe; not an acquisition or chain-of-custody platform.</sub><br/><a href="https://github.com/tzayadet/Toolkit-Forense/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/Toolkit-Forense">SOURCE</a> · <sub>PAGES WORKFLOW · DEPLOYMENT NOT YET VERIFIED</sub></p>
 </td>
 </tr>
 <tr>
@@ -313,7 +313,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 </td>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/C2-Light"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/c2-lite.svg" width="88%" alt="C2 Lite"/></a></p>
-<p align="center"><b>C2-LITE LAB</b><br/><sub>Experimental client/server prototype with documented authentication, task-integrity and arbitrary-shell execution gaps. Isolated lab only.</sub><br/><a href="https://github.com/tzayadet/C2-Light/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/C2-Light">SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>C2-LITE LAB</b><br/><sub>Experimental client/server prototype with documented authentication, task-integrity and arbitrary-shell execution gaps. Isolated lab only.</sub><br/><a href="https://github.com/tzayadet/C2-Light/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/C2-Light">SOURCE</a> · <sub>PAGES WORKFLOW · DEPLOYMENT NOT YET VERIFIED</sub></p>
 </td>
 </tr>
 <tr>
