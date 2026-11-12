@@ -297,17 +297,13 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 - [Claude OSINT](https://github.com/tzayadet/Claude-OSINT) · Fork of an OSINT skills collection. Original author: [elementalsouls](https://github.com/elementalsouls).
 - [Cybersecurity Projects](https://github.com/tzayadet/Cybersecurity-Projects) · Forked learning roadmap and project collection. Original author: [CarterPerez-dev](https://github.com/CarterPerez-dev).
 - [PayloadsAllTheThings](https://github.com/tzayadet/PayloadsAllTheThings) · Fork of the reference repository by [swisskyrepo](https://github.com/swisskyrepo).
+- [Security 101](https://github.com/tzayadet/Security-101) · Fork of Microsoft's security fundamentals learning material.
 
 ### TRAINING, CTF & ACADEMIC WORK
 
 - [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups.
 - [Cybersecurity Master's Project](https://github.com/tzayadet/TFM-Ciberseguridad) · Academic lab documentation and security tooling.
-- [Development project index](https://github.com/tzayadet/Desarrollo) · Index of independent software repositories and demo deployments.
 - [Learning Journey](https://github.com/tzayadet/Learning-Journey) · Structured learning notes and exercises.
-- [Python Projects](https://github.com/tzayadet/Python) · Python exercises, utilities and experiments.
-- [Java Projects](https://github.com/tzayadet/Java) · Java exercises and application-development practice.
-- [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query exercises.
-- [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions.
 
 ---
 
