@@ -166,7 +166,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/matrix_downloader"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/matrix-downloader.svg" width="100%" alt="Matrix Downloader"/></a>
-<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://tzayadet.github.io/matrix_downloader/">SHOWCASE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a></p>
+<p align="center"><b>MATRIX DOWNLOADER</b><br/><sub>Python/Tkinter desktop application for managing audio and video downloads from individual URLs and playlists. Supports item selection, output formats, quality settings, collision-safe filenames and a portable Windows build.</sub><br/><a href="https://github.com/tzayadet/matrix_downloader/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/matrix_downloader">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/transcriptor-matrix.svg" width="100%" alt="Transcriptor Matrix"/>
@@ -176,7 +176,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/AnalizadorArchivos"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/file-analyzer.svg" width="100%" alt="File Analyzer Pro"/></a>
-<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://tzayadet.github.io/AnalizadorArchivos/">SHOWCASE</a> · <a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a></p>
+<p align="center"><b>FILE ANALYZER PRO</b><br/><sub>Python desktop utility for advanced file search and filtering, content matching, SHA-256 duplicate detection, disk-usage analysis, error reporting and CSV export.</sub><br/><a href="https://github.com/tzayadet/AnalizadorArchivos/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/AnalizadorArchivos">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/integrity-checker.svg" width="100%" alt="Integrity Checker"/>
@@ -186,7 +186,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tzayadet/GameTranslator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-translator.svg" width="100%" alt="Game Translator"/></a>
-<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python game-localization toolkit for structured dialogue files, offline translation, dry-run previews, backup/restore and preservation of existing language files.</sub><br/><a href="https://tzayadet.github.io/GameTranslator/">SHOWCASE</a> · <a href="https://github.com/tzayadet/GameTranslator">SOURCE</a></p>
+<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python game-localization toolkit for structured dialogue files, offline translation, dry-run previews, backup/restore and preservation of existing language files.</sub><br/><a href="https://github.com/tzayadet/GameTranslator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/GameTranslator">SOURCE</a> · <sub>PAGES SETUP PENDING</sub></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
