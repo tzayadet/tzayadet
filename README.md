@@ -200,6 +200,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 - [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice.
 - [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions.
 - [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice.
+- [Web Audio & Interactive Experiments](https://github.com/tzayadet/JavaScript) · Browser-based audio synthesis, interfaces and JavaScript experiments.
 
 ---
 
