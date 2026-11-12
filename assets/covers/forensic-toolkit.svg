@@ -13,7 +13,7 @@
  <g fill="none" stroke="#E5B85C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><path d="M585 115H750L810 175V345H585Z"/><path d="M750 115V175H810M620 220H770M620 260H770M620 300H725"/></g>
  <rect x="45" y="105" width="310" height="30" rx="4" fill="#E5B85C" fill-opacity=".12" stroke="#E5B85C" stroke-opacity=".55"/>
  <text x="59" y="126" font-family="monospace" font-size="14" letter-spacing="2" fill="#E5B85C">SECURITY ENGINEERING / LAB</text>
- <text x="45" y="205" font-family="monospace" font-size="34" font-weight="bold" fill="#F2FFF7">FORENSIC TOOLKIT</text>
+ <text x="45" y="205" font-family="monospace" font-size="34" font-weight="bold" fill="#F2FFF7">FORENSIC FILE INTEGRITY</text>
  <text x="45" y="250" font-family="monospace" font-size="17" fill="#E5B85C">METADATA · TIMELINE · SHA-256</text>
  <path d="M45 280H455" stroke="#E5B85C" stroke-opacity=".5"/>
  <text x="45" y="325" font-family="monospace" font-size="15" fill="#B9CAC4">PYTHON · SECURITY TOOLS · PRACTICAL LABS</text>
