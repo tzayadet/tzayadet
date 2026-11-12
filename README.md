@@ -443,12 +443,8 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 
 <p align="center">
   <a href="https://ctiacademy.io/profile/tzayadet">
-    <img src="https://ctiacademy.io/badge/tzayadet.svg" alt="tzayadet on CTI Academy" width="360" height="96"/>
+    <img src="https://img.shields.io/badge/CTI%20ACADEMY-ANALYST%20PROFILE-173A5E?style=for-the-badge" alt="View tzayadet's CTI Academy profile"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/tumblr_mbt5dqb3CW1rhp124o2_400.gif" width="250" alt="CTF animated artwork"/>
 </p>
 
 ---
