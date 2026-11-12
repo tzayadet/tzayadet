@@ -28,8 +28,8 @@
   <tr>
     <td width="78%" valign="middle">
       <p><b>CYBERSECURITY · SOFTWARE DEVELOPMENT · SYSTEMS</b></p>
-      <p>Cybersecurity professional with a background in systems administration and security governance, building practical software alongside security work. Current focus areas include offensive security and cyber intelligence. Key interests include penetration testing, Red Team, security testing, Threat Intelligence and OSINT.</p>
-      <p>I use Python, scripting and practical development to build tools, automate tasks and explore security problems. My wider background in psychology and human resources adds a human-factors perspective to risk, awareness and technical recruitment.</p>
+      <p>Cybersecurity professional with a background in systems administration, security governance and technical operations. I work across security assurance, offensive security, cyber intelligence and practical security engineering, combining structured risk analysis with hands-on technical work.</p>
+      <p>Python is a central part of my work: I build utilities, automate analysis and develop tools for security testing, OSINT and data processing. I also work with Java, JavaScript/TypeScript, SQL, Linux and Windows environments. My background in psychology adds a human-factors perspective to security, risk and decision-making.</p>
     </td>
     <td width="22%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="138" alt=""/>
@@ -38,11 +38,50 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OFFENSIVE-PENTESTING_%2F_RED_TEAM-101010?style=flat-square&labelColor=050805&color=00FF41"/>
-  <img src="https://img.shields.io/badge/INTELLIGENCE-THREAT_INTEL_%2F_OSINT-101010?style=flat-square&labelColor=050805&color=00FF41"/>
-  <img src="https://img.shields.io/badge/ENGINEERING-PYTHON_%2F_AUTOMATION-101010?style=flat-square&labelColor=050805&color=00FF41"/>
-  <img src="https://img.shields.io/badge/GOVERNANCE-GRC_%2F_ISO_27001-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/FOCUS-THREAT_INTELLIGENCE_%2F_OSINT-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/FOCUS-PYTHON_%2F_SECURITY_ENGINEERING-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/FOCUS-GRC_%2F_SECURITY_ASSURANCE-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/ENVIRONMENTS-REGULATED_%2F_CRITICAL_INFRASTRUCTURE-101010?style=flat-square&labelColor=050805&color=00FF41"/>
+  <img src="https://img.shields.io/badge/PRACTICE-GLOBAL_SECURITY_%2F_BAS_VALIDATION-101010?style=flat-square&labelColor=050805&color=00FF41"/>
 </p>
+
+---
+
+## 『 AREAS OF INTEREST 』
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>OFFENSIVE SECURITY</b><br/>
+      Penetration Testing · Red Team · Security Testing · Vulnerability Research
+    </td>
+    <td width="50%" valign="top">
+      <b>CYBER INTELLIGENCE</b><br/>
+      Threat Intelligence · OSINT · IOC Analysis · Attack Surface Intelligence
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>SECURITY ENGINEERING</b><br/>
+      Python Development · Security Automation · Application Security · Security Tooling
+    </td>
+    <td width="50%" valign="top">
+      <b>DEFENSIVE SECURITY</b><br/>
+      Threat Hunting · Detection Engineering · Incident Response · Digital Forensics
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>GOVERNANCE &amp; ASSURANCE</b><br/>
+      GRC · Security Architecture · Security Auditing · Regulatory Compliance
+    </td>
+    <td width="50%" valign="top">
+      <b>TECHNICAL ENVIRONMENTS</b><br/>
+      Critical Infrastructure · Regulated Environments · Enterprise Security · Hybrid Systems
+    </td>
+  </tr>
+</table>
 
 ---
 
