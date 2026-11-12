@@ -40,18 +40,18 @@
 
 ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 
-『 CLASSIFIED OPERATION FILE: CYBERSECURITY DOMAIN 』
+『 CYBERSECURITY PROFILE: TECHNICAL & GRC 』
 
 <div align="center">
   
 ```
 ╔═════════════════════════════════════════════════════════════════════════════╗
-║  █████████████████ RESTRICTED ACCESS █████████████████████████████████████  ║
+║  █████████████████ CYBERSECURITY PROFILE █████████████████████████████████  ║
 ║                                                                             ║
-║  CODE NAME: tzayadet                 CLEARANCE: [PENDING]                   ║
-║  UNIT: ████ CYBER DIVISION           STATUS: ACTIVE - MADRID                ║
-║  SPECIALIZATION: SECURITY            THREAT LEVEL: ████                     ║
-║  LOCATION: 40°24′40″N 3°40′57″W       LAST PING: [CLASSIFIED]               ║
+║  PROFILE: tzayadet                  STATUS: ACTIVE                         ║
+║  FOCUS: CYBERSECURITY & GRC         PRACTICE: SECURITY TESTING              ║
+║  BACKGROUND: SYSTEMS & PSYCHOLOGY   TOOLS: PYTHON / LINUX                  ║
+║  INTERESTS: THREAT INTEL / OSINT    APPROACH: EVIDENCE-DRIVEN               ║
 ║                                                                             ║
 ║  ████████████████████████████████████████████████████████████████████████   ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
@@ -133,7 +133,7 @@
 <!-- ═══ SECCIÓN: INTEL FILE #07 & BANNER CAPSULE === -->
 
 
-## 『 CLASSIFIED INTEL FILE #07: tzayadet 』
+## 『 CYBERSECURITY PROFILE: TZAYADET 』
 ![OMEGA PROTECTED](https://img.shields.io/badge/-Ω_Project-000000?style=for-the-badge&labelColor=050505&color=00FF41&logo=protonvpn)
 
 <p align="center">
@@ -159,14 +159,14 @@
 </div>
   
   **👤 tzayadet**  
-`digital_ghost` • `code_runner` • `insight seeker`
+`cybersecurity` • `systems` • `python`
 
-> *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*
+> *"I work at the intersection of cybersecurity governance and technical security, combining a systems background with a structured, evidence-driven approach."*
 
-- Explorando los límites entre **psicología, tecnología y seguridad**
-- Entrenando en **Python • Linux • Bash • Security Fundamentals**
-- Jugando en **CTFs • Labs • Challenge Platforms**
-- Practicando **Krav Maga • Gym • Videojuegos**
+- Cybersecurity professional focused on **GRC, risk management and security assurance**.
+- Technical foundation in **systems administration, networks, Linux, Windows and cloud environments**.
+- Developing hands-on expertise in **penetration testing, security testing, threat intelligence and OSINT**.
+- Using **Python, Bash and PowerShell** for scripting, automation and technical workflows.
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" /></p>
 
@@ -201,24 +201,22 @@
 
 ### **ACADEMIC BACKGROUND**
 
-| **DEGREE/CERTIFICATION**                     | **YEAR**  | **FOCUS AREAS**                                                                 |
-|-----------------------------------------------|-----------|---------------------------------------------------------------------------------|
-| **Network Systems Administration** | 2026 | Network Architecture • Linux/Windows Server • Cloud Integration (AWS/Azure) • Bash/Python Automation • Security Hardening • Virtualization (VMware/KVM) • Monitoring (Nagios/Zabbix) • CISCO Routing & Switching |
-| **Master in Cybersecurity**                     | 2025   | Threat Analysis • SOC Operations • Ethical Pentesting • Forensics • Threat Hunting      |
-| **Degree in Network Systems Administration**    | 2025   | Infrastructure Security • Monitoring • Hardening • Linux • Virtualization       |
-| **Master in Big Data & Business Intelligence**  | 2025   | Data Analysis • Threat Intelligence • Cybersecurity Metrics                     |
-| **Master in Project Management**                | 2025  | Agile • Security Projects • Team Leadership • Risk Management • Cyber Operations Coordination                      |
-| **Master in Digital Transformation & High Management** | 2023            | Strategic Leadership • Change Management • Tech Adoption • Organizational Infiltration • Strategic Planning                        |
-| **MBA - Business Administration**                  | 2018            | Strategic Planning • Operations • Management • Corporate Espionage Understanding • Executive Profiling                                    |
-| **Master in HR Management & Talent Acquisition**   | 2018-2019       | Recruitment • People Analytics • Organizational Development • Personnel Intelligence • Social Engineering • Recruitment Ops                     |
-| **Degree in Psychology**                           | 2017            | Behavioral Analysis • Cognitive Assessment • Human Factors                      |
-| **Master in General Health Psychology**            | 2020            | Mental Health • Advanced Assessment • Crisis Intervention • Psychological Warfare • Trauma Analysis • Mental Resilience                       |
-| **Private Security Certification**    | 2017            | Surveillance • Explosives Safety • Physical Security • Counter-Surveillance • Threat Assessment                            |
-| **Medium Degree in Microcomputer Systems & Networks** | 2021            | IT Support • Network Administration • Troubleshooting                           |
-| **C1 Business English Certification**              | 2016            | Advanced Professional English                                                   |
-| **Postgraduate Specializations**                   | 2018-2025       | Coaching • NLP • Innovation • Risk Prevention • Cybersecurity Fundamentals      |
-| **Technical Cybersecurity Courses & Certifications** | 2023-2025       | C1b3rwall Conferences • CyberSOC Analyst • Bash Scripting • Python • Linux • Azure • Data Privacy • Forensics OSForensics • Cisco Networking |
-| **Other Relevant Training**                        | 2014-2025       | Protection Civil • Emergency Management • Counter-Terrorism • Private Escort • Drone Pilot License • Krav Maga |
+| **DEGREE / QUALIFICATION** | **STATUS** | **FOCUS AREAS** |
+|---|---|---|
+| **Higher Technician in Networked Computer Systems Administration (ASIR)** | Completed | Systems administration • Linux / Windows • Networks • Virtualisation • Cloud fundamentals |
+| **Master's in Cybersecurity** | Completed | Security governance • Risk management • Security operations • Pentesting fundamentals • Digital forensics |
+| **Higher Technician in Multiplatform Application Development (DAM)** | In progress | Software development • Java • Databases • Android • Application architecture |
+| **Degree in Psychology** | Completed | Human behaviour • Cognition • Human factors • Communication |
+| **Master's in General Health Psychology** | Completed | Psychological assessment • Applied psychology • Crisis intervention |
+| **Master's in HR Management & Talent Acquisition** | Completed | Recruitment • Talent strategy • People analytics • Organisational development |
+| **MBA in Business Administration** | Completed | Business strategy • Management • Operations |
+| **Master's in Project Management** | Completed | Project planning • Agile methods • Risk • Delivery management |
+| **Master's in Digital Transformation & Senior Management** | Completed | Digital strategy • Technology adoption • Organisational transformation |
+| **Postgraduate training in Selection, Training & Occupational Risk Prevention** | Completed | Talent development • Learning and development • Prevention |
+| **Big Data & Analytics** | Additional training | Data analysis • Business intelligence • Analytics |
+| **Defensive & Offensive Cybersecurity Bootcamp · Hack by Security** | In progress · since Sep 2026 | Practical defensive security • Offensive security fundamentals • Security workflows |
+| **Technical certifications & training** | Selected | LPIC-1 • CCNP • Azure AZ-204 • Palo Alto Networks • Fortinet • Cisco Python • Google Data Analytics • IBM Data Science • Oracle / IBM Cloud • Scrum • QA Testing • OpenVAS • Linux • Network security • CCN-CERT / C1b3rWall |
+| **Languages** | — | Spanish (native) • English (C2 EF SET) • French (B2) |
 
 </div>
 
@@ -226,7 +224,7 @@
 
 <!-- ═══ SECCIÓN: DOSSIER DE INTELIGENCIA (YAML) === -->
 
-## 『 INTELLIGENCE DOSSIER: OPERATIONAL TRAINING 』
+## 『 TECHNICAL PROFILE: KNOWLEDGE & PRACTICE 』
 
 <div align="center">
 
@@ -234,39 +232,39 @@
 <tr>
 <td>
 
-**CYBER WARFARE SPECIALIZATION**
+**CYBERSECURITY & SYSTEMS**
 ```yaml
-Master in Cybersecurity:
-├── Advanced Threat Hunting
-├── SOC Command Operations  
-├── Ethical Infiltration Techniques
-├── Digital Forensics & Attribution
-└── Incident Response Leadership
+Cybersecurity & GRC:
+├── Security governance and risk management
+├── ISO/IEC 27001 and ENS frameworks
+├── Security assessment and assurance
+├── Vulnerability management fundamentals
+└── Threat intelligence and incident response
 
-Network Systems Administration:
-├── Infrastructure Hardening
-├── Real-time Threat Monitoring
-├── Security Architecture Design
-├── Linux Combat Operations
-└── Virtualization Security
+Systems Administration:
+├── Linux and Windows administration
+├── Network architecture and troubleshooting
+├── Virtualisation and containerisation
+├── Cloud and infrastructure security
+└── Python, Bash and PowerShell automation
 ```
 
 </td>
 <td>
 
-**PSYCHOLOGICAL OPERATIONS**
+**PSYCHOLOGY & HUMAN FACTORS**
 ```yaml
-Master in Big Data & Intelligence:
-├── Behavioral Pattern Analysis
-├── Threat Intelligence Fusion
-├── Predictive Security Analytics
-└── Strategic Decision Matrices
+Psychology & Human Factors:
+├── Human behaviour and cognition
+├── Human factors in cybersecurity
+├── Security awareness and communication
+└── Risk perception and decision-making
 
-Psychology Degree:
-├── Advanced Behavioral Analysis
-├── Cognitive Manipulation Techniques
-├── Human Vulnerability Assessment
-└── Crisis Psychology Operations
+Data & Management:
+├── Data analysis and business intelligence
+├── Project planning and delivery
+├── Talent acquisition and development
+└── Digital transformation
 ```
 
 </td>
@@ -283,51 +281,49 @@ Psychology Degree:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
 </p>
 
-## **『 ACTIVE LABORATORY OPERATIONS 』**
+## **『 PRACTICAL SECURITY LABS 』**
 
 <table>
 <tr>
 <td align="left" width="33%">
 
-#### 🏭 **SOC VIRTUAL LAB**
-- Incident Response  
-- Log Analysis  
-- Threat Detection  
-- SIEM Operations  
-- Real-Time Threat Hunting  
-- Advanced Persistent Threat Analysis  
-- Incident Command & Control  
-- Digital Forensics Laboratory
+#### 🏭 **DEFENSIVE SECURITY & SOC LABS**
+- Log collection and analysis
+- Network traffic analysis
+- SIEM workflows and alert triage fundamentals
+- Threat detection and monitoring
+- Incident response workflows
+- Digital forensics exercises
+- TheHive, Cortex and OpenSearch lab stack
+- Suricata, Zeek and Wireshark
 
 ![Status](https://img.shields.io/badge/MISSION_STATUS-ACTIVE_COMBAT-FF0000?style=flat-square&logo=target&logoColor=white)
 
 </td>
 <td align="left" width="33%">
 
-#### 🐍 **PYTHON CYBER ARSENAL**
-- Log Analyzers  
-- Automation Scripts  
-- CTF Solutions  
-- Security Testing Scripts
-- Network Reconnaissance Tools  
-- Behavioral Analysis Algorithms  
-- CTF Weapon Systems
+#### 🐍 **PYTHON & SECURITY AUTOMATION**
+- Python scripting and automation
+- Log parsing and data processing
+- Security utilities and workflow automation
+- OSINT data collection and enrichment
+- Network reconnaissance support
+- CTF tooling and technical write-ups
+- Bash and PowerShell scripting
 
 ![Status](https://img.shields.io/badge/BEAST_STATUS-LOCKED_LOADED-00FF41?style=flat-square&logo=code&logoColor=black)
 
 </td>
 <td align="left" width="33%">
 
-#### 🔍 **ETHICAL PENETRATION TESTING**
-- Vulnerability Assessment  
-- Web App Security  
-- Ethical Network Pentesting  
-- Advanced Web Application Attacks  
-- Network Infrastructure Infiltration  
-- Social Engineering Operations  
-- Zero-Day Exploit Research  
-- Post-Exploitation Domination  
-- Report Generation
+#### 🔍 **OFFENSIVE SECURITY & ASSESSMENT**
+- Network reconnaissance and service enumeration
+- Web application security testing
+- Vulnerability assessment
+- Linux and Windows enumeration
+- Controlled exploitation in training labs
+- Security validation and technical reporting
+- OWASP testing methodology
 
 ![Status](https://img.shields.io/badge/INFILTRATION-DEEP_COVER-FF6B00?style=flat-square&logo=ninja&logoColor=white)
 
@@ -453,27 +449,27 @@ Psychology Degree:
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
 <br><strong>Python</strong>
-<br><sub>Automation • Logic • CTFs</sub>
+<br><sub>Automation • Scripting • Security tooling</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55"/>
 <br><strong>Linux</strong>
-<br><sub>Terminal • Bash • Hardening</sub>
+<br><sub>Administration • Troubleshooting • Hardening</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/>
 <br><strong>Bash</strong>
-<br><sub>Scripting • Log Analysis</sub>
+<br><sub>Automation • Log processing</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55"/>
 <br><strong>SQL</strong>
-<br><sub>Queries • Data Logic</sub>
+<br><sub>Queries • Relational databases</sub>
 </td>
 </tr>
 </table>
 
-### **SECURITY OPERATIONS**
+### **SECURITY TOOLKIT**
 
 ![Kali Linux](https://img.shields.io/badge/KALI_LINUX-PENETRATION_PLATFORM-2C5AA0?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
 ![Nmap](https://img.shields.io/badge/NMAP-NETWORK_DOMINATION-FF6B00?style=for-the-badge&logo=nmap&logoColor=white)
@@ -488,7 +484,7 @@ Psychology Degree:
 ![Django](https://img.shields.io/badge/DJANGO-SECURE_DEVELOPMENT-092E20?style=for-the-badge&logo=django&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/GIT-VERSION_WARFARE-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **PSYCHOLOGICAL OPERATIONS**
+### **HUMAN FACTORS & SECURITY AWARENESS**
 
 ![Human Risk](https://img.shields.io/badge/HUMAN_RISK_ANALYSIS-BEHAVIORAL_SECURITY-2E8B57?style=for-the-badge&logo=psychology&logoColor=white)
 ![Security_Awareness](https://img.shields.io/badge/SECURITY_AWARENESS-HUMAN_FACTOR_TRAINING-4169E1?style=for-the-badge&logo=training&logoColor=white)
@@ -508,7 +504,7 @@ Psychology Degree:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
 </p>
   
-## 『 INTELLIGENCE REPORT 』
+## 『 GITHUB ACTIVITY 』
 
 <table>
 <tr>
@@ -557,14 +553,14 @@ Psychology Degree:
 
 **`> access.log: new_visitor_detected`**
 
-### **OPERATIONAL METRICS**
+### **PROFILE METRICS**
 
 ![Followers](https://img.shields.io/github/followers/tzayadet?style=for-the-badge&color=00FF41&label=ALLIED%20OPERATIVES&logo=github&logoColor=black&labelColor=000000)
 ![Stars](https://img.shields.io/github/stars/tzayadet?style=for-the-badge&color=FF6B35&label=MISSION%20STARS&logo=star&logoColor=white&labelColor=8B0000)
 ![SURVEILLANCE](https://komarev.com/ghpvc/?username=tzayadet&color=FF0000&style=for-the-badge&label=SURVEILLANCE%20HITS&labelColor=000000)
 
-> _**Intelligence Gathered — Digital Footprint Under Constant Monitoring**_  
-> _**Operational Security Status: MINIMUM STEALTH**_  
+> _**Public activity: repositories, practice and technical notes.**_  
+> _**Current direction: cybersecurity, security testing and automation.**_  
 
 [![Elite Mentorship](https://img.shields.io/badge/⚔️_MENTORSHIP-ACCEPT_THE_CHALLENGE-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://www.linkedin.com/in/mjmal/)
 
@@ -620,19 +616,18 @@ Psychology Degree:
 
 <td>
 
-<span style="font-weight: bold; font-size: 1.2em;">**𝘔𝘠 𝘛𝘌𝘈𝘔** 𝘊𝘖𝘔𝘌𝘚 𝘍𝘐𝘙𝘚𝘛</span>,<br>
-𝘵𝘩𝘦𝘪𝘳 𝘴𝘵𝘦𝘢𝘥𝘧𝘢𝘴𝘵 𝘴𝘩𝘪𝘦𝘭𝘥,<br>
-𝘭𝘰𝘺𝘢𝘭 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘳𝘦𝘭𝘦𝘯𝘵𝘭𝘦𝘴𝘴 𝘸𝘢𝘳.<br><br>
-<span style="font-weight: bold; font-size: 1.2em;">**𝘛𝘏𝘌𝘕, 𝘛𝘏𝘌 𝘔𝘐𝘚𝘚𝘐𝘖𝘕**</span>,<br>
-𝘰𝘶𝘳 𝘶𝘯𝘣𝘳𝘦𝘢𝘬𝘢𝘣𝘭𝘦 𝘤𝘳𝘦𝘦𝘥,<br>
-𝘵𝘩𝘦 𝘰𝘯𝘭𝘺 𝘱𝘢𝘵𝘩 𝘐 𝘢𝘤𝘤𝘦𝘱𝘵.<br><br>
-<span style="font-weight: bold; font-size: 1.2em;">**𝘚𝘌𝘓𝘍-𝘊𝘖𝘕𝘛𝘙𝘖𝘓**</span>,<br>
-𝘮𝘺 𝘸𝘦𝘢𝘱𝘰𝘯,<br>
-𝘵𝘩𝘦 𝘥𝘪𝘴𝘤𝘪𝘱𝘭𝘪𝘯𝘦 𝘵𝘩𝘢𝘵 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘴.<br>
-𝘮𝘺 𝘣𝘰𝘥𝘺 𝘢𝘯𝘥 𝘮𝘪𝘯𝘥<br><br>
-<span style="font-weight: bold; font-size: 1.3em; color:#FF0000;">𝘈𝘕𝘋 𝘓𝘌𝘛 𝘛𝘏𝘌 **𝘞𝘖𝘙𝘓𝘋 𝘉𝘜𝘙𝘕**</span>,<br>
-𝘧𝘰𝘳 𝘧𝘳𝘰𝘮 𝘪𝘵𝘴 𝘢𝘴𝘩𝘦𝘴<br>
-𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
+<span style="font-weight: bold; font-size: 1.2em;">𝘾𝙐𝙍𝙄𝙊𝙎𝙄𝙏𝙔</span>,<br>
+𝘢𝘴𝘬𝘪𝘯𝘨 𝘣𝘦𝘵𝘵𝘦𝘳 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴,<br>
+𝘢𝘯𝘥 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥𝘪𝘯𝘨 𝘩𝘰𝘸 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘣𝘦𝘩𝘢𝘷𝘦.<br><br>
+<span style="font-weight: bold; font-size: 1.2em;">𝙀𝙑𝙄𝘿𝙀𝙉𝘾𝙀</span>,<br>
+𝘵𝘦𝘴𝘵𝘪𝘯𝘨 𝘢𝘴𝘴𝘶𝘮𝘱𝘵𝘪𝘰𝘯𝘴,<br>
+𝘢𝘯𝘥 𝘥𝘰𝘤𝘶𝘮𝘦𝘯𝘵𝘪𝘯𝘨 𝘸𝘩𝘢𝘵 𝘵𝘩𝘦 𝘦𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘴𝘩𝘰𝘸𝘴.<br><br>
+<span style="font-weight: bold; font-size: 1.2em;">𝘿𝙄𝙎𝘾𝙄𝙋𝙇𝙄𝙉𝙀</span>,<br>
+𝘤𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘵 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘦,<br>
+𝘤𝘭𝘦𝘢𝘳 𝘵𝘩𝘪𝘯𝘬𝘪𝘯𝘨 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴 𝘪𝘮𝘱𝘳𝘰𝘷𝘦𝘮𝘦𝘯𝘵.<br><br>
+<span style="font-weight: bold; font-size: 1.3em; color:#FF0000;">𝙏𝙀𝘼𝙈𝙒𝙊𝙍𝙆</span>,<br>
+𝘴𝘩𝘢𝘳𝘪𝘯𝘨 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦,<br>
+𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘯𝘨 𝘤𝘭𝘦𝘢𝘳𝘭𝘺 𝘢𝘯𝘥 𝘵𝘢𝘬𝘪𝘯𝘨 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
 <br><br>
 
 
@@ -649,30 +644,44 @@ Psychology Degree:
 </p>
 
 <details>
-<summary> READY FOR DEPLOYMENT_ </summary>
+<summary> PROFILE SNAPSHOT_ </summary>
 
 <div align="left">
 
 ```python
 
-class CyberOperative:
+class CybersecurityProfile:
+    """A concise snapshot of my professional and technical focus."""
+
     def __init__(self):
-        self.codename = "tzayadet"
+        self.handle = "tzayadet"
         self.status = "ACTIVE"
-        self.specialization = ["Cybersecurity", "Behavioral Analysis", "Psychology"]
-        self.commitment_level = 100
-        self.training_focus = ["Cybersecurity Operations", "Penetration Testing", "Python Coding", "Bash Scripting"]
-        
-    def mission_status(self):
+        self.focus_areas = [
+            "Cybersecurity governance, risk and compliance",
+            "Security assessment and penetration testing labs",
+            "Python, Bash and PowerShell automation",
+            "Threat intelligence and OSINT",
+            "Systems, networks and cloud security",
+        ]
+        self.background = [
+            "Systems administration",
+            "Cybersecurity",
+            "Psychology and human factors",
+        ]
+        self.working_approach = "Evidence-driven, methodical and collaborative"
+
+    def summary(self):
         return {
-            "ready_for_deployment": True,
-            "learning_mode": "INTENSIVE",
-            "collaboration": "OPEN",
-            "next_objective": "Cybersecurity Mastery"
+            "profile": self.handle,
+            "status": self.status,
+            "focus_areas": self.focus_areas,
+            "background": self.background,
+            "approach": self.working_approach,
         }
 
-operative = CyberOperative()
-print("🛡tzayadet READY FOR DIGITAL WARFARE")
+
+profile = CybersecurityProfile()
+print(profile.summary())
 ```
 
   </div>
@@ -694,9 +703,9 @@ print("🛡tzayadet READY FOR DIGITAL WARFARE")
 
 <br>
 
-**— END OF PUBLIC DOSSIER** 
+**— END OF PROFILE —** 
 
-— Further details available on a need to know basis.
+— Selected projects, practical work and technical notes are available across the repositories.
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
