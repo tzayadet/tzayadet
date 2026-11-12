@@ -240,10 +240,6 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="ENS Implementation Terminal"/>
 <p align="center"><b>ENS IMPLEMENTATION TERMINAL</b><br/><sub>Practical ENS implementation workflow covering scope, categorisation, risk analysis, measures, Statement of Applicability and compliance follow-up. Local browser storage with backup/export support.</sub><br/><sub>PRIVATE REPOSITORY · DEMO NOT PUBLIC</sub></p>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/tzayadet/rosetta_multinorma"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/ens-terminal.svg" width="100%" alt="Rosetta Multinorma"/></a>
-<p align="center"><b>ROSETTA MULTINORMA</b><br/><sub>Multinorm compliance mapping for ENS, ISO/IEC 27001, NIS2 and ISO/IEC 42001. Fork of the original project by heindall92.</sub><br/><a href="https://heindall92.github.io/rosetta_multinorma/">LIVE DEMO · UPSTREAM</a> · <a href="https://github.com/tzayadet/rosetta_multinorma">FORK</a></p>
-</td>
 </tr>
 </table>
 
@@ -288,16 +284,6 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <td width="50%" valign="top"></td>
 </tr>
 </table>
-
-### RESEARCH & COMMUNITY REPOSITORIES
-
-<p align="center"><sub>Forks and external reference projects are identified separately from original implementations.</sub></p>
-
-- [Malware Research Hub](https://github.com/tzayadet/Malware-Research-Hub) · Forked research catalogue and local Flask interface. Handle samples only in isolated lab environments.
-- [Claude OSINT](https://github.com/tzayadet/Claude-OSINT) · Fork of an OSINT skills collection. Original author: [elementalsouls](https://github.com/elementalsouls).
-- [Cybersecurity Projects](https://github.com/tzayadet/Cybersecurity-Projects) · Forked learning roadmap and project collection. Original author: [CarterPerez-dev](https://github.com/CarterPerez-dev).
-- [PayloadsAllTheThings](https://github.com/tzayadet/PayloadsAllTheThings) · Fork of the reference repository by [swisskyrepo](https://github.com/swisskyrepo).
-- [Security 101](https://github.com/tzayadet/Security-101) · Fork of Microsoft's security fundamentals learning material.
 
 ### TRAINING, CTF & ACADEMIC WORK
 
