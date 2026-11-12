@@ -225,7 +225,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/GameTranslator"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/game-translator.svg" width="88%" alt="Game Translator"/></a></p>
-<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python game-localization toolkit for structured dialogue files, offline translation, dry-run previews, backup/restore and preservation of existing language files.</sub><br/><a href="https://github.com/tzayadet/GameTranslator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/GameTranslator">SOURCE</a> · <sub>PAGES SETUP REQUIRED</sub></p>
+<p align="center"><b>GAME TRANSLATOR</b><br/><sub>Python game-localization toolkit for structured dialogue files, offline translation, dry-run previews, backup/restore and preservation of existing language files.</sub><br/><a href="https://github.com/tzayadet/GameTranslator/blob/main/docs/index.html">SHOWCASE SOURCE</a> · <a href="https://github.com/tzayadet/GameTranslator">SOURCE</a> · <sub>PAGES ACTIVATION PENDING</sub></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
@@ -236,9 +236,9 @@ Projects focused on building applications, interfaces, utilities and automation 
 - [Development project index](https://github.com/tzayadet/Desarrollo) · Directory of standalone programming projects and their demos; historical copies are archival only.
 - [Python Projects](https://github.com/tzayadet/Python) · Python utilities, desktop applications and automation. [Project showcase](https://tzayadet.github.io/Python/) · Includes the [document comparator](https://github.com/tzayadet/Python/blob/main/comparador_documentos.py) and [Python-to-EXE GUI](https://github.com/tzayadet/Python/blob/main/python_to_exe_gui.py).
 - [Java Projects](https://github.com/tzayadet/Java) · Java programming, object-oriented programming and [DAM coursework](https://github.com/tzayadet/Java/tree/main/DAM). [Project showcase](https://tzayadet.github.io/Java/).
-- [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice. [Showcase source](https://github.com/tzayadet/SQL-Basics/blob/main/docs/index.html) · [Police Department exercises](https://github.com/tzayadet/SQL-Police-Department) · [Lost at SQL solutions](https://github.com/tzayadet/SQL-Lost-at-SQL).
+- [SQL Practice](https://github.com/tzayadet/SQL-Basics) · SQL fundamentals and query practice. [Showcase source](https://github.com/tzayadet/SQL-Basics/blob/main/docs/index.html) · <sub>PAGES ACTIVATION PENDING</sub> · [Police Department exercises](https://github.com/tzayadet/SQL-Police-Department) · [Lost at SQL solutions](https://github.com/tzayadet/SQL-Lost-at-SQL).
 - [Codewars](https://github.com/tzayadet/Codewars) · Programming kata solutions. [Solution showcase](https://tzayadet.github.io/Codewars/).
-- [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice. [Showcase source](https://github.com/tzayadet/Bash-Linux/blob/main/docs/index.html).
+- [Bash / Linux](https://github.com/tzayadet/Bash-Linux) · Shell scripting and Linux practice. [Showcase source](https://github.com/tzayadet/Bash-Linux/blob/main/docs/index.html) · <sub>PAGES ACTIVATION PENDING</sub>.
 - [Python to EXE Converter](https://github.com/tzayadet/Shell-Batch) · Windows Batch utility for packaging Python scripts with PyInstaller. [Showcase source](https://github.com/tzayadet/Shell-Batch/blob/main/docs/index.html).
 - [Web Audio & Interactive Experiments](https://github.com/tzayadet/JavaScript) · Browser-based audio synthesis, interfaces and JavaScript experiments.
 
@@ -327,8 +327,8 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 
 ### TRAINING, CTF & ACADEMIC WORK
 
-- [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups. [Showcase source](https://github.com/tzayadet/CTF/blob/main/docs/index.html).
-- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests. [SHOWCASE SOURCE](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL/blob/main/docs/index.html) · <sub>PAGES SETUP REQUIRED</sub>.
+- [CTF Write-ups & Labs](https://github.com/tzayadet/CTF) · Practical notes and challenge write-ups. [Showcase source](https://github.com/tzayadet/CTF/blob/main/docs/index.html) · <sub>PAGES ACTIVATION PENDING</sub>.
+- [Glass Sentinel · Threat-Hunting Lab](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL) · Python detection exercise correlating failed logins with unapproved data exports; includes synthetic data and automated tests. [SHOWCASE SOURCE](https://github.com/tzayadet/Threat-Hunting-_GLASS-SENTINEL/blob/main/docs/index.html) · <sub>PAGES ACTIVATION PENDING</sub>.
 - [IaC Secret Scanner](https://github.com/tzayadet/Escaner-IaC) · Heuristic scanner for exposed credentials and private keys in infrastructure and configuration files. [SHOWCASE SOURCE](https://github.com/tzayadet/Escaner-IaC/blob/main/docs/index.html).
 - [JSONL Detection Engine](https://github.com/tzayadet/Pipeline-de-Logs) · YAML/regex rules applied to JSONL events; a compact detection-engineering prototype.
 - [SQL Police Department](https://github.com/tzayadet/SQL-Police-Department) · Personal SQL query solutions covering filtering, ordering, aggregation and result limits.
