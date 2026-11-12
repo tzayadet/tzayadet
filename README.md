@@ -120,7 +120,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://tzayadet.github.io/PassGen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pass-generator.svg" width="88%" alt="Pass Generator"/></a></p>
-<p align="center"><b>PASS://GENERATOR</b><br/><sub>Client-side password generator using the Web Crypto API. Configurable length, character pools, ambiguity exclusions, bulk generation, clipboard copy and TXT export.</sub><br/><a href="https://tzayadet.github.io/PassGen/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/PassGen">SOURCE</a></p>
+<p align="center"><b>PASSWORD GENERATOR</b><br/><sub>Client-side password generator using the Web Crypto API. Configurable length, character pools, ambiguity exclusions, bulk generation, clipboard copy and TXT export.</sub><br/><a href="https://tzayadet.github.io/PassGen/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/PassGen">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><a href="https://tzayadet.github.io/CV_Cyberplayer/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cv-cyberplayer.svg" width="88%" alt="CV Cyberplayer"/></a></p>
@@ -130,11 +130,11 @@ Projects focused on building applications, interfaces, utilities and automation 
 <tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://tzayadet.github.io/HTML2PDF/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/html-to-pdf.svg" width="88%" alt="HTML to PDF"/></a></p>
-<p align="center"><b>HTML → PDF · BATCH CONVERTER</b><br/><sub>Browser-based document converter with batch HTML, Markdown, file and URL input, continuous-page layouts, watermarks, merging and selectable/searchable PDFs. Imported HTML renders in script-disabled sandboxed frames.</sub><br/><a href="https://tzayadet.github.io/HTML2PDF/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/HTML2PDF">SOURCE</a></p>
+<p align="center"><b>HTML, MARKDOWN &amp; FILES TO PDF</b><br/><sub>Browser-based document converter with batch HTML, Markdown, file and URL input, continuous-page layouts, watermarks, merging and selectable/searchable PDFs. Imported HTML renders in script-disabled sandboxed frames.</sub><br/><a href="https://tzayadet.github.io/HTML2PDF/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/HTML2PDF">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
 <p align="center"><a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/pet-gen.svg" width="88%" alt="Pet Widget Generator"/></a></p>
-<p align="center"><b>PET WIDGET GENERATOR</b><br/><sub>Configurable virtual companion with care mechanics, progression, achievements and exportable HTML widget.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
+<p align="center"><b>VIRTUAL PET WIDGET BUILDER</b><br/><sub>Configurable virtual companion with care mechanics, progression, achievements and exportable HTML widget.</sub><br/><a href="https://tzayadet.github.io/Pet-Gen/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Pet-Gen">SOURCE</a></p>
 </td>
 </tr>
 <tr>
