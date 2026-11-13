@@ -11,7 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2200&pause=900&center=true&vCenter=true&width=800&color=00FF41&lines=VERITAS+EX+BELLUM;" alt="Profile title"/>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="300" alt=""/></p>
+<p align="center">
+  <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="220" alt=""/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/tzayadet"><img src="https://img.shields.io/badge/GITHUB-PROJECTS-101010?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
@@ -197,8 +199,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="88%" alt="CyberSend"/></a></p>
 <p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling prototype with REST API and WebSocket updates. WhatsApp delivery is not implemented; it generates manual wa.me links.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p>
-</td>
-</tr>
+</td></tr>
 </table>
 ### DESKTOP APPLICATIONS & AUTOMATION
 
@@ -397,8 +398,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
   <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -544,6 +544,8 @@ print(profile.summary())
 
 ---
 
+<p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
 </p>
@@ -561,9 +563,4 @@ print(profile.summary())
 </p>
 
 <!-- Original artwork retained and redistributed: n1.gif in ABOUT, kalilinux.gif in SECURITY & OFFENSIVE. -->
-<!-- Original Snake artwork, restored as a small footer element. -->
-<p align="center">
-  <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/wr.gif" width="220" alt=""/></a>
-</p>
-
 <!-- No unfinished bootcamp, invented operational status, or generic player labels. -->
