@@ -11,6 +11,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2200&pause=900&center=true&vCenter=true&width=800&color=00FF41&lines=VERITAS+EX+BELLUM;" alt="Profile title"/>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="300" alt=""/></p>
+
 <p align="center">
   <a href="https://github.com/tzayadet"><img src="https://img.shields.io/badge/GITHUB-PROJECTS-101010?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/mjmal/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -198,7 +200,6 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 </tr>
 </table>
-
 ### DESKTOP APPLICATIONS & AUTOMATION
 
 <table>
@@ -397,8 +398,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -486,7 +486,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 <table>
   <tr>
     <td width="40%" valign="middle">
-      <p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/faith.gif" width="100%" alt="My Way original artwork"/></p>
+      <p align="center"><a href="https://youtu.be/F9_2KQc8meU?si=8JPPipBdk31hvx1t"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/faith.gif" width="100%" alt="My Way original artwork"/></a></p>
     </td>
     <td width="60%" valign="middle">
       <p><b>𝘾𝙐𝙍𝙄𝙊𝙎𝙄𝙏𝙔</b><br/><i>asking better questions,<br/>and understanding how systems behave.</i></p>
@@ -543,8 +543,6 @@ print(profile.summary())
 </details>
 
 ---
-
-<p align="center"><img src="https://raw.githubusercontent.com/tzayadet/profile/main/mgs.gif" width="250" alt=""/></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what%27s+Ventured+I+will+Gain_" alt="Closing motto"/>
