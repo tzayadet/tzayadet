@@ -197,8 +197,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <p align="center"><b>DIGIVICE</b><br/><sub>Interactive digital-pet interface inspired by handheld virtual-pet devices.</sub><br/><a href="https://tzayadet.github.io/Digimon/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<p align="center"><a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="88%" alt="CyberSend"/></a></p><p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling prototype with REST API and WebSocket updates. WhatsApp delivery is not implemented; it generates manual wa.me links.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p></td></tr></table>
-### DESKTOP APPLICATIONS & AUTOMATION
+<p align="center"><a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="88%" alt="CyberSend"/></a></p><p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling prototype with REST API and WebSocket updates. WhatsApp delivery is not implemented; it generates manual wa.me links.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p></td></tr></table>### DESKTOP APPLICATIONS & AUTOMATION
 
 <table>
 <tr>
@@ -397,8 +396,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
   <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></p>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="58" alt="Python"/>
@@ -474,7 +472,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
 ## 『 MY WAY 』
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" alt="My Way motto"/>
+  <a href="https://youtu.be/JYS_pOhiHEA?si=0qsuTaiakxEuORXi"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" alt="My Way motto"/></a>
 </p>
 
 <p align="center">▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼</p>
