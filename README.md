@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/header-banner.svg" width="100%" alt="Tzayadet profile banner"/>
+  <a href="https://youtu.be/FYrVJ2Dp4X0?si=gSedQ1BfFPQ8w9Jy"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/header-banner.svg" width="100%" alt="Tzayadet profile banner"/></a>
 </p>
 
 <p align="center">
@@ -198,7 +198,6 @@ Projects focused on building applications, interfaces, utilities and automation 
 </td>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="88%" alt="CyberSend"/></a></p><p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling prototype with REST API and WebSocket updates. WhatsApp delivery is not implemented; it generates manual wa.me links.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p></td></tr></table>### DESKTOP APPLICATIONS & AUTOMATION
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -397,7 +396,6 @@ Projects focused on security assessment, intelligence, defensive engineering, co
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="58" alt="Python"/>
   &nbsp;&nbsp;
