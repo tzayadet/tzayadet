@@ -197,8 +197,7 @@ Projects focused on building applications, interfaces, utilities and automation 
 <p align="center"><b>DIGIVICE</b><br/><sub>Interactive digital-pet interface inspired by handheld virtual-pet devices.</sub><br/><a href="https://tzayadet.github.io/Digimon/">LIVE DEMO</a> · <a href="https://github.com/tzayadet/Digimon">SOURCE</a></p>
 </td>
 <td width="50%" valign="top">
-<p align="center"><a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="88%" alt="CyberSend"/></a></p><p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling prototype with REST API and WebSocket updates. WhatsApp delivery is not implemented; it generates manual wa.me links.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p></td></tr>
-</table>
+<p align="center"><a href="https://github.com/tzayadet/Cybersend-WhatsCron"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/covers/cybersend.svg" width="88%" alt="CyberSend"/></a></p><p align="center"><b>CYBERSEND · WHATSCRON</b><br/><sub>Java/Spring Boot scheduling prototype with REST API and WebSocket updates. WhatsApp delivery is not implemented; it generates manual wa.me links.</sub><br/><a href="https://github.com/tzayadet/Cybersend-WhatsCron">SOURCE</a></p></td></tr></table>
 ### DESKTOP APPLICATIONS & AUTOMATION
 
 <table>
@@ -363,6 +362,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
     </td>
     <td width="33%" valign="top">
       <p align="center"><b>CYBERSECURITY · NETWORK & CLOUD</b></p>
+      <p align="center"><a href="https://giphy.com/gifs/1-0-01-f74WQIhbzBKAusL2v1"><img src="https://media.giphy.com/media/f74WQIhbzBKAusL2v1/giphy.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Animated data centre and cloud network"/></a></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
         <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square"/>
@@ -376,6 +376,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
     </td>
     <td width="33%" valign="top">
       <p align="center"><b>CYBERSECURITY · GRC & INTELLIGENCE</b></p>
+      <p align="center"><a href="https://giphy.com/gifs/scan-scanning-concentric-3S59TcvgxZK8kA45mu"><img src="https://media.giphy.com/media/3S59TcvgxZK8kA45mu/giphy.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Animated intelligence scanning visualization"/></a></p>
       <p align="center">
         <img src="https://img.shields.io/badge/ISO_27001-1F6FEB?style=flat-square"/>
         <img src="https://img.shields.io/badge/ENS-0B7A75?style=flat-square"/>
@@ -397,8 +398,7 @@ Projects focused on security assessment, intelligence, defensive engineering, co
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="58" alt="Python"/>
