@@ -54,10 +54,6 @@
 
 ## 『 AREAS OF INTEREST 』
 
-<p align="center">
-  <a href="https://youtu.be/FYrVJ2Dp4X0?si=gSedQ1BfFPQ8w9Jy"><img src="https://giffiles.alphacoders.com/137/13779.gif" width="300" alt="YoruichiFun"/></a>
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -90,6 +86,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://youtu.be/FYrVJ2Dp4X0?si=gSedQ1BfFPQ8w9Jy"><img src="https://giffiles.alphacoders.com/137/13779.gif" width="300" alt="YoruichiFun"/></a>
+</p>
 
 ---
 
