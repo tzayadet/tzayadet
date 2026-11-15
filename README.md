@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="https://youtu.be/FYrVJ2Dp4X0?si=gSedQ1BfFPQ8w9Jy"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/header-banner.svg" width="100%" alt="Tzayadet profile banner"/></a>
+  <a href="https://youtu.be/sr2wB9s3q4o?si=RC6ZZ1_PBcasV4TZ"><img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/header-banner.svg" width="100%" alt="Tzayadet profile banner"/></a>
 </p>
 
 <p align="center">
@@ -53,6 +53,10 @@
 ---
 
 ## 『 AREAS OF INTEREST 』
+
+<p align="center">
+  <a href="https://youtu.be/FYrVJ2Dp4X0?si=gSedQ1BfFPQ8w9Jy"><img src="https://giffiles.alphacoders.com/137/13779.gif" width="100%" alt="Tzayadet profile banner"/></a>
+</p>
 
 <table>
   <tr>
