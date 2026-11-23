@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2200&pause=900&center=true&vCenter=true&width=800&color=00FF41&lines=VERITAS+EX+BELLUM;" alt="Profile title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2200&pause=1200&center=true&vCenter=true&width=1000&color=00FF41&lines=VERITAS+EX+BELLUM;At+least+I+know+what+I'm+fighting+for+while+you're+fighting+to+be+known" alt="Profile title"/>
 </p>
 
 <p align="center">
