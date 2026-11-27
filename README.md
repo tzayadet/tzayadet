@@ -19,21 +19,21 @@
   <a href="https://github.com/tzayadet"><img src="https://img.shields.io/badge/GITHUB-PROJECTS-101010?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/mjmal/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.codewars.com/users/tzayadet"><img src="https://img.shields.io/badge/CODEWARS-KATAS-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
-  <a href="https://github.com/tzayadet/CTF"><img src="https://img.shields.io/badge/CTF-WRITEUPS-7B2CBF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF"/></a>
+  <a href="https://tzayadet.github.io/CTF/"><img src="https://img.shields.io/badge/CTF-Arena-BE9BFC?style=for-the-badge&amp;labelColor=161322" alt="CTF Arena"/></a>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tzayadet/tzayadet/main/assets/visual/divider.svg" width="100%" alt="Animated green divider"/>
 </p>
 
-## 『 ABOUT 』
+## Perfil
 
 <table>
   <tr>
     <td width="78%" valign="middle">
-      <p><b>CYBERSECURITY · PROGRAMMING · SYSTEMS</b></p>
-      <p>Cybersecurity professional with a background in systems administration, security governance and technical operations. I work across security assurance, offensive security, cyber intelligence and practical security engineering, combining structured risk analysis with hands-on technical work.</p>
-      <p>Python is a central part of my work: I build utilities, automate analysis and develop tools for security testing, OSINT and data processing. I also work with Java, JavaScript/TypeScript, SQL, Linux and Windows environments. My background in psychology adds a human-factors perspective to security, risk and decision-making.</p>
+      <p><b>Ciberseguridad · Programación · Sistemas</b></p>
+      <p>Trabajo en ciberseguridad, con foco en seguridad ofensiva, inteligencia de amenazas y seguridad técnica. Mi experiencia en administración de sistemas y análisis de riesgos me ayuda a documentar los hallazgos y su impacto.</p>
+      <p>Uso Python para automatizar análisis, desarrollar utilidades y trabajar con datos de seguridad y OSINT. También trabajo con Java, JavaScript, TypeScript, SQL, Linux y Windows. Mi formación en psicología aporta contexto al análisis del factor humano.</p>
     </td>
     <td width="22%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/tzayadet/profile/main/n1.gif" width="138" alt=""/>
