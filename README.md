@@ -32,7 +32,7 @@
   <tr>
     <td width="78%" valign="middle">
       <p><b>Ciberseguridad · Programación · Sistemas</b></p>
-      <p>Trabajo en ciberseguridad, con foco en seguridad ofensiva, inteligencia de amenazas y seguridad técnica. Mi experiencia en administración de sistemas y análisis de riesgos me ayuda a documentar los hallazgos y su impacto.</p>
+      <p>Trabajo en ciberseguridad, con orientación hacia la seguridad ofensiva, inteligencia de amenazas y seguridad técnica. Mi experiencia en administración de sistemas y análisis de riesgos me ayuda a documentar los hallazgos y su impacto.</p>
       <p>Uso Python para automatizar análisis, desarrollar utilidades y trabajar con datos de seguridad y OSINT. También trabajo con Java, JavaScript, TypeScript, SQL, Linux y Windows. Mi formación en psicología aporta contexto al análisis del factor humano.</p>
     </td>
     <td width="22%" align="center" valign="middle">
